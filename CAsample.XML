@@ -1,0 +1,1644 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="10870926">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>EVIDENCE</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Standing Committee on Indigenous and Northern Affairs</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 014</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">43rd PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Friday, June 5, 2020</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Le vendredi 5 juin 2020</ExtractedItem>
+    <ExtractedItem Name="Institution">Standing Committee on Indigenous and Northern Affairs</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Recorded by Electronic Apparatus]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">EVIDENCE</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">June 5, 2020</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMBER 014</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 014</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 014</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">14</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">05</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">06</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2020</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2020/06/05 11:00:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent des affaires autochtones et du Nord</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on Indigenous and Northern Affairs</ExtractedItem>
+    <ExtractedItem Name="Acronyme">INAN</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Chair</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Mr. Bob Bratina</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">43</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="11" Mn="00">(1100)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10870929">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair (Mr. Bob Bratina (Hamilton East—Stoney Creek, Lib.))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198344"> We will get under way now as I call this meeting to order.</ParaText>
+              <ParaText id="6198345">Welcome to meeting number 14 of the House of Commons Standing Committee on Indigenous and Northern Affairs. </ParaText>
+              <ParaText id="6198346">I'd like to start by acknowledging that I am joining you today from the traditional territory of the Haudenosaunee, Anishinabe and Chonnonton nations.</ParaText>
+              <ParaText id="6198347">Pursuant to the order of reference of April 20, 2020, the committee is meeting for the purpose of receiving evidence concerning matters related to the government's response to the COVID-19 epidemic. </ParaText>
+              <ParaText id="6198348">Today's meeting is taking place by video conference, and the proceedings will be made available on the House of Commons website. </ParaText>
+              <ParaText id="6198349">During this meeting, the webcast will always show the person speaking rather than the entirety of the committee.</ParaText>
+              <ParaText id="6198350">In order to facilitate the work of our interpreters and to ensure an orderly meeting, I'd like to outline a few rules to follow. Interpretation in this video conference will work very much like a regular committee meeting.</ParaText>
+              <ParaText id="6198351">You have the choice at the bottom of your screen of “Floor”, “English” or “French”. In order to resolve the sound issues raised in recent virtual committee meetings and ensure clear audio transmission, we ask those who wish to speak during the meetings to set their interpretation language as follows: If speaking in English, please ensure you are on the English channel. If speaking in French, please ensure you are on the French channel. As you are speaking, if you plan to alternate from one language to the other, you'll need to also switch the interpretation channel so that it aligns with the language you are speaking. You may want to allow for a short pause when switching languages.</ParaText>
+              <ParaText id="6198352">Before speaking, please wait until I recognize you by name. When you are ready to speak, you can either click on the microphone icon to activate your mike, or you can hold down the space bar while you are speaking. When you release the bar, your mike will mute itself, just like a walkie-talkie.</ParaText>
+              <ParaText id="6198353">As a reminder, all comments by members and witnesses should be addressed through the chair.</ParaText>
+              <ParaText id="6198354">Should members need to request the floor outside of their designated time for questions, they should activate their microphone and state that they have a point of order.</ParaText>
+              <ParaText id="6198355">If a member wishes to intervene on a point of order that has been raised by another member, the “Raise Hand” function should be used. This will signal to the chair your interest to speak. In order to do so, click on “Participants” at the bottom of the screen to the left of the language globe, and when the list pops up, you will see next to your name that you can click “Raise Hand”.</ParaText>
+              <ParaText id="6198356">When speaking, please speak slowly and clearly. When you are not speaking, your mic should be on mute.</ParaText>
+              <ParaText id="6198357">The use of headsets is strongly encouraged. If you have earbuds with a microphone, please hold the microphone near your mouth when you are speaking to boost the sound quality for our interpreters.</ParaText>
+              <ParaText id="6198358">Should any technical challenges arise, for example in relation to interpretation, or if you're accidentally disconnected, please advise the chair or clerk immediately, and the technical team will work to resolve the issue. Please note that we may need to suspend during these times as we must ensure that all members are able to participate fully.</ParaText>
+              <ParaText id="6198359">Before we get started, would everyone click on their screen in the top right-hand corner and ensure that you are on “Gallery View”. With this view, you should be able to see all the participants in a grid view. That will ensure all video participants can see one another.</ParaText>
+              <ParaText id="6198360">During this meeting, we'll follow the same rules as usually apply to opening statements and the rounds for questioning of witnesses during our regular meetings. Each witness will have up to five minutes for an opening statement, followed by the usual round of questioning from our members.</ParaText>
+              <ParaText id="6198361">With that, it is time to welcome the witnesses for our first panel. </ParaText>
+              <ParaText id="6198362">As an independent witness, we have Jean Paul Gladu.</ParaText>
+              <ParaText id="6198363">From the First Nations Financial Management Board, we have Harold Calla, executive chair.</ParaText>
+              <ParaText id="6198364">From the First Nations Tax Commission, we have Manny Jules, chief commissioner.</ParaText>
+              <ParaText id="6198365">From the Inuit Business Council, we have Kirt Ejesiak, representative.</ParaText>
+              <ParaText id="6198366">Mr. Gladu, welcome. You have five minutes to begin your opening remarks. Please go ahead. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="05">(1105)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10870958">
+            <PersonSpeaking>
+              <Affiliation DbId="262700" Type="28">Mr. Jean Paul Gladu (As an Individual)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198367">Thank you so much.</ParaText>
+              <ParaText id="6198368">
+                <I>Bonjour</I>, everybody. </ParaText>
+              <ParaText id="6198369">Thank you to the chair and all the distinguished committee members for inviting me to address you today.</ParaText>
+              <ParaText id="6198370">It's not in my script, but a big hello to my friends Manny and Harold. It's great to see you.</ParaText>
+              <ParaText id="6198371">I'm speaking to you from the traditional territory of the Mississaugas of the Credit, as well as the Haudenosaunee people. I, myself, am Anishinabe from the Thunder Bay region, Sand Point First Nation. As mentioned, I'm in the process of launching Mokwateh, which is my consulting firm. Mokwateh is my Anishinabe name, which means “bear heart”.</ParaText>
+              <ParaText id="6198372">As COVID-19 continues to have many impacts around the globe, I am personally witnessing the business impact. I resigned as the president and CEO of the Canadian Council for Aboriginal Business to head to Fort McMurray to take on the role of CEO at the Bouchier Group, which at the time was one of Canada's largest private sector first nations companies. It was over 1,000-staff strong, of which 43% were indigenous. In March, the company, in response to the current economic climate, was required to reduce to nearly half its workforce, including senior executives. The Bouchier Group also reduced its business services from three to two.</ParaText>
+              <ParaText id="6198373">The reason I share this story with you is that there are numerous indigenous businesses of significant scale and capacity that depend on the oil and gas sector in Alberta, British Columbia and Saskatchewan that have also been significantly impacted. Thousands of indigenous people have been laid off, unfortunately. However, there is hope, hope to bring some of those impacted workers back to the field, working for their community economic development corporations and other indigenous companies. </ParaText>
+              <ParaText id="6198374">The Government of Canada recently transferred $1 billion in grants under the site rehabilitation program. Unfortunately, there was no mention of targeting some of those resources to the highly capable indigenous companies, unless, of course, the wells fall within a reserve, but I understand that's a small fraction of the work to be done. We can and must do better.</ParaText>
+              <ParaText id="6198375">One of my proudest moments when I was at the helm of the CCAB was all the research and advocacy work that we did in procurement and program development to help support the government's commitment of a 5% indigenous business target within the federal supply chain. I know that the new CEO, Tabatha, and her team are still working hard on this file. </ParaText>
+              <ParaText id="6198376">My friends, here is the “can and must do better” part.</ParaText>
+              <ParaText id="6198377">When it comes to the $1-billion transfer, this is simply a missed opportunity for the federal government to add to the bottom line of its own 5% target. The Alberta and federal governments must circle around on the distribution of these resources to ensure that as many indigenous people as possible can get back to work. A minimum target of a 5% spend in the oilfield rehabilitation program—better known as the orphan wells—must be set. It's not only the right thing to do, it also just makes business sense.</ParaText>
+              <ParaText id="6198378">Shifting gears, I would like to commend the current commitment to the National Aboriginal Capital Corporations Association to support its network of aboriginal financial institutions, which, of course, will ultimately support our indigenous entrepreneurs. This was overdue. As I have described, there is another echelon of first nations, Métis and Inuit businesses with larger balance sheets that could effectively use a larger fund to support them through these difficult times to help ensure that they emerge ready to continue contributing to our economy.</ParaText>
+              <ParaText id="6198379">My friends, there is so much uncertainty when it comes to infrastructure projects in this country, particularly linear projects. All I have to say is Wet'suwet'en. I believe the federal government has an important role in empowering an indigenous economy through the establishment of an indigenous infrastructure fund. There are numerous examples in this country where indigenous economic development corporations have raised hundreds of millions of dollars on their own to become equity partners in major projects. A federal backstop similar to Alberta's indigenous opportunities fund would do much for the economy and, just as importantly, the certainty of our country.</ParaText>
+              <ParaText id="6198380">
+                <I>Meegwetch</I>.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="10">(1110)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10870979">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198381">Thanks very much, Mr. Gladu. You were well on time. I appreciate that.</ParaText>
+              <ParaText id="6198382">Now I'd like to welcome, from the First Nations Financial Management Board, the executive chair, Harold Calla.</ParaText>
+              <ParaText id="6198383">Please go ahead for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10870983">
+            <PersonSpeaking>
+              <Affiliation DbId="209680" Type="28">Mr. Harold Calla (Executive Chair, First Nations Financial Management Board)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198384"> Thank you for the opportunity. </ParaText>
+              <ParaText id="6198385">First of all, I want to thank all of you for your efforts during this crisis. The COVID-19 pandemic is a worldwide challenge that is going to create something we define as the “new normal”. The roles of government, the private sector and international relationships, both at a political level and an economic level, are under a microscope.</ParaText>
+              <ParaText id="6198386">Let us take this opportunity to recognize that this is an opportunity for Canada as a federation to reinvent itself, to move beyond the status quo and create a more inclusive, stable and representative society, a society that recognizes that a pandemic has existed in our communities since contact and not just with the COVID-19 crisis, a society that recognizes this pandemic existed and will not end until there are systemic changes in our relationship with Canada. </ParaText>
+              <ParaText id="6198387">We are here today to discuss how we can support the recovery from the effects of COVID-19 while moving forward with a plan to bring life to UNDRIP. I hope we come to understand how linked these two matters are. </ParaText>
+              <ParaText id="6198388">I will remind you that the Fiscal Management Act was passed in 2005, with all-party support, during a time when Canada had a minority government. It is designed as optional legislation, with indigenous governments declaring their interest to participate. The optional approach, I believe, does respond to the spirit and intent of UNDRIP. We agreed at the time the legislation was passed that it was time not only to focus on social issues, but also to focus on indigenous economic inclusion and recovery.</ParaText>
+              <ParaText id="6198389">In some of the materials we have provided today—and some that we unfortunately couldn't get translated but will send to you—you'll find a letter that was sent by the First Nations Tax Commission, the First Nations Finance Authority and the Financial Management Board to the ministers of Finance, Indigenous Services and Crown-Indigenous Relations. It lays out a series of opportunities for Canada to consider that will not only respond to indigenous community COVID-19 needs, but also see our communities contribute to the overall recovery efforts. </ParaText>
+              <ParaText id="6198390">The Financial Management Board has recently undertaken some analysis of the overall economic activity that shows what our communities currently contribute to Canada's gross national product. You have been provided with this analysis in French and English. For the 75 communities that are clients of the FMA, which we picked at random, you may be surprised to learn that the contribution annually is in the billions. </ParaText>
+              <ParaText id="6198391">It is always best when we consider decisions where accurate data is available. We hope that our suggestion that a first nations statistical institute be established under the FMA, as it once was, is accepted. </ParaText>
+              <ParaText id="6198392">There is an overwhelming infrastructure deficit in our communities. This deficit has not been and will not be addressed under the current government policy and approaches. We are proposing the creation of an optional first nations infrastructure institute that can support communities in the design, development, financing and maintenance of infrastructure. We propose a model that includes public-private partnerships that can design, build, operate and create economies of scale through aggregation at a regional level.</ParaText>
+              <ParaText id="6198393">Over the last 20 years, I have observed that governments like to invest in infrastructure as a vehicle to support economic recovery. Indigenous communities could benefit from being included in these initiatives.</ParaText>
+              <ParaText id="6198394">You have also been provided with a paper, in English, from B.C. first nations on what they see as a foundational building block to a new fiscal relationship. The cornerstone of this is increasing the fiscal powers available to become more self-reliant and to be able to address their own community needs. </ParaText>
+              <ParaText id="6198395">Communities that have opted into the FMA are already doing some of this, but we need a seat at the fiscal table with Canada and the provinces. We have demonstrated, through the Fiscal Management Act framework, that we have the capacity to support communities and effectively manage increased fiscal powers. Those communities are using these to gain access to capital markets and secure private investment in our communities to meet the challenges we are facing as a result of the pandemic, including COVID-19. </ParaText>
+              <ParaText id="6198396">We need to support building capacity in our indigenous governments, and FMB can help with financial administrative governance through our financial management system certification. This system was developed by the Financial Management Board, which aligned its approach with the international control framework known as COSO, a framework that was established after the economic and capital markets collapsed in 2008.</ParaText>
+              <ParaText id="6198397">We also believe that an optional shared services platform, as proposed by FMB, would support capacity and create economies of scale that would reduce the cost of and to government of doing business. These investments would support economic recovery and reduce risks, and this would benefit all Canadians. </ParaText>
+              <ParaText id="6198398">Canada is using its fiscal capacity during the COVID-19 pandemic to support Canada and Canadians and making enormous investments not seen in my lifetime. Canada did something similar in 2008. It worked then, and it's going to work again. </ParaText>
+              <Timestamp Hr="11" Mn="15">(1115)</Timestamp>
+              <ParaText id="6198399"> Let us be sure that when history looks back at how we responded to this crisis, history will see that indigenous people and their governments were not left behind. We can and should continue to move forward with rights recognition and reconciliation, and allow these initiatives to contribute to the recovery that we are all looking for.</ParaText>
+              <ParaText id="6198400"> Thank you. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871008">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198401">Thank you.</ParaText>
+              <ParaText id="6198402">Madam Clerk, we're having a technical issue. I'm not understanding how it affects the meeting. Can you please explain?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871010">
+            <PersonSpeaking>
+              <Affiliation DbId="253644" Type="27">The Clerk of the Committee (Ms. Evelyn Lukyniuk)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198403">It has been resolved. The phone lines were reversed. Everything is good now.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871011">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198404">Good. We'll carry on.</ParaText>
+              <ParaText id="6198405">From the First Nations Tax Commission, we have the chief commissioner, Mr. Manny Jules.</ParaText>
+              <ParaText id="6198406">Welcome. Please go ahead for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871013">
+            <PersonSpeaking>
+              <Affiliation DbId="111593" Type="28">Mr. C.T. (Manny) Jules (Chief Commissioner, First Nations Tax Commission)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198407"> Thank you, Mr. Chair.</ParaText>
+              <ParaText id="6198408">Good morning. My name is Manny Jules, chief commissioner of the First Nations Tax Commission, one of three institutions created by the First Nations Fiscal Management Act. I was also chief of the Kamloops Indian Band in British Columbia from 1984 to 2000.</ParaText>
+              <ParaText id="6198409">Thank you for this opportunity to address the Standing Committee on Indigenous and Northern Affairs as part of your study of the government’s response to the COVID-19 pandemic. Today I wish to discuss our proposals to help indigenous economies recover and emerge stronger out of the COVID-19 pandemic. </ParaText>
+              <ParaText id="6198410">The history of indigenous peoples and pandemics has not been good. They have been used as opportunities to reduce our place in Canada and the national economy. My presentation would not be taking place were it not for past pandemics. From first contact to the 1862 epidemic in British Columbia, smallpox created the opportunity for colonization and the creation of Canada. This soon reduced our status to dependants governed by the Indian Act and the Department of Indian Affairs. It provided the opportunity to legislate us out of the federation and the economy, because it was thought that smallpox would ultimately eliminate indigenous peoples.</ParaText>
+              <ParaText id="6198411">Despite these efforts, we were resilient. Secwepemc leaders presented a proposal to then prime minister Sir Wilfrid Laurier in 1910 with many of the same elements I am presenting today. As my ancestors said then, we want to be partners in this land. We want to be like brothers and sisters. We will make each other great and good. In other words, give us the same opportunities as other Canadians and we will contribute to the strength and growth of this federation.</ParaText>
+              <ParaText id="6198412">As it has been for many indigenous leaders, renewing our place in the federation and economy has been my life’s work. This is why we built the First Nations Fiscal Management Act. As the most successful first nation-led legislation, today there are 300 first nations using the FMA. </ParaText>
+              <ParaText id="6198413">Their economies and revenues were growing. They were building more economic infrastructure. Their credit ratings were rising. It was a model to bring us back into the economy and then federation. Then COVID-19 happened—but lessons were learned from previous pandemics, and this time we were ready.</ParaText>
+              <ParaText id="6198414">On March 24 the FMA institutions wrote to the federal government warning of the pending public health, economic and fiscal calamity facing our communities and governments. On April 9 we sent another letter, this time to propose a two-part strategy: first, immediately help impacted first nations replace forgone fiscal revenues so they can maintain services during the emergency phase of the pandemic; and second, implement an indigenous economic recovery strategy using the FMA to enhance the Canadian economic recovery strategy. </ParaText>
+              <ParaText id="6198415">As a short-term measure, we proposed that a first nations tax deferral loan program be established and that first nation debenture payments for this year be made by the federal government. This would help communities replace lost revenues so that they can better meet public health requirements.</ParaText>
+              <ParaText id="6198416">We also presented a four-part indigenous economic recovery strategy: expand the First Nations Fiscal Management Act to include the First Nations Infrastructure Institute, which will certify shovel-ready economic infrastructure projects much faster; monetize existing federal infrastructure transfers so that more infrastructure can be built sooner; expand indigenous fiscal powers to include sales, resource, tobacco, cannabis, excise and income taxes to support greater resilience; and expand the mandates of the FMA institutions so they can provide more statistics, services, support and capacity to all interested indigenous governments and organizations.</ParaText>
+              <ParaText id="6198417">This strategy will provide the foundation for a stronger indigenous investment climate. It provides a framework so that indigenous communities can have the same opportunities to participate in the recovery strategy as other Canadians. We have been working for the past two months with the federal government on this strategy and are hopeful that the necessary legislative changes we have proposed are accepted and presented to Parliament this fall.</ParaText>
+              <ParaText id="6198418">We hope that this committee will continue to support our work and ensure that there are no delays. </ParaText>
+              <ParaText id="6198419">Thank you very much.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="20">(1120)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871041">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198420"> Mr. Jules, thank you so much. You were right on time.</ParaText>
+              <ParaText id="6198421">We'll move to our next speaker, Kirt Ejesiak, a representative from the Inuit Business Council.</ParaText>
+              <ParaText id="6198422">Please go ahead for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871044">
+            <PersonSpeaking>
+              <Affiliation DbId="262701" Type="28">Mr. Kirt Ejesiak (Representative, Inuit Business Council)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198423"> Good morning, Mr. Chairman. Thank you for allowing us the opportunity to speak.</ParaText>
+              <ParaText id="6198424"> My name is Kirt Ejesiak. I'm with the Inuit Business Council of Nunavut. My background is in public policy. I've gone to the Kennedy School at Harvard. I've worked as a chief of staff for the Government of Nunavut at the premier's office. I've worked also at the local level with small organizations to help build capacity. I've run a business for 25 years. My role really is to be the interim director of the new organization, the Inuit Business Council, to address some of the shortfalls in providing assistance to Inuit businesses.</ParaText>
+              <ParaText id="6198425">I'm here today to speak about some of the challenges we've seen and some of the issues that have come up during the COVID crisis: namely, the programs that exist for Canadians, many Inuit businesses are not eligible to receive. One example is the Canada emergency business account that the government has set up to help businesses. These programs unfortunately are not available to many small Inuit businesses.</ParaText>
+              <ParaText id="6198426">What we request is consideration of a northern CEBA program, which would allow the same opportunities for Inuit business owners to access a line of credit that is interest-free until 2021, but we request that the lines of credit be increased to $250,000, really to address some of the unique challenges that we have in the Arctic. What I mean by that is we often have to purchase goods and ship them in the summer season to allow for a year's worth of goods to be sold. We have to take advantage of the short summer season. In essence, we're trying to purchase all our goods for the entire year, hence the request for a large program such as a northern CEBA.</ParaText>
+              <ParaText id="6198427">Second, we encourage governments across the north to purchase goods and services from Inuit-owned businesses. I think the federal government has been very responsive. We commend it for making changes to programs, but we encourage the government to spend locally as much as it can. The current procurement system is not really conducive to this type of crisis. It favours large, long-established companies from outside the north. We request that the government look at providing a unique COVID response to procure services locally.</ParaText>
+              <ParaText id="6198428">Third, I'm speaking today really as a small business owner. We're not a grand organization. It's really small business owners who have banded together to address our specific needs. I've been involved in national organizations for a long time, but I think what's lacking is the supports for small organizations that want to be the voice for, in our case, small Inuit businesses. We would request that the committee recommend support for organizations such as ours, specifically organizations that would allow a seat at the table when crises happen, when discussions are happening related to procurement and related to large megaprojects in our indigenous communities.</ParaText>
+              <ParaText id="6198429">To be specific, for us, we would request funding. I would say $1 million is really our initial ask, if the committee were to recommend support as part of the COVID response. It's important that our voices are heard, and we need to foster a way for organizations such as ours that come together. We're really an ad hoc group and we want to make sure that our voices are heard during the COVID pandemic and other crises that happen in our communities.</ParaText>
+              <Timestamp Hr="11" Mn="25">(1125)</Timestamp>
+              <ParaText id="6198430"> In closing, Mr. Chairman, we appreciate the opportunity to speak, and we hope this dialogue will continue as we get through COVID.</ParaText>
+              <ParaText id="6198431">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871103">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198432">Thank you very much, Mr. Ejesiak.</ParaText>
+              <ParaText id="6198433">Now we go to six-minute rounds of questioning.</ParaText>
+              <ParaText id="6198434">On my first panel of questioners, I have Mr. Schmale, Mr. van Koeverden, Ms. Bérubé and Ms. Gazan.</ParaText>
+              <ParaText id="6198435">Jamie Schmale, you have six minutes. Please go ahead. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871109">
+            <PersonSpeaking>
+              <Affiliation DbId="258654" Type="40">Mr. Jamie Schmale (Haliburton—Kawartha Lakes—Brock, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198436">Thank you, Chair.</ParaText>
+              <ParaText id="6198437">Thank you, witnesses, for your testimony. It's greatly appreciated. I might start with Mr. Calla if I could, quickly.</ParaText>
+              <ParaText id="6198438">Mr. Calla, what is the value of the economic activity created by the 75 communities included in your analysis?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871114">
+            <PersonSpeaking>
+              <Affiliation DbId="209680" Type="28">Mr. Harold Calla</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198439">The value is in the billions. What we have done is we have taken the revenue streams that have been presented in financial statements. The Financial Management Board receives five years of financial statements from about 280 clients across the country. What we have begun to do is an analysis of those, because I don't think this information is widely known by anybody: What is the value of the economic activity in first nation communities and how would you measure that? When you get to the point that it's a billion dollars a year and you look at how you monetize that and ask what is the impact, that's really what our intention is.</ParaText>
+              <ParaText id="6198440"> We hope that in the future we will be able to do all 300 communities that we have financial information for. It really points to the need for a statistics institution to be able to provide this kind of data and information. We were quite surprised, in the 75 communities that we picked at random, by how big it was, and I don't think that many of us really understood that and understood that the first nation economy plays a lot of value in the gross national product of Canada and surrounding regional economies.</ParaText>
+              <ParaText id="6198441">It's in the billions, Mr. Schmale. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871116">
+            <PersonSpeaking>
+              <Affiliation DbId="258654" Type="40">Mr. Jamie Schmale</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198442">Oh, I can imagine. Will you be doing further analysis and data collection? If the answer is yes, when once completed, would you be able to submit those results to this committee?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="30">(1130)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871118">
+            <PersonSpeaking>
+              <Affiliation DbId="209680" Type="28">Mr. Harold Calla</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198443">We are currently undertaking for all of the clients we have now a full analysis of what they're doing. I expect it's going to take about six weeks. When we're finished, we will produce a report similar to the one you received today that would include everybody, so yes, we will. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871121">
+            <PersonSpeaking>
+              <Affiliation DbId="258654" Type="40">Mr. Jamie Schmale</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198444">Mr. Calla, what proposals have you suggested that Canada offer to indigenous governments and businesses to combat the effect of COVID-19? Has there been a response from the government?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871124">
+            <PersonSpeaking>
+              <Affiliation DbId="209680" Type="28">Mr. Harold Calla</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198445">I think what we're looking for is a recognition that indigenous governments are probably more at risk than others. They need to be able to sustain themselves and to find that they're not so burdened at the end of this that they can't continue to exist, so support for maintaining their operations I think is critical. The other thing we've looked for is recognition of own-source revenue as it has contributed to indigenous governments to support their programs and services.</ParaText>
+              <ParaText id="6198446"> I think these are significant issues that need to be dealt with and need to be considered. The challenge we've seen at the moment, and from many of our clients who have spoken to us, is that many of the programs are outside of.... They're not able to access them, at least immediately, and it takes a considerable effort to get Canada to review its approach and to include first nation communities. This needs to be considered right out of the hopper.</ParaText>
+              <ParaText id="6198447">Manny has spoken about the need for tax relief. We have shovel-ready projects for infrastructure. These are the kinds of things that involve a lot of money, but more importantly, I think, we need to be in a position where we continue to build the capacity in first nation communities and to put more communities in a position where they can access private capital to meet their needs.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871131">
+            <PersonSpeaking>
+              <Affiliation DbId="258654" Type="40">Mr. Jamie Schmale</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198448">Maybe I will go to Mr. Jules.</ParaText>
+              <ParaText id="6198449">Chair, before I do, how much time do I have left?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871134">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198450">You have three minutes. No, I'm sorry. You have two minutes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871137">
+            <PersonSpeaking>
+              <Affiliation DbId="258654" Type="40">Mr. Jamie Schmale</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198451">I liked the three minutes answer.</ParaText>
+              <ParaText id="6198452">Mr. Jules, why hasn't the First Nations Tax Commission's proposed tax deferral loan program been announced by the federal government? I know that you wrote a letter on that to the minister.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871138">
+            <PersonSpeaking>
+              <Affiliation DbId="111593" Type="28">Mr. C.T. (Manny) Jules</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198453"> Well, we don't know. We've done our work. We've been waiting patiently for a response. There's been a lot of concern expressed to us from a lot of first nations right across the country.</ParaText>
+              <ParaText id="6198454">As you know, Jamie, tax money goes to help provide for public health services. It offsets expenditures that the federal government really makes, so it's critically important that we get an answer, and very soon. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871140">
+            <PersonSpeaking>
+              <Affiliation DbId="258654" Type="40">Mr. Jamie Schmale</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198455"> What recommendations would you like the House of Commons Standing Committee on Indigenous and Northern Affairs to make to help first nations governments recover from COVID-19?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871142">
+            <PersonSpeaking>
+              <Affiliation DbId="111593" Type="28">Mr. C.T. (Manny) Jules</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198456">In a nutshell, I believe we need increased fiscal powers. Right now we're completely dependent on the federal government. Ninety per cent of all of the revenues come from the federal government and that has to ultimately change if we're to be able to look after ourselves. That's something our ancestors talked about in 1910, and so if we don't have greater tax powers....</ParaText>
+              <ParaText id="6198457"> You can see that unfolding on a daily basis with the <Affiliation DbId="214296" Type="1">Prime Minister</Affiliation>'s daily announcements. All of that is a result of the fact that the federal government has a tax rating, provincial governments and municipal governments have a tax rating, but first nations by and large don't. If that doesn't fundamentally change, we will find ourselves continuing to be completely dependent on the federal government and not being able to prepare ourselves for the next pandemic that ultimately will happen.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871148">
+            <PersonSpeaking>
+              <Affiliation DbId="258654" Type="40">Mr. Jamie Schmale</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198458">You want more local control. I guess that also leads to more resilience for these indigenous communities.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871150">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198459">Thank you. We're right at time. Thank you so much.</ParaText>
+              <ParaText id="6198460">We will go to Mr. van Koeverden now for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871151">
+            <PersonSpeaking>
+              <Affiliation DbId="256196" Type="47">Mr. Adam van Koeverden (Milton, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198461">Thank you very much, Mr. Chair.</ParaText>
+              <ParaText id="6198462">Mr. Calla, Mr. Gladu, Mr. Ejesiak and Mr. Jules, thank you for being here today. <I>Merci</I>. <I>Nakurmiik</I>. <I>Meegwetch</I>.</ParaText>
+              <ParaText id="6198463">I think I speak for everybody on the committee when I say that your insights are completely invaluable and play a critical role in enabling us to make better policy. I say that your contributions today are tremendous. I also would like to say that this is a really tremendous panel today, so thank you very much. It's really nice to hear from you and gather some insight today.</ParaText>
+              <ParaText id="6198464">My question is mainly on the north, so I guess I will direct it first to Mr. Ejesiak, but somebody else might have follow-up afterwards.</ParaText>
+              <ParaText id="6198465">Mr. Ejesiak, the Canadian Northern Economic Development Agency has two COVID-19-related support systems for small and medium-sized businesses in the north, the $15-million northern business relief fund and the $34.3-million regional relief and recovery fund. These are mainly for tourism, mining and related industries, but not necessarily the infrastructure we've heard about today from you.</ParaText>
+              <ParaText id="6198466">In your view, are the eligibility criteria fair? Do they enable the participation of indigenous businesses across a variety of sectors? How can we dovetail infrastructure projects with economic development, employment and other efforts?</ParaText>
+              <ParaText id="6198467">I'll go to you, Mr. Ejesiak.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="35">(1135)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871159">
+            <PersonSpeaking>
+              <Affiliation DbId="262701" Type="28">Mr. Kirt Ejesiak</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198468">Thank you, Adam.</ParaText>
+              <ParaText id="6198469">I think those programs that were set up in response to, I guess, small business concerns would address about 75% of the council's issues. We still have some issues related to eligibility. As you know, in the north the challenge in smaller communities is having adequate office space, so most people have offices at home. A lot of businesses are seasonal businesses, so they don't fit the criteria that was set up. They are still not eligible because it's very difficult to split between your home office and commercial space. We don't have the luxury of having those.</ParaText>
+              <ParaText id="6198470">I would say that the members we've reached out to have been very happy with the programs that were set up, but we still have some shortfalls, namely the CEBA program, which, if you recall, is a line of credit with the banks of $40,000 where $10,000 is forgivable. I think those programs would certainly benefit. I think the smaller folks would not be eligible for the CanNor programs that were set up.</ParaText>
+              <ParaText id="6198471">In terms of the infrastructure, I can tell you that nothing is happening in our communities at the moment. We are opening up on Monday, which is great, and I think the challenge for those who survive is going to be how we normalize our operations so that we can take advantage of some of the opportunities this summer, but I think in the long term, my worry is that our summer season is starting in four weeks. I have three months to find the money, order all my supplies, try to get it to the port and ship it up north before October.</ParaText>
+              <ParaText id="6198472">My hope is really to try to get support and relief, at least immediately for those issues, because, if we miss the boat, we literally miss the boat, and what do we do for the next year? That's really our concern.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871181">
+            <PersonSpeaking>
+              <Affiliation DbId="256196" Type="47">Mr. Adam van Koeverden</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198473"> Thank you. <I>Nakurmiik</I>.</ParaText>
+              <ParaText id="6198474">My follow-up question is for anybody, really, and it will focus more on connectivity. We're missing one of our colleagues today, MP <Affiliation DbId="253124" Type="2"> Qaqqaq</Affiliation>, because she is in Baker Lake and she does not have the connectivity required to join us. </ParaText>
+              <ParaText id="6198475">My dad used to work for the aboriginal business council in the 1990s and the challenges that he faced were quite different from a business perspective. Business is changing. We require technology these days and that technology is not universally available in Canada. </ParaText>
+              <ParaText id="6198476">I would like to hear, from an infrastructure perspective, how we might better serve modern businesses and indigenous communities with better infrastructure with regard to technology.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871185">
+            <PersonSpeaking>
+              <Affiliation DbId="262700" Type="28">Mr. Jean Paul Gladu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198477">That's a great question and I think my colleagues would agree that there is a lot of untapped potential with indigenous communities, both from a business perspective as well as in the employment force.</ParaText>
+              <ParaText id="6198478">We all know that the infrastructure deficit is well over $30 billion in our indigenous communities. If I think about what's going to help unlock that potential from technology, quite frankly, any time we have any kind of infrastructure projects going in, we need to be leveraging mines, rail lines, linear projects and electrification by ensuring coaxial cable so that our communities can get access to the Internet. Everybody in this room is really lucky to have one of these and access to the World Wide Web. Many of these communities are absolutely hamstrung because they can't get connectivity.</ParaText>
+              <ParaText id="6198479">Last, I'm also on the resilient recovery task force with a bunch of great folks from across the country, and there's a real need for dependable, renewable clean energy for our communities. You can't build another home in many communities because there simply isn't the energy capacity.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="40">(1140)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871194">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198480">We're out of time there.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871196">
+            <PersonSpeaking>
+              <Affiliation DbId="256196" Type="47">Mr. Adam van Koeverden</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198481">Mr. Chair, if I could—I apologize for taking up too much time—but I failed to acknowledge that I'm on the sacred and traditional territory of the Wyandot, Haudenosaunee, Anishinabe and the Mississaugas of the Credit First Nation.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871201">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198482">Ms. Bérubé, you have the floor for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871202">
+            <PersonSpeaking>
+              <Affiliation DbId="260582" Type="40">Ms. Sylvie Bérubé (Abitibi—Baie-James—Nunavik—Eeyou, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198483">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="6198484">I want to thank the witnesses who are taking part in our meeting, as well as the technicians and interpreters, who are essential resources for this committee. I am on the traditional territory of the Algonquins, the Anishnabe, and the Cree of Abitibi—Baie-James—Nunavik—Eeyou.</ParaText>
+              <ParaText id="6198485">Mr. Gladu, to what extent does the market turmoil affect the first nations' borrowing capacity, now and for the future? </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871207">
+            <PersonSpeaking>
+              <Affiliation DbId="262700" Type="28">Mr. Jean Paul Gladu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198486">The borrowing power of communities...? Actually, I would love to hear from Harold and Manny on that one as well.</ParaText>
+              <ParaText id="6198487">Credit rating is really important, but the challenge in many of our communities, as my colleagues know really well, is that the Indian Act hampers our ability to develop credit. The Indian Act does not allow us to own our land, which is an impingement on investment into our communities. As a prime example right now, I'm trying to build a home on my reserve. I make a pretty decent living and I can't get a loan from a bank unless I'm backstopped by my community, so I think part of the market forces are just the Indian Act and our ability to actually attract capital.</ParaText>
+              <ParaText id="6198488">If you wouldn't mind, Ms. Bérubé, I'd direct that to Manny as well and maybe Harold.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="10871460">
+            <PersonSpeaking>
+              <Affiliation DbId="209680" Type="28">Mr. Harold Calla</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198489"> Mr. Chair, could I go first?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="10871462">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198490"> Go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871212">
+            <PersonSpeaking>
+              <Affiliation DbId="209680" Type="28">Mr. Harold Calla</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198491">I think the immediate impact on short-term loans is real, because commercial lending is now concerned about the cash flows that are flowing into first nations. This is why I mentioned the fact that in some of the analysis we're doing, we're starting to measure the own-source revenue that's contributing to first nation governments and what that impact will be.</ParaText>
+              <ParaText id="6198492">In the long term, I think it will have a significant impact if we don't have fiscal capacity and if we don't see that fiscal capacity being transferred to first nations. I think the overall problem we face in this country when it comes to indigenous files is that we tend to look at this issue on a fiscal basis in parliamentary budgets. What we need to start doing is provide the certainty to first nations to have access to revenue streams so that we can engage the private sector and the capital markets to provide the things we need. </ParaText>
+              <ParaText id="6198493">We're not any different from any other government. We have to pay for things over time. I haven't bought a car or a house that I haven't had to finance in my lifetime. We need to be in a position where first nations can secure their interests for their community's well-being through access to capital as they choose, and to recognize that there are revenue streams to which they have access that can pay for those things over time.</ParaText>
+              <ParaText id="6198494">Currently, we're working with the first nations health authority of B.C. to look at how we could provide the funding for them to put in the 10 nursing stations they need in this province instead of waiting for annual contributions through the parliamentary budget process to put them in. The benefit that comes from providing this infrastructure earlier is obvious.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871226">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198495">Mr. Jules, do you want to add to that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871227">
+            <PersonSpeaking>
+              <Affiliation DbId="111593" Type="28">Mr. C.T. (Manny) Jules</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198496">Yes, I do. I didn't get the translation from French to English, but I understand that we're talking about credit. </ParaText>
+              <ParaText id="6198497">This is what my ancestors talked about in 1910: </ParaText>
+              <ParaText id="6198498">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">We stand for the obtaining of a permanent and secure Title (to be acknowledged by the government as such) of our ownership of our present reservations, and of such lands as may be added thereto.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText Continuation="True" id="6198499">They also said they wanted to be able to compete on better terms with the whites in making a living. Unfortunately, we're still dealing with the remnants of the Indian Act that are preventing us, because of sections 87 and 89, from securitizing proper credits. That's why JP can't go to a bank and get a mortgage; it's because of those two sections of the Indian Act. We need our own title system so we ourselves can begin to stand up, and individuals can securitize their own mortgages, go to the banks, and therefore have secure title. </ParaText>
+              <ParaText id="6198500">When post-COVID happens, individuals will be looking for the most secure title they have. Unfortunately, that won't be on Indian reserves.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="45">(1145)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871235">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198501">Mr. Jules, could you ensure that your selector is on the English channel, which is the little globe at the bottom of the screen? You were probably on the floor channel.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871237">
+            <PersonSpeaking>
+              <Affiliation DbId="111593" Type="28">Mr. C.T. (Manny) Jules</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198502">It's there now.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="10871425">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198503">It's there? Okay. We need you to get the translation, for sure.</ParaText>
+              <ParaText id="6198504">Madame Bérubé, you still have a minute.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="10871239">
+            <PersonSpeaking>
+              <Affiliation DbId="260582" Type="40">Ms. Sylvie Bérubé</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198505">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="6198506">Mr. Jules, what is your perspective on the state of the financial markets after this crisis?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="10871424">
+            <PersonSpeaking>
+              <Affiliation DbId="111593" Type="28">Mr. C.T. (Manny) Jules</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198507">Unfortunately, I'm still not getting the translation.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871242">
+            <PersonSpeaking>
+              <Affiliation DbId="253644" Type="27">The Clerk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198508">Mr. Jules, if you click on the interpretation button, which is the globe at the bottom of your screen, a menu will open up. You should have three options—off, English and French.</ParaText>
+              <ParaText id="6198509">English will need to be selected.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871245">
+            <PersonSpeaking>
+              <Affiliation DbId="111593" Type="28">Mr. C.T. (Manny) Jules</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198510">For language, I have the original audio, English and French.</ParaText>
+              <ParaText id="6198511">I've clicked on the English.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871246">
+            <PersonSpeaking>
+              <Affiliation DbId="253644" Type="27">The Clerk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198512">Can you hear me properly now with the interpretation?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871247">
+            <PersonSpeaking>
+              <Affiliation DbId="111593" Type="28">Mr. C.T. (Manny) Jules</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198513">Yes, I can.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871248">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198514">Madame Bérubé, I'll give you your minute back. Please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="10871249">
+            <PersonSpeaking>
+              <Affiliation DbId="260582" Type="40">Ms. Sylvie Bérubé</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198515">Mr. Jules, how do you see the state of the financial markets after the crisis?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871250">
+            <PersonSpeaking>
+              <Affiliation DbId="111593" Type="28">Mr. C.T. (Manny) Jules</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198516">One thing we've been advocating for is greater access to the markets. We accomplished that somewhat through the First Nations Finance Authority, but we also need access to all of the banking institutions and the same kinds of credit that other Canadians have taken for granted. </ParaText>
+              <ParaText id="6198517">That means having the institutional support that everyone takes for granted, including a proper land title system, so that Her Majesty doesn't own Indian reserves, and we have greater fiscal power so that we can have the same kinds of credit that federal, provincial and indeed municipal governments do.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871252">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198518"> Thank you very much.</ParaText>
+              <ParaText id="6198519">Now we go to Ms. Gazan for six minutes.</ParaText>
+              <ParaText id="6198520">Please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871254">
+            <PersonSpeaking>
+              <Affiliation DbId="255229" Type="2">Ms. Leah Gazan (Winnipeg Centre, NDP)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198521">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="6198522">I'd like to start by giving a notice of motion. Given the elements outlined in supplementary estimates (A) that affect indigenous communities, I give notice that on a future date I will move the following motion:</ParaText>
+              <ParaText id="6198523">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2"> That, pursuant to Standing Order 108(2), the committee invite the Minister of Indigenous Services and the Minister of Crown-Indigenous Relations to provide testimony regarding the supplementary estimates (A), 2020-21, no later than June 16, 2020.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="6198524">Thank you very much.</ParaText>
+              <ParaText id="6198525">I'll now move on to questions. I want to thank you all for being here.</ParaText>
+              <ParaText id="6198526">There have been studies showing that there will be severe gendered economic impacts from COVID-19. Could any of the witnesses expand on how indigenous women and 2SLGBTQQIA+ individuals will be affected differently, economically, by the impacts of COVID-19?</ParaText>
+              <ParaText id="6198527">Anybody can answer. I'll leave it open.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871260">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198528">Mr. Calla, go ahead, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871261">
+            <PersonSpeaking>
+              <Affiliation DbId="209680" Type="28">Mr. Harold Calla</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198529">I think much of the economic activity in the areas you described is among small businesses. Small business owners will be significantly impacted as a result of this because they're not able to financially withstand the long-term impact of COVID-19 because they don't have the balance sheet, if I can call it that, and the cash flow to be able to sustain themselves.</ParaText>
+              <ParaText id="6198530"> I think it's absolutely critically important that small businesses and individuals have access to the programs that larger corporations are getting access to—not that larger corporations shouldn't get it, but we can't forget people in our communities.</ParaText>
+              <ParaText id="6198531">I believe that women in particular in our communities are the backbone of indigenous economies and I think that they need to be recognized and supported in ways that aren't necessarily consistent with the programs that are laid out today. I would encourage the committee to make that recommendation to Parliament and to the government.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="50">(1150)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871267">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198532">Mr. Jules, did you want to say something?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871269">
+            <PersonSpeaking>
+              <Affiliation DbId="111593" Type="28">Mr. C.T. (Manny) Jules</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198533">Yes. I think one of the most important things is that one of the casualties of COVID-19 is the inquiry into missing and murdered indigenous women. I think it has laid out a number of recommendations that should be followed up by the federal government. It has also underlined the fact that indigenous women and others are impacted by the economy because they're landless as a result of marriage breakdown. They're the ones who are impacted more than anyone else, according to the inquiry on missing and murdered women. </ParaText>
+              <ParaText id="6198534">What we have to do is to make sure that we have sustainable economies so that marriages will stay together, that our families will be important and be able to withstand not only COVID-19, but also the economic impacts afterwards.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871277">
+            <PersonSpeaking>
+              <Affiliation DbId="255229" Type="2">Ms. Leah Gazan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198535">Thank you so much.</ParaText>
+              <ParaText id="6198536">I'll move to my next question.</ParaText>
+              <ParaText id="6198537">Social enterprises often offer unique opportunities for employment and benefits for our communities. In Winnipeg, for example, we have a social enterprise called Mother Earth Recycling.</ParaText>
+              <ParaText id="6198538">Can any of our witnesses describe any unique challenges that indigenous social enterprises are facing during the pandemic?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871285">
+            <PersonSpeaking>
+              <Affiliation DbId="209680" Type="28">Mr. Harold Calla</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198539"> I really appreciate the question, because we often don't understand what we mean by “social enterprise”. We look at Indian bands as orders of government, and we don't understand that as they realize their aboriginal rights and title, they become social enterprises. I think the challenges we face in our social enterprises are no different from the challenges we face as indigenous people, in that we don't have access to capital and we don't have long-term revenue streams, and it's very difficult for us to produce strategies that provide confidence to the investment community.</ParaText>
+              <ParaText id="6198540">I think that has to come from a recognition that, first of all, we are social enterprises in indigenous communities. Historically, we were, before European contact. We had economies that on the west coast stretched from Alaska to Mexico. We provided for our communities from those social enterprise efforts. That has not been recognized. Once we became wards of the government and we were marginalized from the economy, we weren't allowed to do that anymore.</ParaText>
+              <ParaText id="6198541"> As a consequence of that, we haven't been able to build wealth. If you look at the biggest challenge we face as indigenous communities, either in our businesses or our governments, it's that we've been marginalized and we've not been able to establish the platform to build wealth and to have a balance sheet.</ParaText>
+              <ParaText id="6198542">Those things have to change, and that comes through a new fiscal relationship and the continued access, because of secure revenue streams, to access capital and manage what we choose. Those are the biggest issues. Then, as governments within our communities we can support, as a government in our community, those social enterprises that are created in the areas where we live. That is no different than other orders of government do.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871291">
+            <PersonSpeaking>
+              <Affiliation DbId="255229" Type="2">Ms. Leah Gazan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198543">Thank you so much.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871294">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198544">Thanks, Ms. Gazan.</ParaText>
+              <ParaText id="6198545">We're now to the five-minute round of questioning. I have Mr. Dalton, Ms. Damoff, Mr. Viersen and Mr. Battiste.</ParaText>
+              <ParaText id="6198546">Marc, you have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871296">
+            <PersonSpeaking>
+              <Affiliation DbId="258202" Type="2">Mr. Marc Dalton (Pitt Meadows—Maple Ridge, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198547">Thank you to all the witnesses for being here today and for your remarks.</ParaText>
+              <ParaText id="6198548">I'm wondering if each of you could respond to this question. That is, what would be the impact on first nations if non-renewable resources, resource development projects, stopped going ahead?</ParaText>
+              <ParaText id="6198549">Go ahead, Mr. Gladu.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="55">(1155)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871299">
+            <PersonSpeaking>
+              <Affiliation DbId="262700" Type="28">Mr. Jean Paul Gladu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198550">That is a great question, because a lot of our indigenous communities rely on the natural resource sector for employment and for significant revenues for their businesses. The impact would be significant.</ParaText>
+              <ParaText id="6198551"> We recognize that there is an energy transition that needs to happen in this country, particularly with oil and gas, but we have other sectors, such as mining, that are going to provide the stopgap in the longer term. All I'm going to suggest is that as we move forward in the policies around infrastructure, as we transition into clean tech, into renewables, hydrogen, wind, solar and what have you, we ensure that the government incentivizes companies to co-invest with our indigenous communities as we build it out.</ParaText>
+              <ParaText id="6198552"> Our communities are just getting caught up with a lot of the capacity to compete in the natural resources sector, so we don't want to miss another wave as the next wave comes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871303">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198553">I saw Mr. Calla with his hand up.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871304">
+            <PersonSpeaking>
+              <Affiliation DbId="209680" Type="28">Mr. Harold Calla</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198554">Thank you.</ParaText>
+              <ParaText id="6198555">The financial management board was instrumental in supporting the creation of the First Nations Major Projects Coalition, first nations that were interested in resource development, and as a result of that, we got a lot of insight into the potential economic impacts of major resource development.</ParaText>
+              <ParaText id="6198556">I think the big issue that has always been there is in the approval process, the environmental issues that are faced and the cumulative impacts. We're starting to be able to resolve those issues in ways that many communities along these corridors for linear projects support. </ParaText>
+              <ParaText id="6198557">The economic impact of not proceeding with these initiatives is going to be significant to first nation communities, both in the short and the long term. I think that as we move into a new fiscal relationship that sees us sharing in the revenues that other orders of government get, it is going to be even more so.</ParaText>
+              <ParaText id="6198558">As JP said, we do recognize that we need to transition from fossil fuels in time, but the fact is, we're not there yet, and we need to be able to move forward. I think it's a tragedy that we're buying oil from the Middle East when we have it within this country. We have to find ways to solve these kinds of problems.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871310">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198559"> Mr. Ejesiak.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871312">
+            <PersonSpeaking>
+              <Affiliation DbId="262701" Type="28">Mr. Kirt Ejesiak</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198560"> I echo those comments. I think it's important to recognize that many of our communities rely on projects such as mining, especially in the north. Although we want to balance that with managing the environment, if those projects are put on hold or stopped, it would have disastrous effects right across our communities, and guess what? It would impact most small Inuit businesses in the north. I think we need to work on supporting those projects.</ParaText>
+              <ParaText id="6198561">Look, I recognize that a lot of those companies are global nationals. However, we need to ensure that they have at least an opportunity to support their projects in a balanced way. For me, coming from the north, I think it's important to ensure that those projects continue. </ParaText>
+              <ParaText id="6198562">This pandemic may go on for awhile and we're happy to report that we have no COVID cases up here, but we know it's just a matter of time. We have to recognize that we have to support those big projects so that those families continue to get that income they need.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871318">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198563">There is half a minute.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871320">
+            <PersonSpeaking>
+              <Affiliation DbId="258202" Type="2">Mr. Marc Dalton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198564">Go ahead, Manny. Do you want to say a few words on this?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871321">
+            <PersonSpeaking>
+              <Affiliation DbId="111593" Type="28">Mr. C.T. (Manny) Jules</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198565">Yes. One thing we've been advocating right across the country is.... Firstly, I want to say that I believe in the integrity of the federal and provincial tax systems. What has to happen is that there has to be an orderly vacating of tax room so that first nations would be able to take over a portion of the resource taxes that are collected within our traditional and treaty territories, and therefore be able to benefit directly from resource exploitation. We would be in a position to look after our own infrastructure and take care of ourselves, as opposed to depending on the largesse of the federal government.</ParaText>
+              <ParaText id="6198566">Once those steps are taken, I believe that the wealth of this country will be unlocked. You need look no further than the Ring of Fire in northern Ontario, and here in British Columbia as well, but right across the country. We benefit from—</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="00">(1200)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871324">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198567">I'm sorry, sir. We're beyond time.</ParaText>
+              <ParaText id="6198568">Ms. Damoff is our next speaker for five minutes.</ParaText>
+              <ParaText id="6198569">Please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871325">
+            <PersonSpeaking>
+              <Affiliation DbId="256198" Type="2">Ms. Pam Damoff (Oakville North—Burlington, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198570">Thank you, Chair. </ParaText>
+              <ParaText id="6198571">I want to start by acknowledging that I'm on the traditional territory of the Mississaugas of the Credit First Nation. I want to thank our panellists today. Once again, there's incredibly helpful information that's being shared.</ParaText>
+              <ParaText id="6198572">I do want to ask about infrastructure, but I first want to start with you, JP. I think you sat on some committees on moving indigenous communities to renewable energy projects, with my son Fraser and Tabatha Bull, when they were both at the IESO. At the last meeting, we heard from one of the witnesses about the economic benefits of transitioning to green energy.</ParaText>
+              <ParaText id="6198573">I'm wondering if you could talk a bit about how the federal government could play a role in transitioning to green energy to power our first nations communities.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871326">
+            <PersonSpeaking>
+              <Affiliation DbId="262700" Type="28">Mr. Jean Paul Gladu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198574">That's a great question, and thank you.</ParaText>
+              <ParaText id="6198575">Let me give one example of a first nation, Henvey Inlet. They went out to the market and raised $900 million in senior debt to be a 51% equity stakeholder in a 300-megawatt wind farm project. What's extraordinary about this project is that none of that financing came from within Canada. It came from all over the world, not Canada. So, it's broken. It's about creating the space for investment in partnering with indigenous communities. That could be through tax incentives. That could also be through creating adders to energy produced by indigenous energy projects. </ParaText>
+              <ParaText id="6198576">Then, lastly, just from a big-picture perspective, we're talking about creating bonds. At OPG, they created a green bond. Why don't we create an indigenous bond that's directed towards indigenous projects, where people can get a good return on their dollar and then we have the money to backstop, to invest in, that type of infrastructure?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871327">
+            <PersonSpeaking>
+              <Affiliation DbId="256198" Type="2">Ms. Pam Damoff</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198577">That's a terrific idea.</ParaText>
+              <ParaText id="6198578">On the First Nations Tax Commission website, there's a report that I'm going to quote from. It says, “The current First Nation infrastructure system is the least effective government infrastructure system in Canada. First Nation infrastructure costs the most to build, takes the longest to develop, and has the shortest operational lives.”</ParaText>
+              <ParaText id="6198579">There's obviously something broken in the way that we're doing infrastructure on reserve. I'm just wondering if I could perhaps hear from all of you about creating better infrastructure and creating a facility. You've talked about it already. How can we move on this, because it's something that obviously needs to get done?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871331">
+            <PersonSpeaking>
+              <Affiliation DbId="111593" Type="28">Mr. C.T. (Manny) Jules</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198580"> With regard to the first step, we've been having discussions with the federal government now for a number of years. I first introduced the concept to <Affiliation DbId="233806" Type="4">Minister Bennett</Affiliation> in 2016. We've done a considerable amount of work. We have a panel of experts right across the country.</ParaText>
+              <ParaText id="6198581"> What we need is legislation. What we need is a memorandum to cabinet giving direction that legislation be drafted, and then the legislation could be introduced as early as this fall. Without a legislative base that empowers first nations governments, we can't monetize federal transfers or open up opportunities for private-public partnerships, including green approaches to dealing with infrastructure.</ParaText>
+              <ParaText id="6198582">Right now, all of the power rests with the federal government, and there's no way that any government, even during the COVID-19 crisis, will write a cheque for $45 billion. We need investment, but we cannot approach it without a legislative mandate from the federal government, and then we can reach out and work with provincial governments and municipal governments as well as other first nation governments. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871335">
+            <PersonSpeaking>
+              <Affiliation DbId="256198" Type="2">Ms. Pam Damoff</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198583">So would that—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871336">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198584">Mr. Ejesiak had his hand up.</ParaText>
+              <ParaText id="6198585">Mr. Ejesiak, could you lift your microphone up an inch for more clarity? </ParaText>
+              <ParaText id="6198586">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871337">
+            <PersonSpeaking>
+              <Affiliation DbId="262701" Type="28">Mr. Kirt Ejesiak</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198587">I think that's a good question. </ParaText>
+              <ParaText id="6198588">For us in the Arctic, the critical thing is looking at the procurement system that's currently in place. It often favours companies that are outside the north. We need to think about how we structure it so that it would take advantage of the local capacity that exists. As you heard this morning, the challenge for small, indigenous-owned companies is access to capital. We could certainly bring in the capital that we need if we actually had a fair shot at some of those big megaprojects in our communities. </ParaText>
+              <ParaText id="6198589">The infrastructure deficit is huge. I could speak to some of the energy projects that we wanted to undertake in the north to reduce our reliance on diesel. Some of the green initiatives that exist are not set up to service northern communities. We certainly need to get off diesel, but the procurement and the priorities that are set just don't allow for us to try innovative solutions at the moment.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="05">(1205)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871343">
+            <PersonSpeaking>
+              <Affiliation DbId="256198" Type="2">Ms. Pam Damoff</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198590">May I just apologize to the witness? I said “on reserve”, but I didn't mean to exclude the north from the question.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871344">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198591">Thank you.</ParaText>
+              <ParaText id="6198592">With that, we move to Mr. Viersen, for five minutes.</ParaText>
+              <ParaText id="6198593">Please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871345">
+            <PersonSpeaking>
+              <Affiliation DbId="258111" Type="47">Mr. Arnold Viersen (Peace River—Westlock, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198594">I want to congratulate Mr. Powlowski for getting a haircut. It looks good. Here in the promised land, we've been able to get haircuts for a couple of weeks. Hopefully, in Ontario, they too will start to open up hair salons soon.</ParaText>
+              <ParaText id="6198595">Mr. Jules, you mentioned something a little—oh, I don't see him there right now, so I'll skip that one for a little bit. </ParaText>
+              <ParaText id="6198596">Mr. Ejesiak, I'll jump to you.</ParaText>
+              <ParaText id="6198597">The distribution of PPE has been a big challenge in northern Alberta, particularly for first nations communities. The Alberta government has partnered with McDonald's and A&amp;W to distribute PPE across the province, and that does seem to be working fairly well. Is your group of companies able to help with PPE distribution, and is the PPE available?</ParaText>
+              <ParaText id="6198598">In Saskatchewan, I know that many of the northern first nations communities say that there's no PPE available, let alone trying to get it distributed. </ParaText>
+              <ParaText id="6198599">Do you have any comments on that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871347">
+            <PersonSpeaking>
+              <Affiliation DbId="262701" Type="28">Mr. Kirt Ejesiak</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198600">The PPE is certainly something we thought about in March. We don't have a McDonald's. We don't have the big chains that you would typically see in southern Canada.</ParaText>
+              <ParaText id="6198601">I think our chief medical health officer and his team have worked well with the national organizations to allow PPE to be shipped up north. As you know, we don't have any active cases of COVID in the north, so I think the idea of having PPE is not top of mind. I do have a partner who is in the medical field, and that's certainly a concern for our immediate family.</ParaText>
+              <ParaText id="6198602"> I think small businesses can play a role. We have the capacity to build face masks and small items at our shop, but it's something that we currently have not been asked to assist with.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871348">
+            <PersonSpeaking>
+              <Affiliation DbId="258111" Type="47">Mr. Arnold Viersen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198603"> Have you been submitting at all to the government procurement for PPE? Have you been engaged in that at all? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871349">
+            <PersonSpeaking>
+              <Affiliation DbId="262701" Type="28">Mr. Kirt Ejesiak</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198604">I have looked at the procurement. My comments earlier were that the procurement system is set up to favour the large companies, and I think it would be helpful to set up a regional procurement system that would allow for local and regional companies to bid on some of the work. </ParaText>
+              <ParaText id="6198605">It's a touchy issue, I know, and I think it's important that we start to recognize that these systems are set up to favour large companies. I think a lot of our indigenous companies would certainly benefit if we set up a regional organization similar to the current CanNor and the regional organizations. If that were passed on to them, I think it would certainly provide a better avenue for small regional businesses to bid on.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871350">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198606">Mr. Jules, go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871351">
+            <PersonSpeaking>
+              <Affiliation DbId="111593" Type="28">Mr. C.T. (Manny) Jules</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198607">One interesting story that just happened within the last two weeks is that when my tribal council and health authority were trying to secure PPE for our communities, lo and behold, it was the provincial government that took our share. Part of the reason, of course, is that we don't have the capacity within our communities to make our own, and that is one of the reasons we have to be part of the retooling of the Canadian economy after the pandemic settles.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="10">(1210)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871352">
+            <PersonSpeaking>
+              <Affiliation DbId="262700" Type="28">Mr. Jean Paul Gladu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198608">If you go to the CCAB website, there are numerous indigenous suppliers that can produce this, and a lot of them have shifted to producing PPE. This is just a little shout-out, because there are a lot of capable indigenous businesses that can help with the PPE as well as distribution. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871353">
+            <PersonSpeaking>
+              <Affiliation DbId="258111" Type="47">Mr. Arnold Viersen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198609">We had Tabatha at committee last Friday, and at that point, she hadn't heard of any of their being able to secure a contract. That's a little bit concerning. It appears that we have Canadian capacity, and yet a lot of the PPE that we're getting is coming from offshore. </ParaText>
+              <ParaText id="6198610">Mr. Ejesiak, do you have any ideas about what the stockpile is up in the north if any your communities need PPE in a hurry? </ParaText>
+              <ParaText id="6198611">Just to get it on the record, the A&amp;W model works well in Alberta. Every small town in Alberta has an A&amp;W, and that's not a problem. In your community is there a similar network of...? I know in Africa—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871354">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198612">Mr. Viersen, we're way overtime.</ParaText>
+              <ParaText id="6198613">
+                <B>Mr. Arnold Viersen:</B> Oh, come on.</ParaText>
+              <ParaText id="6198614">
+                <B>The Chair:</B> Perhaps you can reprieve that question until later on; it's a good one. </ParaText>
+              <ParaText id="6198615">Right now for a two-and-a-half minute round we're going to Ms. Gaudreau and Ms. Gazan. </ParaText>
+              <ParaText id="6198616">Ms. Gaudreau, please go ahead for two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871355">
+            <PersonSpeaking>
+              <Affiliation DbId="256193" Type="47">Mr. Jaime Battiste (Sydney—Victoria, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198617">I have a point of order.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871356">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198618">Yes, Mr. Battiste.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871358">
+            <PersonSpeaking>
+              <Affiliation DbId="256193" Type="47">Mr. Jaime Battiste</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198619">I heard my name being called in the five-minute round, but I don't remember getting my question.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871359">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198620">You know what? You're right. </ParaText>
+              <ParaText id="6198621">I apologize, Ms. Gaudreau, because while bouncing around looking at whose hand is up, who is speaking and what the time is, I completely missed my friend Mr. Battiste. </ParaText>
+              <ParaText id="6198622">I apologize, and I'm going to give you five extra seconds in addition.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871360">
+            <PersonSpeaking>
+              <Affiliation DbId="256193" Type="47">Mr. Jaime Battiste</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198623">I accept your apology and I know you didn't mean to do it. You're doing a great job as chair, Bob. </ParaText>
+              <ParaText id="6198624">I come to you from the Eskasoni reserve, the largest Mi'kmaq community. We have close to 5,000 people. I'd say that the majority of the people in this community don't see sections 87 and 89 of the Indian Act as negative things.</ParaText>
+              <ParaText id="6198625"> Manny, I would just like you to elaborate a little bit on the tax rating that you talked about and how that helps the indigenous economic recovery strategy. Can you speak to those points a bit?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871364">
+            <PersonSpeaking>
+              <Affiliation DbId="111593" Type="28">Mr. C.T. (Manny) Jules</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198626">Part of the problem that I talked about earlier was the restrictions of the Indian Act on our being able to go to a local bank, as JP was talking about. One reason is section 89, which leaves us completely dependent on the federal government for housing. The Minister of Indian Affairs builds about 2,000...agreeing to mortgage about—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871365">
+            <PersonSpeaking>
+              <Affiliation DbId="256193" Type="47">Mr. Jaime Battiste</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198627">Manny, can you tell the committee what section 89 is? I know what it is; I just want to make sure it's clear.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871366">
+            <PersonSpeaking>
+              <Affiliation DbId="111593" Type="28">Mr. C.T. (Manny) Jules</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198628">It deals with an ability to come on reserve and seize property. That restricts us from being able to be mortgaged. It restricts the ability of our small business owners to securitize, and their ability to get into business. That's a jurisdictional question. What has to happen is that first nations have to be able to have the jurisdiction to make their own determinants at the local level. The hindrance for us getting to the capital market is section 89 of the Indian Act.</ParaText>
+              <ParaText id="6198629"> The other is the personal tax exemption under section 87. One of the things it has led to is a complete dependance on the federal government and all of its resources. That has its roots going back to 1927, to the Indian Act. What happened was that my ancestors were asking for the land question to be settled here in British Columbia. We were calling on the federal and provincial governments to come to the table to deal with us. One of the things they did in 1927 was to forbid us to collect taxes from ourselves. That meant that we couldn't have potlatch and we couldn't have winter dances. We weren't able to raise revenue on our own. That has led to the situation—again, because of the lack of jurisdiction—of having complete dependance on the federal government. </ParaText>
+              <ParaText id="6198630">It impacts housing. It means that we'll never catch up to the housing backlog on a national basis. If you believe the federal government, it will be 300 years before we catch up to the housing backlog on a national basis; if you believe the Assembly of First Nations, it will take us 800 years. </ParaText>
+              <ParaText id="6198631">It has its roots in the Indian Act. One of the things I've been advocating is a proper land title system so that we can have our own title and create a basis where we can go to the markets with our own credit. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="15">(1215)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="10871367">
+            <PersonSpeaking>
+              <Affiliation DbId="256193" Type="47">Mr. Jaime Battiste</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198632">Can you expand on what you meant by tax rating? What does that mean? That was part of my question. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871368">
+            <PersonSpeaking>
+              <Affiliation DbId="111593" Type="28">Mr. C.T. (Manny) Jules</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198633">What happens when you have tax jurisdiction.... You can see it clearly with the federal government's announcements on a daily basis. They can do that because they have the best credit rating in the country. That's why municipal governments are going to the federal government asking for programs. That's why small businesses are going to the federal government asking for programs, and indeed the provincial governments. </ParaText>
+              <ParaText id="6198634">This goes right to the heart of the fiscal makeup of Canada. One of the problems we have as first nations is that we're not part of the fiscal makeup; we're part of the dependancy that's been brewing in our communities as a result of colonization. </ParaText>
+              <ParaText id="6198635">When we talk about a credit rating, we've demonstrated through the First Nations Finance Authority that we can go to the international bond market using our own tax credits, using our own business acumen to get the bonds and debentures. We've been very successful at that. We've received over $900 million since 2007. </ParaText>
+              <ParaText id="6198636">There are successes, but the basis of those successes has been jurisdiction. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871369">
+            <PersonSpeaking>
+              <Affiliation DbId="256193" Type="47">Mr. Jaime Battiste</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198637">Mr. Calla, I see you have your hand up. Do you want to add to that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871370">
+            <PersonSpeaking>
+              <Affiliation DbId="209680" Type="28">Mr. Harold Calla</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198638">Yes, I do. Thank you. </ParaText>
+              <ParaText id="6198639">I think the fundamental challenge we face in our relationship with Canada is that we're seen as a program; we're not seen as a government. We're seen as part of a 12-year cash flow cycle. We need to get to the point where not only the departments that report to you, but Finance and Treasury Board and the PMO start to recognize us as governments that require jurisdiction, that require a seat at the fiscal table, so that we can leverage—as we've proven we can do through the First Nations Finance Authority—those secure revenue streams to support our own needs. If—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871373">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198640">We're at time right there. Thank you.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="6198641">I apologize, Ms. Gaudreau; you have the floor for two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871374">
+            <PersonSpeaking>
+              <Affiliation DbId="252692" Type="2">Ms. Marie-Hélène Gaudreau (Laurentides—Labelle, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198642">Excellent.</ParaText>
+              <ParaText id="6198643">Mr. Jules, you spoke briefly about the four distinct phases of the economic recovery. I'd like you to go over them again.</ParaText>
+              <ParaText id="6198644">We'll proceed quickly, and I'd like to hear what each of the witnesses has to say about these four stages.</ParaText>
+              <ParaText id="6198645">Let's start with you, Mr. Jules.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871376">
+            <PersonSpeaking>
+              <Affiliation DbId="111593" Type="28">Mr. C.T. (Manny) Jules</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198646"> One of the things we need, fundamentally, at the ask, is jurisdiction. In order to pursue that jurisdiction, we need a legislative mandate from the federal government. In that way we would be able to begin to look after ourselves. That's the basic problem that we have in our communities: We're completely dependent on the federal government. We're completely dependent on the provincial governments for their infrastructure, i.e., hospitals. </ParaText>
+              <ParaText id="6198647">In order to change that, what the FMA institutions are asking for is greater autonomy, greater jurisdiction through the First Nations Fiscal Management Act.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871378">
+            <PersonSpeaking>
+              <Affiliation DbId="252692" Type="2">Ms. Marie-Hélène Gaudreau</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198648">You spoke about transfers and broadening the reach. You also referred to other parts of your recovery plan. Can you tell us a bit more?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871379">
+            <PersonSpeaking>
+              <Affiliation DbId="111593" Type="28">Mr. C.T. (Manny) Jules</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198649">Yes. I talked about expanding the First Nations Fiscal Management Act to include the infrastructure institute. That's critically important because if we can't build stuff on our own, we're going to be completely dependent on somebody else. Right now, with the Department of Indian Affairs, when they build infrastructure, you end up caught in negotiation for 10 years and you build one water system. With a first nations infrastructure institute, instead of building one water system for potable water in one community, we could be looking at building a hundred. With health care, we could be building a hundred facilities as opposed to one-offs in each of our communities.</ParaText>
+              <ParaText id="6198650">When we're saying we want to monetize federal transfers, right now there's no way to monetize the federal transfers for capital projects on reserves. If the federal government monetizes, that means a greater number of resources that would be at first nations' and the federal government's disposal to build infrastructure, not only for our community needs but also business-ready infrastructure, which is critically important. We need to expand the fiscal powers so that we get the tax revenues that are being raised in our communities.</ParaText>
+              <ParaText id="6198651">As an example, for the 109 first nation communities that are collecting about $70 million in real property tax, the federal and provincial governments are collecting $750 million more than the first nations. They're collecting taxes in terms of resource development, tobacco, cannabis, the excise tax, the income taxes, all of those are going right now to the federal and provincial governments. What we're saying is that, if there's a true fiscal relationship, we should be the jurisdiction to collect those resources. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="20">(1220)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871382">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198652">Thank you very much. We're at time allotted.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871383">
+            <PersonSpeaking>
+              <Affiliation DbId="252692" Type="2">Ms. Marie-Hélène Gaudreau</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198653">Since we're out of time, may I ask the witnesses to nod if they agree with Mr. Jules' statements?</ParaText>
+              <ParaText id="6198654">Gentlemen, do you agree?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871385">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198655">There's one thumbs-up, two thumbs-up, and now you have three. </ParaText>
+              <ParaText id="6198656">Ms. Gazan, please go ahead for two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871387">
+            <PersonSpeaking>
+              <Affiliation DbId="255229" Type="2">Ms. Leah Gazan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198657">Thank you, Mr. Chair. </ParaText>
+              <ParaText id="6198658">I just want to start out by thanking Mr. Jules for his observations about the limitations that are contained in the Indian Act. I agree. I think this racist policy needs to be replaced with human rights.</ParaText>
+              <ParaText id="6198659">How do you believe that the full adoption and implementation of the United Nations Declaration on the Rights of Indigenous Peoples would help assist indigenous businesses in the future, particularly should we experience future pandemics?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871390">
+            <PersonSpeaking>
+              <Affiliation DbId="111593" Type="28">Mr. C.T. (Manny) Jules</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198660">And we will. History has demonstrated that. Even though as first nations we've lived through many pandemics, this is another one and we will face one in the future. If we're not ready, through having greater fiscal powers, we're going to be in the same situation.</ParaText>
+              <ParaText id="6198661">How I interpret the United Nations Declaration on the Rights of Indigenous Peoples is that it gives us a way forward so that we can begin to legislate our way back into the federal and provincial economies, and therefore the national economy and global economy, to be able to take care of ourselves, our families, our elders, our youth, our children and the future generations. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871394">
+            <PersonSpeaking>
+              <Affiliation DbId="255229" Type="2">Ms. Leah Gazan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198662">I believe Jean Paul would also like to comment. </ParaText>
+              <ParaText id="6198663">Go ahead, Mr. Gladu.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871395">
+            <PersonSpeaking>
+              <Affiliation DbId="262700" Type="28">Mr. Jean Paul Gladu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198664">Thank you very much.</ParaText>
+              <ParaText id="6198665">The other thing is that we can't ignore the power and influence of the private sector. When we talk about supply chains, etc., Canada could be looking at rewarding those good actors that are working with our indigenous businesses and communities. CCAB has the progressive aboriginals relations program and I know the team is working on PAR for government. If a company comes with those great practices to support indigenous partnership, that's the kind of company that should be awarded federal contracts, not the ones who don't.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871400">
+            <PersonSpeaking>
+              <Affiliation DbId="255229" Type="2">Ms. Leah Gazan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198666"> Thank you very much.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871402">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198667">Mr. Ejesiak also had his hand up.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871405">
+            <PersonSpeaking>
+              <Affiliation DbId="262701" Type="28">Mr. Kirt Ejesiak</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198668">Manny, the Inuit support UNDRIP 100%, and we echo those sentiments.</ParaText>
+              <ParaText id="6198669"> I completely agree with JP. I think it's important that our communities be given the opportunity to bid on some of the work that's happening in our communities. It just makes sense. I think that's where we ask the committee to recommend some of these major changes. It's going to take time, but I think we need to do it now.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871406">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198670">Thank you very much.</ParaText>
+              <ParaText id="6198671">Mr. Zimmer, it's your turn. I know there were some technical issues. Can you hear me? </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="25">(1225)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="10871407">
+            <PersonSpeaking>
+              <Affiliation DbId="258112" Type="47">Mr. Bob Zimmer (Prince George—Peace River—Northern Rockies, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198672">Is the sound good now? [<I>Technical difficulty—Editor</I>]</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871420">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198673">Well, I'm going to let you start, but we may have to interrupt, because it would be a breach of parliamentary privilege if we weren't able to conduct a proper translation.</ParaText>
+              <ParaText id="6198674">I'm going to have to intervene at this point.</ParaText>
+              <ParaText id="6198675">Mr. Schmale, could you offer to substitute for Mr. Zimmer while we continue to work on his technical issue?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871421">
+            <PersonSpeaking>
+              <Affiliation DbId="258654" Type="40">Mr. Jamie Schmale</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198676">Thank you, Chair. I'll ask a few questions, if I could, until Mr. Zimmer gets better connected.</ParaText>
+              <ParaText id="6198677">Mr. Calla, about 30 minutes ago you touched on how the status wasn't working. Each and every one of you has touched on it in some way. Let's talk more about the financial relationship with first nations communities to allow them to succeed as communities. Let's expand on that. We can open the floor and hear what people have to say.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871423">
+            <PersonSpeaking>
+              <Affiliation DbId="209680" Type="28">Mr. Harold Calla</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198678">Thank you. </ParaText>
+              <ParaText id="6198679">I'm an accountant by training, for those who don't know. I came back to my community in 1987 and realized that we were all about program management. We weren't dealing with anything else. We didn't have any capacity. We didn't have any revenue streams. We couldn't go to the bank and borrow money. We couldn't respond to our needs. I started to realize very quickly that after however many years of the Indian Act, the relationship with Canada was not getting better. The gap was widening.</ParaText>
+              <ParaText id="6198680">I had come from the private sector, and I realized very quickly that government was never going to be the long-term solution and that we needed to be able to have access to re-engage in the development of an entrepreneurial class within our society of indigenous communities to put us in a position where we would start to generate revenues for ourselves.</ParaText>
+              <ParaText id="6198681"> I think we got sidelined with the Indian Act. We weren't allowed to evolve or emerge as a government or as people, so all of a sudden it's become such a huge problem and nobody knows what to do. We're constrained by this notion that it has to happen within a fiscal budget with the federal government. That has to change to a recognition that we have to have private sector investment. We have to create a fiscal capacity in first nations to be able to go to the investment community and secure investments so the things we need can be provided for in an orderly way at a time of need and paid for just like other orders of government do.</ParaText>
+              <ParaText id="6198682">With the creation of the First Nations Fiscal Management Act, we now have the mechanisms to support capacity development in our communities through the First Nations Financial Management Board and financial management systems. We can manage the tax system through the First Nations Tax Commission and we can go to the capital markets through the financial authority once we have secure revenue streams. We're now using our own-source revenue in that process as well.</ParaText>
+              <ParaText id="6198683">Therefore, the mechanism is there. It's proven itself. You heard from the First Nations Finance Authority not long ago. They're shortly going to be at the billion-dollar range of funds raised and they got a AA credit rating. We've proved that it works, so my question to you is, what's the problem? </ParaText>
+              <ParaText id="6198684">Let's get on with it. Give us these revenue streams, get government out of the way and allow us to manage ourselves. That takes a philosophical change at the government level and at the bureaucratic level.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871427">
+            <PersonSpeaking>
+              <Affiliation DbId="258654" Type="40">Mr. Jamie Schmale</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198685"> Okay, let's talk abut the off-ramp. Where do we get started? Is it in bits and pieces? Is this all at once? For those are on the status quo and are a little hesitant about taking that off-ramp, how do we do this?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="30">(1230)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871428">
+            <PersonSpeaking>
+              <Affiliation DbId="209680" Type="28">Mr. Harold Calla</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198686">Mr. Chair, I think too often we find ourselves saying that unless we get all 633 first nations on side, we can't do anything. I think we have to recognize that we have to move forward with those who have capacity and are willing to engage in the development of the capacity to move forward.</ParaText>
+              <ParaText id="6198687">What we have seen as a result of the activities since the First Nations Fiscal Management Act was passed is that as people see success around them of people who have engaged, they want to follow.</ParaText>
+              <ParaText id="6198688">Soon you're going to see a documentary that's been produced by the Financial Management Board that lays out some of the challenges that we've faced historically and the successes that we've enjoyed as a result of the Fiscal Management Act. You're going to see examples of communities that have taken these tools and developed an independent self-reliance and found a way to get out of the social spiral they're in and educate their kids and give their kids an opportunity. </ParaText>
+              <ParaText id="6198689">It comes from fiscal capacity and it comes from leadership having some hope that they can do the things they need to.</ParaText>
+              <ParaText id="6198690">There have been some good things that have been done recently. Certainly, the move to 10-year grants was a good one. We need to move with legislative reform to the Fiscal Management Act, create a statistics institute, create an infrastructure institute and provide long-term funding from the federal government.</ParaText>
+              <ParaText id="6198691">We're not going anywhere and the federal government is not going anywhere. It's silly for us not to engage in accessing the capital markets to respond to our needs, and doing it on an optional basis with those first nations that are ready. We cannot expect everybody to move in lockstep. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871430">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198692">Jamie, we're at time there, a full five minutes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871432">
+            <PersonSpeaking>
+              <Affiliation DbId="258654" Type="40">Mr. Jamie Schmale</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198693">Mr. Chair, I took over from Bob Zimmer. I think I'm not scheduled to go again, but if Mr. Zimmer is connected, I'm happy to let him have a round. We'll see how it goes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871434">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198694">Yes, but we need the ability to translate. Otherwise, we can't run the meeting.</ParaText>
+              <ParaText id="6198695">Ms. Zann, you have five minutes. Please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871437">
+            <PersonSpeaking>
+              <Affiliation DbId="256197" Type="47">Ms. Lenore Zann (Cumberland—Colchester, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198696"> Hi, there. It's nice to see all of you.</ParaText>
+              <ParaText id="6198697">I always like to say thank you, <I>o'wela'lin</I> and hello from the beautiful unceded territory of the Mi'kmaq of Nova Scotia, up here in northern Nova Scotia in Cumberland—Colchester. </ParaText>
+              <ParaText id="6198698">I'd like to ask all of you a couple of questions. I'm going to put them all into one question, and then if we have time and if each of you has an answer to let me know what you think, I'd be really appreciative. </ParaText>
+              <ParaText id="6198699">Today is World Environment Day, as you are probably aware, and that's a time for us to reflect on what we're doing as human beings to help turn things around to protect the natural environment.</ParaText>
+              <ParaText id="6198700">In spite of the urgency of the COVID-19 pandemic, we are seeing horrifying violence and indefensible acts of racism against racialized peoples right across North America. I know it happens, but it's being shown on TV screens more now, and there is more attention. Thank God it's coming to more attention. Let's do something about it.</ParaText>
+              <ParaText id="6198701">Also, the domestic violence, misogyny and racism that indigenous women experience daily, both on and off reserve, must surely affect the finances of indigenous communities and their ability to grow wealth. </ParaText>
+              <ParaText id="6198702">I am curious about the desire and intent of indigenous communities and businesses, including the witnesses here today, to put more attention and investment into the protection and well-being of women and girls and LGBTQ2S peoples, and also the interest and intent to invest and develop more green jobs, healthy natural products and alternative green energy projects. </ParaText>
+              <ParaText id="6198703">Who would like to go first? Perhaps it could be Jean Paul Gladu, please. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871441">
+            <PersonSpeaking>
+              <Affiliation DbId="262700" Type="28">Mr. Jean Paul Gladu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198704">I'll address one part of that.</ParaText>
+              <ParaText id="6198705">With regard to the environmental protection, we're often seen as the stewards of mother earth. What I think is an opportunity for this country at all levels—private sector, federal government, etc.—is to empower people by having seats at the table. </ParaText>
+              <ParaText id="6198706">The guardians program is an example of having our moccasins on the ground across the country. I know there is a proposal that is coming forward, one that I know has been partially supported.</ParaText>
+              <ParaText id="6198707">It's really important that our voices be at the table—on the board of directors, on the Canada Energy Regulator, having the indigenous advisory group—and to make sure that our women are also represented on these boards in these powerful positions to bring their influence. That's how you build the capacity and that's how you build stronger relationships. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="35">(1235)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871443">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198708"> Mr. Ejesiak has his hand up as well, Ms. Zann. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871444">
+            <PersonSpeaking>
+              <Affiliation DbId="256197" Type="47">Ms. Lenore Zann</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198709">Go ahead, Mr. Ejesiak.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871445">
+            <PersonSpeaking>
+              <Affiliation DbId="262701" Type="28">Mr. Kirt Ejesiak</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198710">I agree with J.P. I think you need to back that up with financial resources for those people to participate. I can tell you that it wouldn't take much, really, for any group, such as the Inuit Business Council or others, to find members who would like to speak on behalf of these important issues. </ParaText>
+              <ParaText id="6198711">I will go further by saying that our infrastructure deficits in our communities need addressing. The challenge is the procurement. It will take 10 years to procure hundreds of millions of dollars in our communities. We need to think of this as a COVID procurement strategy. We need to get the money out the door for companies that are able to build these water treatment centres, sewage treatment plants and houses. I think we need to address all those issues as urgently as we're addressing these issues today. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871446">
+            <PersonSpeaking>
+              <Affiliation DbId="256197" Type="47">Ms. Lenore Zann</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198712">Thank you very much. </ParaText>
+              <ParaText id="6198713">Mr. Jules, would you comment?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871448">
+            <PersonSpeaking>
+              <Affiliation DbId="111593" Type="28">Mr. C.T. (Manny) Jules</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198714">One thing that happens with pandemics is that they fundamentally change society. We have to be able to think about what societal changes will happen as a result of COVID-19 and truly make this world a better place. In order to do that, we have to be able to take the steps necessary. As I've been saying throughout this period of time, it has to be based on jurisdiction, because we have to be in a position to look after those who are most vulnerable within our communities. </ParaText>
+              <ParaText id="6198715">When you look at that, who is most disenfranchised from the land in our communities? It is the women, as a result of marital breakdown. It is the children. We have to be able to have the institutions to be able to look after those affected, but also we have to be able to have the entrepreneurial spirit to make sure we are resilient within our economies. Right now all of that is being shut off from us.</ParaText>
+              <ParaText id="6198716">One of the things—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871449">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198717">I'm sorry, Mr. Jules, but we're right at the end of our time.</ParaText>
+              <ParaText id="6198718">We'll go now to Mr. Zimmer. In his cross-country drive, he has now purchased a new vehicle, apparently. </ParaText>
+              <ParaText id="6198719">I can see you much more clearly now, Bob. Let's try it once again. Please go ahead for five minutes...</ParaText>
+              <ParaText id="6198720"> Once again, Bob Zimmer, I can see you but I can't hear you. </ParaText>
+              <ParaText id="6198721">It looks as though Mr. Zimmer's connection has frozen.</ParaText>
+              <ParaText id="6198722">I will ask Mr. Dalton if he can fill in on this CPC segment. You have five minutes, Mr. Dalton.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871451">
+            <PersonSpeaking>
+              <Affiliation DbId="258202" Type="2">Mr. Marc Dalton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198723">Okay. Thank you.</ParaText>
+              <ParaText id="6198724">Kirt, I'm wondering if you could talk a bit about the businesses in Nunavut in terms of the spectrum and the prime focus of most of the businesses. Could you give us the lay of the land when it comes to the indigenous business community in Nunavut? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871454">
+            <PersonSpeaking>
+              <Affiliation DbId="262701" Type="28">Mr. Kirt Ejesiak</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198725">Our business community consists of mostly small entrepreneurs. That would be 20 businesses or less. They range from small convenience stores to small hotels to companies that bridge services like Canadian Tire in their communities. They would bring in most of the goods. There are small builders and companies like ours. We service governments with drones and imagery. We have folks who are consultants and former politicians. There is a full spectrum, from companies like mine that can afford office space to small businesses that are mostly at home. The revenues would be $50,000 or less, I would say, for most small Inuit businesses, but we do have businesses that are in the millions and have been around for 20 or 30 years. They are likely doing big projects with the mining companies. </ParaText>
+              <ParaText id="6198726">We have a huge gamut. I think the challenge for us as a small business community is having a seat at the table. We often watch with interest some of these big megaprojects, but we're often so busy trying to service our customers that we don't actually put our hand up and say, “You know, it's time we collectively got together and spoke on these important issues.” That is really the impetus for our small organization. What we are requesting from government is financial support. For our organization, one million dollars would keep us running. </ParaText>
+              <ParaText id="6198727">That is where we think we need to have voices at the table. I think it's important that you provide that support, because we need it. We need to be able to bring people to the meeting and share our voices. We appreciate the opportunity—</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="40">(1240)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871459">
+            <PersonSpeaking>
+              <Affiliation DbId="258202" Type="2">Mr. Marc Dalton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198728"> If you don't mind, I'd like to ask about the impact of air transportation. </ParaText>
+              <ParaText id="6198729">Obviously, most of the communities are fly-in communities, but especially during this COVID period, what has been the impact on businesses and the cost of living? Have you noticed changes? Are the flights...? Has that changed, or is it the same as before?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871463">
+            <PersonSpeaking>
+              <Affiliation DbId="262701" Type="28">Mr. Kirt Ejesiak</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198730">I can tell you that everyone is going bananas on this, especially folks who were not born and raised in the north and who are dying to get out. I think that's the real impact. It's really fostered a sort of panic in our communities. </ParaText>
+              <ParaText id="6198731">Air travel has virtually stopped. The Nunavut government is supporting our airlines. That's a tough call. I think we need to ensure that these vital transportation lines are kept open. That's where we would ask the levels of government to support communities that are only fly-in, and all of our communities are only fly-in. </ParaText>
+              <ParaText id="6198732">In terms of revenues, we see the CERB and we see the financial supports that are targeted to indigenous communities in our communities. There's certainly enough spending; it's just that we can't live on supports. We need the businesses to be open. We need to foster regional projects that support the local businesses. I can't survive on handouts, nor do I want handouts. I want to bring my employees back. I want to be able to pay them a fair wage for good work, and I think that's what most businesses want. </ParaText>
+              <ParaText id="6198733">I guess, for an ask, you need to support organizations like ours financially on an ongoing basis if you want to hear us and our voices. </ParaText>
+              <ParaText id="6198734">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871467">
+            <PersonSpeaking>
+              <Affiliation DbId="258202" Type="2">Mr. Marc Dalton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198735">Mr. Chair, I guess my time is over. Is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871469">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198736">It is pretty much over, yes.</ParaText>
+              <ParaText id="6198737">I'm going to try to offer Mr. Zimmer one more opportunity. We should have a chance just before the end of today's meeting.</ParaText>
+              <ParaText id="6198738">Could you say something now, Bob? Go ahead. Just try it.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871471">
+            <PersonSpeaking>
+              <Affiliation DbId="258112" Type="47">Mr. Bob Zimmer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198739">Is it working now?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871472">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198740">I can hear you fine now. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871474">
+            <PersonSpeaking>
+              <Affiliation DbId="258112" Type="47">Mr. Bob Zimmer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198741">My device literally just overheated. </ParaText>
+              <ParaText id="6198742">Dr. Powlowski, it is that warm in Thunder Bay today, as you know.</ParaText>
+              <ParaText id="6198743">I'll get to my questions. Thanks for the opportunity, Chair.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871476">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198744">It won't be right now, Bob. I'm sorry. You will have another opportunity coming up.</ParaText>
+              <ParaText id="6198745">
+                <B>Mr. Bob Zimmer:</B> Okay, thanks.</ParaText>
+              <ParaText id="6198746">
+                <B>The Chair:</B> Right now it's Mr. Powlowski. You have five minutes. Go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871480">
+            <PersonSpeaking>
+              <Affiliation DbId="256195" Type="47">Mr. Marcus Powlowski (Thunder Bay—Rainy River, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198747">Thank you. </ParaText>
+              <ParaText id="6198748">That's a great panel. </ParaText>
+              <ParaText id="6198749">In passing, I want to mention something, and maybe if anybody has any ideas, they could get back to me after the meeting. Fort William First Nation is having trouble finding financing to build a long-term care home on the reserve. It seems like a great idea, for a lot of reasons. We've turned over pretty well every infrastructure rock we could find. Hopefully something is coming up, but not yet. All of you in finance probably understand it a lot better than I do. If you have any ideas of where they could possibly find that funding, perhaps through public-private partnership or things like that, let me know.</ParaText>
+              <ParaText id="6198750">The question I want to ask is more of a philosophical one. Let's take the Ring of Fire. Obviously, this is a tremendous opportunity for development. I think all of you, if I interpret you correctly, are for development, for bringing jobs to communities, and see it as a way of improving life, but there's certainly a downside to development. </ParaText>
+              <ParaText id="6198751">Having been to many fly-in communities, I know they are, in a lot of ways, tremendous communities. They're becoming more and more rare in the world, with people living a pretty traditional lifestyle that they've lived for thousands of years. With development come a lot of bad things. How do you reconcile those? I take it you're on the development side, but what do you say to somebody who's kind of questioning whether we really want that development? </ParaText>
+              <ParaText id="6198752">Maybe I could start with JP, because I know he is from around here.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="45">(1245)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871482">
+            <PersonSpeaking>
+              <Affiliation DbId="262700" Type="28">Mr. Jean Paul Gladu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198753">I am from Thunder Bay. I'm actually on the board of directors of Noront, which has many of the assets in the Ring of Fire.</ParaText>
+              <ParaText id="6198754">My immediate reaction is to give the communities the opportunity to manage. Communities are going to stumble and they're going to stub their toes, but they're also going to find great opportunities. Some people, as in any society, will be challenged. The community as a whole, I believe, given the opportunity, will succeed. We're resilient people. We need to avoid the paternalistic approach that's been very much the fabric of the Canadian government—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871484">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198755"> Is everyone hearing a phone?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871485">
+            <PersonSpeaking>
+              <Affiliation DbId="262700" Type="28">Mr. Jean Paul Gladu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198756">No, I'm not hearing a phone.</ParaText>
+              <ParaText id="6198757">Anyway, I'll end it there in saying that communities have to be empowered to make their own decisions. I think we shouldn't be making them. Those communities need to decide what's best for them.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871486">
+            <PersonSpeaking>
+              <Affiliation DbId="256195" Type="47">Mr. Marcus Powlowski</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198758">Yes, absolutely. The communities have to decide for themselves what's best for them, but maybe I could have the input of some of the other panel members on the question of development versus non-development.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871487">
+            <PersonSpeaking>
+              <Affiliation DbId="209680" Type="28">Mr. Harold Calla</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198759">Mr. Chair, I've actually spent some time in the Ring of Fire communities with The First Nations Major Projects Coalition, and some of those communities are part of this coalition. Part of the discussion that we've had was on decision-making around approvals and recognition of Matawa as a government agency that can participate in that process. I know that in my own community in Squamish, we actually issued our own certificate on environmental assessment, and the LNG project is proceeding because of it.</ParaText>
+              <ParaText id="6198760">This really gets down to sharing power and decision-making, and you need to open the door to allow that to happen. The times that I've spent up there certainly indicated to me that there were communities that are very prepared to support this kind of development. Some are not. We're never going to get consensus. It would be nice, but will we get it?</ParaText>
+              <ParaText id="6198761">The other thing that the Ring of Fire is dependent upon is infrastructure. The Province of Ontario needs to build a road up there, doing it as a public-private partnership. The federal government can step in and provide the means by which that road can access those remote communities. That way we can run fibre optic cable up there and do a bunch of good things for that whole region and not just the indigenous communities. It takes a coordinated effort and it takes the provinces to be on side.</ParaText>
+              <ParaText id="6198762">Part of this also means a new fiscal relationship that Manny and I talked, whereby some revenue-sharing would take place. Many years ago, I was asked by the Canadian government to go across Canada to look at first nations' participation in new projects that included not just first nations but also local governments. The mayor of Prince George said to me at the time, “This is great when you're here and I see my people working, but when you leave, there's not a lot, and if there's a problem here, I've got a big problem.” At some point in time, that kind of fear has to be removed.</ParaText>
+              <ParaText id="6198763"> The government has to step in and reassure people that this will happen. They need to share. They need access to capital. They need an informed ability to contribute to the decision-making, and then some of these projects will proceed.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871494">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198764">Thanks very much.</ParaText>
+              <ParaText id="6198765">We're beyond time, and something strange happened. I had a phone hanging up in my ear. I couldn't hear for a while.</ParaText>
+              <ParaText id="6198766">I have Ms. Bérubé for two and a half minutes. Please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="10871495">
+            <PersonSpeaking>
+              <Affiliation DbId="260582" Type="40">Ms. Sylvie Bérubé</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198767">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="6198768">My question is for Mr. Calla.</ParaText>
+              <ParaText id="6198769">In your opinion, are the federal measures introduced during the past months sufficient to mitigate the effects of the pandemic on the indigenous economy?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871496">
+            <PersonSpeaking>
+              <Affiliation DbId="209680" Type="28">Mr. Harold Calla</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198770">I think many of the programs that have been developed by the federal government are very positive.</ParaText>
+              <ParaText id="6198771">The challenge that we face is that they have excluded first nations individuals, businesses and governments. It only comes through a lot of persistence that we start to see some of these things considered and reflected on. Respectfully, we shouldn't have to do that. You should be doing that as you institute the programs, and that's not happening.</ParaText>
+              <ParaText id="6198772">That's a question that I think you need to ask: Why is this happening in this manner? Why are we always last on the list?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="50">(1250)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871499">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198773">Mr. Jules, did you want to speak?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871500">
+            <PersonSpeaking>
+              <Affiliation DbId="111593" Type="28">Mr. C.T. (Manny) Jules</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198774">Clearly, from my perspective, we're not a high priority of the federal government. We estimate that of the programs that have been announced so far, on a per capita basis indigenous peoples are receiving about 50% of what other Canadians are getting. That imbalance has to be corrected.</ParaText>
+              <ParaText id="6198775">At the same time, in the longer term, we have to be able to look after ourselves, and that can only happen through a new fiscal relationship.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="10871504">
+            <PersonSpeaking>
+              <Affiliation DbId="260582" Type="40">Ms. Sylvie Bérubé</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198776">Mr. Chair, do I have any time left?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871505">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198777">You have 40 seconds.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="10871506">
+            <PersonSpeaking>
+              <Affiliation DbId="260582" Type="40">Ms. Sylvie Bérubé</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198778">Thank you.</ParaText>
+              <ParaText id="6198779">How many indigenous businesses have had to shutter their doors in the wake of this?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871507">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198780"> Would you like to answer?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871508">
+            <PersonSpeaking>
+              <Affiliation DbId="209680" Type="28">Mr. Harold Calla</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198781">We don't know. There's no means for us to get access to that type of information.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871509">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198782">Thank you. That's a very interesting answer.</ParaText>
+              <ParaText id="6198783">We'll go now to—I'm sorry.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871511">
+            <PersonSpeaking>
+              <Affiliation DbId="111593" Type="28">Mr. C.T. (Manny) Jules</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198784">Can I just interject for a second here?</ParaText>
+              <ParaText id="6198785">One of the things we've uncovered, though, is that in a lot of our communities, because we're a loophole economy, the casinos are being shut down, which impacts the public health systems. A lot of our businesses are on the verge of bankruptcy because of COVID-19, so the numbers are going to be strikingly high. What we need to be able to track that is a statistical institute.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871513">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198786">Thank you.</ParaText>
+              <ParaText id="6198787">Ms. Gazan, please go ahead. You have two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871519">
+            <PersonSpeaking>
+              <Affiliation DbId="255229" Type="2">Ms. Leah Gazan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198788">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="6198789">My question is for Mr. Ejesiak.</ParaText>
+              <ParaText id="6198790">The Inuit Business Council is asking for interest-free lines of credit of up to $250,000 due to issues with Inuit businesses being eligible for federal loans.</ParaText>
+              <ParaText id="6198791">To your knowledge, why have some of the Inuit businesses been ineligible for the loans offered by the federal government?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871521">
+            <PersonSpeaking>
+              <Affiliation DbId="262701" Type="28">Mr. Kirt Ejesiak</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198792">Number one, I mentioned that most small Inuit businesses are home-based. If you recall, some of the loans that exist are tied to the amount of payroll. I think they have reduced the requirement to $20,000.</ParaText>
+              <ParaText id="6198793">Many small business owners do not take a salary. They pay themselves dividends, which currently are ineligible. If there's some money left over at the end of the year, they would pay themselves whatever, $30,000 or $40,000.</ParaText>
+              <ParaText id="6198794">As well, I think the challenge for many businesses is that they are new and typically do not have the financial information required to be eligible. Many businesses do not have bank accounts, and of course, for the Canada emergency business account program you need to be tied to a financial institution. </ParaText>
+              <ParaText id="6198795">There are many ways to address some of these issues. We can untie it from the payroll requirement. We can untie it from a financial institution. There are existing lenders in our communities; it's just how do we do it in a way that gives us the same opportunity?</ParaText>
+              <ParaText id="6198796">In terms of amount, we think we have an extraordinary case. You can imagine building a house with materials that you have to pay for now, but you won't be starting construction until next March. That's because you have to assemble the materials, transport them get them on the ship and into your communities before October 1.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871526">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198797">We will have to leave it there, Ms. Gazan. Thank you very much.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871527">
+            <PersonSpeaking>
+              <Affiliation DbId="255229" Type="2">Ms. Leah Gazan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198798">Thank you very much.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871528">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198799">We're down to the last few minutes.</ParaText>
+              <ParaText id="6198800">Mr. Zimmer, you must be in Terrace Bay by now if you're driving home.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871529">
+            <PersonSpeaking>
+              <Affiliation DbId="258112" Type="47">Mr. Bob Zimmer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198801">No, I'm just sitting here trying to stay online.</ParaText>
+              <ParaText id="6198802">I want to talk to Mr. Ejesiak. </ParaText>
+              <ParaText id="6198803">I've been in contact with the Chamber of Mines up in the north about the programs that haven't really been impactful to them during COVID. Because my time is limited, I will just ask that you write a response to me later. I want to save my last minute and 30 seconds for Mr. Calla.</ParaText>
+              <ParaText id="6198804">It's great to see Manny here as well. He has been working so long to see some positive change for indigenous communities that just want to be part of the economy and stand together with everybody else. I think it's great. </ParaText>
+              <ParaText id="6198805">Mr. Calla, I want to ask about your First Nations Major Projects Coalition. I know quite a bit about it, but how many groups do you have signed on, and how many projects? </ParaText>
+              <ParaText id="6198806">I know you have some ambitious plans, and if they are realized, it's going to be great, especially considering we're in a tough place right now with COVID and being $1 trillion in debt. We need to get on our feet again with resource development.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="55">(1255)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871531">
+            <PersonSpeaking>
+              <Affiliation DbId="209680" Type="28">Mr. Harold Calla</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198807"> There are about 60 communities from Ontario to British Columbia that are now part of it, and it's starting to look at Atlantic Canada.</ParaText>
+              <ParaText id="6198808"> The First Nations Major Projects Coalition responds to first nations' interests on projects. It has developed standards for environmental assessment. It participated in the review that took place. It looks at business models and provides the administrative and financial support to first nation communities that otherwise might not be able to grasp the potential.</ParaText>
+              <ParaText id="6198809">We're now looking at a $300-million hydro project in the Cheslatta area, turning a poor situation into a positive one by rewatering the Nechako River and creating fisheries again and using power that would be generated from this hydro project to support the development of a gold mine, with the support of the communities.</ParaText>
+              <ParaText id="6198810">They are also involved in Coastal GasLink project in British Columbia, and are looking at participation and the potential ownership of Trans Mountain, when and if that proceeds.</ParaText>
+              <ParaText id="6198811">What we're facing and what they're facing is this need, in the absence of a new fiscal relationship that provides certainty around first nations as a government to raise revenue, for access to the capital markets. As we've said in the past, and as I'll say again today, the federal government needs to step up to support first nations' access to the capital markets to secure their equity interest in these operations, if they choose to do so. Canada has historically done this. The most recent, which is not the best example, is Churchill Falls. We think we can do a better job.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871537">
+            <PersonSpeaking>
+              <Affiliation DbId="258112" Type="47">Mr. Bob Zimmer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198812">We need to get it done.</ParaText>
+              <ParaText id="6198813">Thank you very much, Mr. Chair, for your time and your patience.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871538">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198814">You still have another minute or so, if you have any other questions you'd like to ask, Mr. Zimmer.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871539">
+            <PersonSpeaking>
+              <Affiliation DbId="258112" Type="47">Mr. Bob Zimmer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198815">Mr. Calla, we've talked about the access to capital too, to really be players, and about a pipeline possibly being acquired by the group as well. I see you as serious players. You've spent many years in the game to get to where you are today.</ParaText>
+              <ParaText id="6198816">My hope is that it will come to fruition and could be part of indigenous and non-indigenous communities moving forward together in Canada with resource development and the rest. We really need it all to be firing on all cylinders.</ParaText>
+              <ParaText id="6198817">Harold, perhaps you have some last comments as we finish here.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871541">
+            <PersonSpeaking>
+              <Affiliation DbId="209680" Type="28">Mr. Harold Calla</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198818">The difference between getting federal government support at a rate that can be secure from the capital markets with that government support and having to go to the commercial banking industry is so significant that many of these projects won't proceed, or there'll be no benefit left to first nation communities.</ParaText>
+              <ParaText id="6198819">It is possible to structure a relationship with Canada using Canada's balance sheet to support equity acquisition and provide Canada a benefit for the use of its balance sheet. I think that's the solution.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10871543">
+            <PersonSpeaking>
+              <Affiliation DbId="258112" Type="47">Mr. Bob Zimmer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198820">Thank you once again, Harold.</ParaText>
+              <ParaText id="6198821">Thanks again, Chair and committee members, for your patience today.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10871544">
+            <PersonSpeaking>
+              <Affiliation DbId="258653" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6198822">Whatever you did, the connection was excellent that time, Mr. Zimmer. Thanks very much.</ParaText>
+              <ParaText id="6198823">I really want to express my appreciation on behalf of all our committee members to our witnesses today. This is Indigenous History Month. One of the things attached to this is respecting the talent and the quality of the people of our first nations, and they are so well represented by our panel today. This is remarkable. I wish more people could have seen and heard this meeting, but we'll certainly do our best to carry the message we heard today through to the decision-makers.</ParaText>
+              <ParaText id="6198824">Once again, thank you all so much.</ParaText>
+              <ParaText id="6198825">I declare this meeting adjourned.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>
