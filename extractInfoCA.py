@@ -23,6 +23,8 @@ def get_turns(tree):
     global numturns
     numturns = 0
     text = ''
+    global turns
+    turns = dict()
     for intervention in tree.getroot().iter('Intervention'):
         numturns += 1
         text += 'Turn ' + str(numturns) + '\n'

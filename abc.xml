@@ -1,0 +1,1828 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="10807113">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>EVIDENCE</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Standing Committee on Veterans Affairs</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 005</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">43rd PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Thursday, March 12, 2020</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Le jeudi 12 mars 2020</ExtractedItem>
+    <ExtractedItem Name="Institution">Standing Committee on Veterans Affairs</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Recorded by Electronic Apparatus]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">EVIDENCE</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">March 12, 2020</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMBER 005</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 005</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 005</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">05</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">12</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">03</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2020</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2020/03/12 08:45:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent des anciens combattants</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on Veterans Affairs</ExtractedItem>
+    <ExtractedItem Name="Acronyme">ACVA</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Chair</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Mr. Bryan May</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">43</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="08" Mn="50">(0850)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" id="10807125">
+            <PersonSpeaking>
+              <Affiliation DbId="258561" Type="35">The Chair (Mr. Bryan May (Cambridge, Lib.))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119782"> Good morning, everyone.</ParaText>
+              <ParaText id="6119783">Pursuant to Standing Order 108(2) and the motion adopted by the committee on Tuesday, February 25, 2020, the committee is continuing its study of the backlog of disability benefit claims at the Department of Veterans Affairs.</ParaText>
+              <ParaText id="6119784">We're very pleased this morning to have two different panels. On our first panel, from Union of Veterans' Affairs Employees, we have Virginia Vaillancourt, national president, and Mr. Mike Martin, communications. </ParaText>
+              <ParaText id="6119785">Welcome to you both.</ParaText>
+              <ParaText id="6119786">From the Royal Canadian Legion, we have Raymond McInnis, director, veterans services, Dominion Command, and Steven Clark, national executive director.</ParaText>
+              <ParaText id="6119787">Thank you to all of you for being here.</ParaText>
+              <ParaText id="6119788">Very quickly, I don't know if you've all been to a committee meeting before, but you'll each be given an opportunity to make opening remarks, and then we'll have questions.</ParaText>
+              <ParaText id="6119789">My role is as referee to try to keep us on time. </ParaText>
+              <ParaText id="6119790">I believe we're going to start with the Union of Veterans' Affairs Employees. </ParaText>
+              <ParaText id="6119791">Ms. Vaillancourt, are you speaking today? The next 10 minutes is all yours.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807133">
+            <PersonSpeaking>
+              <Affiliation DbId="260448" Type="28">Ms. Virginia Vaillancourt (National President, Union of Veterans' Affairs Employees)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119792"> Thank you for the opportunity to appear before the committee today. We're here this morning as representatives of the Union of Veterans' Affairs Employees, which is a component of the Public Service Alliance of Canada.</ParaText>
+              <ParaText id="6119793">UVAE represents over 2,800 employees with Veterans Affairs Canada, including most of the front-life staff who deal with veterans and their families every day. We are here today to talk to you particularly about the work and challenges of case managers within Veterans Affairs Canada pertaining to their caseloads and the backlog of disability claims.</ParaText>
+              <ParaText id="6119794">Veterans Affairs programs and services, like the needs of our veterans, are vast, complex and always evolving. Our case managers are one group of front-line staff who are subject matter experts in VAC services and benefits. They must understand applicable legislation and the various regulations, policies and acts that are used to determine eligibility for those services and benefits. They must know how to deal with mental health issues, crisis intervention, frustrated and sometimes angry clients and suicide prevention, and they must understand and use motivational interviewing techniques.</ParaText>
+              <ParaText id="6119795">As you have heard from departmental officials and others, one of the major problems is that the backlogs and wait times for services continue to grow, and veterans are waiting longer for services. This is causing financial, physical, mental and emotional pain and hardships for veterans and their families. It is also having a direct impact on those on the front lines who are attempting to serve them. We wish we could tell you that this is a new development, but the backlog and increased caseloads for case managers at Veterans Affairs have been growing for years.</ParaText>
+              <ParaText id="6119796">In 2015-16, the Minister of Veterans Affairs made a commitment to reduce case manager ratios to 25:1 in order to allow more time and focus on the needs of veterans and their families. This was also supported in a 2016 brief to the House of Commons by the veterans ombudsman.</ParaText>
+              <ParaText id="6119797">Despite this promise and several attempts by the federal government since that time, VAC has failed to meet that target. By any metric, they have failed miserably, as you will see from the information we are about to provide.</ParaText>
+              <ParaText id="6119798">This committee has already heard about the impact this has had on veterans and their families. This includes increased wait times and reduced services, fewer home visits, and fewer frequent physical and mental health interventions unique to the veteran population. This morning we will also tell you about the impact this is having on the front-line staff who work with veterans and their families every day.</ParaText>
+              <ParaText id="6119799">When we learned that your committee was studying this issue, we started to gather information from case managers from across the country. In the last two weeks, we interviewed case managers from the regions about their caseloads, their working conditions and the impact this was having on their work and the veterans they serve.</ParaText>
+              <ParaText id="6119800">My colleague Mike, who completed the interviews, is going to take over now and provide you with what he learned from those interviews. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807193">
+            <PersonSpeaking>
+              <Affiliation DbId="260451" Type="28">Mr. Mike Martin (Communications, Union of Veterans' Affairs Employees)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119801"> Thank you.</ParaText>
+              <ParaText id="6119802">There are a number of areas we wanted to report on from the interviews with our case managers. First of all, we asked them about their current caseloads. Here's what they told us. We would like to read this into the record.</ParaText>
+              <ParaText id="6119803">This is how many individual veterans they are being asked to assist: 55, 55, 50, 66, 64, 56, 45, 53, 55, 40, 56, 46, 47, 50.</ParaText>
+              <ParaText id="6119804">We asked if they could manage that workload. Here's what they told us: “Trying to manage this many cases is ludicrous, impossible”. “I'm trying to play catch-up, and I never can catch up”. “I try to make a difference every day, but this job is making me sick”. “I love my job and love helping vets, but I don't have the time to give them the attention they deserve”.</ParaText>
+              <ParaText id="6119805">We asked about their working conditions. Here's what they told us: “We're just putting out fires; on to the next call”. “We don't have time to do proper intake, assessments, referrals, follow-up or consultation with providers”. “We used to do home visits every two or three weeks; now it's once a year”. “We're doing triage, focusing on high-risk cases, but even some of them fall through the cracks”. “We're dealing with complex mental health issues that need constant care and intervention, and we just don't have the time”. “Veterans and their families deserve better than this”.</ParaText>
+              <ParaText id="6119806">The high caseloads and demanding working conditions have led directly to high staff vacancies and an employee retention problem, particularly at the case manager level within VAC. </ParaText>
+              <ParaText id="6119807">In the Atlantic region, upwards of 25% of positions are vacant, and even more in bilingual areas. This is exacerbating an already difficult situation at the workplace. Here are some more quotes: “The pattern is to hire, train, give them their caseloads and then watch them transfer out or quit because of the workload”. “We've been short-staffed in our office for four years”. “The hiring process takes six months. That means we're without a body for at least that long”. “We need some incentives...to get people to stay as case managers. The turnover is killing us”.</ParaText>
+              <ParaText id="6119808">Every single case manager we spoke to had suffered from stress and burnout to some degree. That included anxiety, sleeplessness, weight gain and physical, mental and emotional strain from their work. Here's some of what they told us: “We have to find outside ways to manage the stress. Some take leave, but then the workload is even higher when they come back”. “The intensity and pressure is relentless. Everyone in our office is suffering”. “Many vets are suicidal, and that has an impact on us. We take that home with us to our families”. “The support is just not there for staff”.</ParaText>
+              <ParaText id="6119809">There were also some disturbing reports of bullying and harassment by managers within VAC toward the front-line staff. While this is not the case in all regions, some offices reported that negative attitudes and harassing comments by some of the managers made their already-stressful jobs even more difficult. Formal complaints did not achieve positive results, so this became another burden that case managers in those areas had to deal with, in addition to their heavy workload.</ParaText>
+              <ParaText id="6119810">The backlog of disability claims has added another level of stress to the system for veterans and VAC staff. Case managers reported feeling it every day. Veterans and spouses are very angry and frustrated by the delays. They call and ask for information, and the case managers have nothing new to provide them. For the case managers, it is heartbreaking to see veterans and their families suffer, but they have no ability to help them. Even worse, this is a definite barrier to the case managers developing a positive working relationship with the veterans and their families. The trust is just often not there. Here are some of the quotes: “Vets are frustrated, angry and often screaming at us”. “We understand why they're pissed off. They don't have any money to live on”. “This impacts their treatment plans, and if their pension monies are held up, too, they are suffering. It hurts to watch this every day”. “Why does the website say it will take 16 weeks when it could take up to two years? Vets see that and they ask me what's going on. I have nothing to tell them”. “The veterans feel lied to, and so do we”.</ParaText>
+              <ParaText id="6119811">The backlog has also created security concerns at a number of offices, including those located on bases. There is easy access and little protection for front-line staff. There were reports ranging from verbal abuse to threatening phone calls to actual in-person threats. Several case managers, male and female, reported feeling unsafe at work. </ParaText>
+              <Timestamp Hr="08" Mn="55">(0855)</Timestamp>
+              <ParaText id="6119812"> They have reported these incidents and local managers have requested action and additional security measures, but they are slow to be acted upon by headquarters. There is a quote: “Vets and their spouses yell at us all the time. 1 get it. They're frustrated and angry. But I have felt afraid for my physical well-being.” </ParaText>
+              <ParaText id="6119813">On the GC case system and disengagement process, the changeover from the old CDSN into the new GC case system has caused and continues to cause problems for everyone in the VAC pipeline. From the case manager perspective, this change, as of April 1, 2019, was abrupt and not well planned. They do not feel adequately trained and they continue to have problems making the system work.</ParaText>
+              <ParaText id="6119814">One of the impacts of this rapid change was that they received directions to disengage veterans who were on the old system as of April 1, 2019. They were given lists of veterans and asked to justify why those veterans were still on the system and were told to encourage them to transfer out of the programming into new streams like guided support.</ParaText>
+              <ParaText id="6119815">This process felt and looked heavy-handed to the case managers who had to advocate for veterans who still needed support and had not gotten themselves to the point where they could be self-sufficient or employable. Yet in many areas there is continuing pressure to cut off veterans, and case managers are told they could be negatively affected if they do not follow this direction. </ParaText>
+              <ParaText id="6119816">This is a very difficult time for case managers and the policy of active disengagement is still, to our knowledge, being actively pursued by VAC headquarters. </ParaText>
+              <ParaText id="6119817">Another issue that was raised by many case managers when we spoke to them was the apparent change of direction by VAC when it comes to counselling services for spouses, children and families. Several case managers reported they had been directed to tell family members that they were no longer entitled to access counselling or to see a psychologist because of this policy change. </ParaText>
+              <ParaText id="6119818">Understandably the clients are not happy about this change and the case managers are worried about the impact on spouses and children. Here are some quotes: “Kids are getting kicked off counselling when they have issues like 'If I'm good, maybe Dad won't kill himself'”. “Medavie Blue Cross has been calling social workers telling them they have to cut family members off”. “Cutting...family members off benefits like counselling is utterly ridiculous and short-sighted”. “I'm told to send these children to the provincial system, when I know there's a handful of programs and a year-long waiting list”.</ParaText>
+              <ParaText id="6119819">I'll turn it back to Virginia for some recommendations.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="09" Mn="00">(0900)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807347">
+            <PersonSpeaking>
+              <Affiliation DbId="260448" Type="28">Ms. Virginia Vaillancourt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119820">We realize that we've only given you a snapshot of what we've heard and what is happening across the country when it comes to how veterans' services are being provided, but we hope you will appreciate that from the perspective of the front-line workers, the case managers, this is a system in crisis, and it has been in crisis for far too long.</ParaText>
+              <ParaText id="6119821">When we were talking to them, we also asked them to give their recommendations to help fix this problem. Here are their recommendations for change.</ParaText>
+              <ParaText id="6119822">First and foremost, they want the caseloads to be lowered as quickly as possible to a manageable level. Twenty-five may not be possible in the short term, but that should be a goal over time, but there should not be another five years of waiting. They've already been waiting for five years since the initial promise to reduce caseloads to 25:1. There must be immediate change for the benefit of our veterans and the employees. </ParaText>
+              <ParaText id="6119823">They also demanded that Veterans Affairs Canada immediately hire more front-line staff to clean up the backlog and start treating veterans in a timely manner with the respect they deserve. This too is a situation that has dragged on far too long, and we hope this committee will press the government and the department for swift action in this regard.</ParaText>
+              <ParaText id="6119824">They also want better support systems for employees, more training and support for employees, and higher level training and support for managers and supervisors to help them do their jobs more effectively.</ParaText>
+              <ParaText id="6119825">Finally, they would like the federal government to review their job descriptions and classification levels to ensure that they fully capture the important work they are engaged in. </ParaText>
+              <ParaText id="6119826">Thank you for inviting us to meet with you to raise the issues, concerns and recommendations of our case managers. They have given us their voice to bring you these messages. Their hope and ours is that positive change can come for the benefit of veterans, their families and those who have the honour to serve them. Our veterans deserve better.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807395">
+            <PersonSpeaking>
+              <Affiliation DbId="258561" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119827">Thank you very much.</ParaText>
+              <ParaText id="6119828">Now from the Royal Canadian Legion, I believe, Raymond, the next 10 minutes is all yours.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807398">
+            <PersonSpeaking>
+              <Affiliation DbId="237082" Type="28">Mr. Raymond McInnis (Director, Veterans Services, Dominion Command, Royal Canadian Legion)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119829"> Honourable Chairman, members of the parliamentary steering committee on veterans affairs, good morning. It is indeed a great pleasure to appear in front of your committee once again. </ParaText>
+              <ParaText id="6119830">On behalf of our dominion president, Mr. Tom Irvine, and our members, my name is Ray McInnis—I use Raymond when I'm in trouble with my mother, but that's okay. I am the director of veterans services at the national headquarters of the Legion. I am a retired chief warrant officer. I served 33-plus years in the regular and reserve forces. </ParaText>
+              <ParaText id="6119831">With me today is the Legion's national executive director, Mr. Steven Clark, and we thank you for the work you do for our veterans and their families.</ParaText>
+              <ParaText id="6119832">We support your study of the backlog of disability benefits claims at Veterans Affairs Canada. In a minute, I'd like to share some evidence-based advice, but first, I want to outline very briefly how we are equipped to give such advice.</ParaText>
+              <ParaText id="6119833">As you may know, the Legion has been assisting veterans and their families since 1926, through our legislative mandate in both the Pension Act and the Veterans Well-being Act. We are the only veterans service organization in Canada that can help veterans and their families with representations to VAC and the Veterans Review and Appeal Board. We do it through our trained, professional and government-security-cleared command service officers and their assistants.</ParaText>
+              <ParaText id="6119834">To give you a sense of how busy we are, last year our command service officers prepared and represented disability claims on behalf of over 4,000 veterans to VAC and over 300 reviews and appeals to the Veterans Review and Appeal Board. We also counselled almost 1,100 veterans for various reasons.</ParaText>
+              <ParaText id="6119835">In addition to legion command service officers, every branch has an active and trained volunteer service officer to respond to the challenges facing our veteran community. With 1,400 branches across Canada, you can see that our branch service officers offer an essential network of support. They do not complete applications to VAC, but they are often our first line of contact.</ParaText>
+              <ParaText id="6119836">When we assist a veteran or family member with a first application or departmental review, it is a very thorough process, and we monitor a veteran's file for life, inclusive of reassessments. We don't send VAC applications unless they contain a confirmed diagnosis. I can tell you, it's a lot of work, but we take great pride in what we do.</ParaText>
+              <ParaText id="6119837">Here's what's changed significantly. The majority of our complaints now are about the backlog. We are asked daily about the status of applications. This is even after veterans have visited their My VAC Account and used the wait time tool. They still call us. </ParaText>
+              <ParaText id="6119838">Why do they call us? They call us because the wait time tool does not account for the thousands of applications Veterans Affairs has to process before it can even get to yours. The tool provides information on averages over the last 90 days, not what you can realistically expect based on both the current backlog and when your own application was submitted. For example, today you'll get a 54-week processing estimate for a single condition. That estimate would only be valid if there were no backlog.</ParaText>
+              <ParaText id="6119839">We'd also like the department to be more transparent and modify the wait time tool to reflect reality. Not only do we receive many unnecessary calls; we can't even tell veterans with any degree of accuracy when their claim will be processed and the decision rendered. </ParaText>
+              <ParaText id="6119840">We understand that the backlog is huge, and we do applaud the department for trying to streamline the decision process with veteran benefit teams, limiting the transfer of files and providing the authority to the teams to make the decisions, rather than requiring medical advisory consultation on the claims they do. They can also triage claims for disability benefits to expedite applications for veterans at a higher risk. We use it all the time for our “red zone” applications.</ParaText>
+              <ParaText id="6119841">We also need to see consistency in the way that conditions related to certain occupations are handled. For example, we are seeing more unfavourable decisions rendered for those from the support trades who have musculoskeletal conditions, and we have discussed the issue with the department. We still don't have an answer on that yet, but it's there.</ParaText>
+              <ParaText id="6119842">We are also supportive of the department's combining conditions that historically have been a consequence of the initial condition, as long as there's a confirmed diagnosis for it. It will be crucial to implement such measures as soon as possible. </ParaText>
+              <ParaText id="6119843">I can tell you, I have been with the Legion for nine years, and I've never seen so many applications. We have reached out to veterans' organizations, including the Canadian Armed Forces and the RCMP to advertise our services. As a result, we have seen a steady increase in applications and departmental reviews right across the country.</ParaText>
+              <ParaText id="6119844">The increase is also due to the change in what is referred to as the “partial entitlement” policy, which the department quietly changed in February 2018. The change benefited veterans who have received partial entitlements in previous years and can now apply to receive full entitlements in some specific cases.</ParaText>
+              <Timestamp Hr="09" Mn="05">(0905)</Timestamp>
+              <ParaText id="6119845"> This one change resulted in many more departmental reviews and appeals. As an example, historically, the Legion will complete approximately 80 departmental reviews in a year, but from August 2018 to December 2018, we completed 552. They were all favourable. In 2019, we completed 601 reviews, and most of these were due to the new partial entitlement policy. </ParaText>
+              <ParaText id="6119846">In the end, we believe the department needs to further simplify its processes and get rid of some of the layers that may no longer be needed. </ParaText>
+              <ParaText id="6119847">Finally, I'd like to share a couple of important points about the Legion's work, which may be good background for you and for your own work with veterans. </ParaText>
+              <ParaText id="6119848">The Legion now offers a one-year free membership to all still-serving military members, retired military, RCMP and retired RCMP who have not yet had the opportunity to join the Legion. It is called the veterans welcome program. It is an opportunity to stay connected to the military and policing family, to honour and support those who served and sacrificed, and to strengthen the community. </ParaText>
+              <ParaText id="6119849">Through our poppy fund, we raised and distributed close to $17 million in 2018 to support programs such as Leave the Streets Behind—our homeless veterans program—and to meet the essential needs of veterans and their families who have limited financial means. The poppy fund is available at all levels of the Legion and is accessible to veterans in need, including still-serving members and their families. </ParaText>
+              <ParaText id="6119850">We work in close partnership with VAC and other funders to ensure our veterans and widows have a complete solution, so that they do not have to go without. </ParaText>
+              <ParaText id="6119851">I will end on this thought. There is no quick fix to this major backlog. We do not see any end in sight. In fact, we believe that when the new transition groups are fully operational, more release personnel will be applying for benefits. There is a danger of the backlog becoming longer. We want to help the department avoid this disastrous scenario with some of the ideas presented earlier. We stand ready to help further.</ParaText>
+              <ParaText id="6119852">Chairman, we thank you for the opportunity to make this presentation. We'd be happy to take any questions.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="09" Mn="10">(0910)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807469">
+            <PersonSpeaking>
+              <Affiliation DbId="258561" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119853">Thank you very much, Mr. McInnis.</ParaText>
+              <ParaText id="6119854">We are going to start with questions. First up, we have MP Wagantall.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10807472">
+            <PersonSpeaking>
+              <Affiliation DbId="257589" Type="47">Mrs. Cathay Wagantall (Yorkton—Melville, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119855">Thank you very much, Chair. </ParaText>
+              <ParaText id="6119856">I really appreciate your all being here today. Clearly, you have a good handle on the dynamics and the challenges that our veterans are facing.</ParaText>
+              <ParaText id="6119857">I'd like to ask our union representatives who are here today a question. In testimony to this committee on March 10, the deputy minister of Veterans Affairs committed to providing this committee with the department's plan to clear the backlog. He promised to provide that in 30 days. </ParaText>
+              <ParaText id="6119858">My question is this: Has the deputy minister or the <Affiliation DbId="246259" Type="4">minister</Affiliation> consulted with the union directly to develop their plan to clear the backlog? If they have, when did those consultations take place?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807485">
+            <PersonSpeaking>
+              <Affiliation DbId="260448" Type="28">Ms. Virginia Vaillancourt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119859">I had a meeting with the <Affiliation DbId="246259" Type="4">Minister of Veterans Affairs</Affiliation> on February 24 before I flew to Charlottetown for some additional meetings. I raised concerns about the wait times, the backlogs and the case management numbers. Unfortunately, I left there not really feeling positive that he's really going to do stuff. It was disappointing, in my opinion, that one of the comments that was made was that he doesn't really control the department, yet if we look at the mandate letter from <Affiliation DbId="214296" Type="1">Trudeau</Affiliation>, we know that he does have a responsibility to oversee. I'm going to continue to push. </ParaText>
+              <ParaText id="6119860">I met with previous ministers of Veterans Affairs as well and raised the same concerns. It's not like it hasn't been brought up many times before. Unfortunately, we haven't heard from the department in regard to any changes or options for plans to get rid of the backlog. </ParaText>
+              <ParaText id="6119861">We meet with senior management twice a year as our union group. We haven't had any discussions there, although we've raised all of our concerns on the caseloads, the morale and the backlogs. We're still waiting.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10807493">
+            <PersonSpeaking>
+              <Affiliation DbId="257589" Type="47">Mrs. Cathay Wagantall</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119862">You presented the concerns. You're saying you don't have any discussion.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807495">
+            <PersonSpeaking>
+              <Affiliation DbId="260448" Type="28">Ms. Virginia Vaillancourt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119863">We do talk. When our union reps—there are five regional vice-presidents across the country, my national executive vice-president and I—meet with senior management, we're bringing all of the concerns directly to them. We have discussions about our concerns and what we feel could potentially change those, but we're not seeing the changes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10807501">
+            <PersonSpeaking>
+              <Affiliation DbId="257589" Type="47">Mrs. Cathay Wagantall</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119864">Okay. There is dialogue.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807502">
+            <PersonSpeaking>
+              <Affiliation DbId="260448" Type="28">Ms. Virginia Vaillancourt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119865">There's some dialogue, but not to the degree that I feel is required to effect the change that's needed. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10807503">
+            <PersonSpeaking>
+              <Affiliation DbId="257589" Type="47">Mrs. Cathay Wagantall</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119866">Mr. Martin, did you want to say anything?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807507">
+            <PersonSpeaking>
+              <Affiliation DbId="260451" Type="28">Mr. Mike Martin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119867">I would just like to note that we're providing information and asking questions, but we're not getting answers or a plan. If I heard your question correctly, I don't think there's any consultation on the plan to fix the backlog. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10807508">
+            <PersonSpeaking>
+              <Affiliation DbId="257589" Type="47">Mrs. Cathay Wagantall</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119868"> Correct, so your hope would be as well.... I believe it was made clear that the plan would be available to the public, so I'm assuming it would be available to you as well. We'll wait and see what has transpired 30 days from now.</ParaText>
+              <ParaText id="6119869">You mentioned some efficiencies that your union would support to help clear the backlog. I'd just like you to review those again. How did you come to the decision as to what the priority would be?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807510">
+            <PersonSpeaking>
+              <Affiliation DbId="260448" Type="28">Ms. Virginia Vaillancourt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119870">The big portion of that is ensuring that we're talking directly to the staff who are doing the work on a daily basis. In my opinion, they're the ones who can effectively tell the department what needs to be changed and how it is. </ParaText>
+              <ParaText id="6119871">As I mentioned, we need those case management numbers lowered. I did read the testimony of the department from February 27, and I had to laugh at the number of case managers who were hired compared with what our stats show. We need those case management numbers lowered down to 25 minimum. We also need more staff in the department to be able to help with the backlog of cases both in adjudication and pay and benefits, and with the case management numbers.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10807515">
+            <PersonSpeaking>
+              <Affiliation DbId="257589" Type="47">Mrs. Cathay Wagantall</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119872">Can you tell me realistically, when a case manager comes on, when you look at how complicated and how convoluted the services are, and they're constantly changing, what is a realistic time frame for that individual to get the basic training they would need, and what kinds of tools are available to them? From what you say, the case managers who are already serving are already overwhelmed. Is there an opportunity to interact with each other so they can get the support they need for the questions they have? Where would you go for answers to those questions?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807520">
+            <PersonSpeaking>
+              <Affiliation DbId="260448" Type="28">Ms. Virginia Vaillancourt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119873"> I would personally say that it's a minimum of six months when case managers are hired, because there's a lot of legislation, policies and procedures they have to learn. There are a lot of programs they have to learn the ins and outs of. The department just put in, I think it was last year or the year before, a national training program. A lot of those are done via WebEx, so case managers will sit in front of their computers and learn via WebEx training.</ParaText>
+              <ParaText id="6119874">In the department, they have standard training evaluation officers, so if case managers have questions, they can reach out to them.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="09" Mn="15">(0915)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="10807527">
+            <PersonSpeaking>
+              <Affiliation DbId="257589" Type="47">Mrs. Cathay Wagantall</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119875">Thank you.</ParaText>
+              <ParaText id="6119876">Mr. McInnis, the service managers...?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807529">
+            <PersonSpeaking>
+              <Affiliation DbId="237082" Type="28">Mr. Raymond McInnis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119877">Service officers.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10807533">
+            <PersonSpeaking>
+              <Affiliation DbId="257589" Type="47">Mrs. Cathay Wagantall</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119878">How long do your service officers stay in those roles? Is it pretty consistent? Do they have a significant amount of experience behind them?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807536">
+            <PersonSpeaking>
+              <Affiliation DbId="258561" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119879">Give a brief answer, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807538">
+            <PersonSpeaking>
+              <Affiliation DbId="237082" Type="28">Mr. Raymond McInnis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119880">At Dominion Command, one of the prerequisites I look for is previous military service. None of us is a lawyer; we're all dedicated, compassionate and passionate about what we do. I look to make sure that they have.... I have a different range of combat arms and paramedical, so it's good service. The turnaround time is rather small in Dominion Command, but across the country there's a big turnover.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10807540">
+            <PersonSpeaking>
+              <Affiliation DbId="257589" Type="47">Mrs. Cathay Wagantall</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119881">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807542">
+            <PersonSpeaking>
+              <Affiliation DbId="258561" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119882">MP Casey, please, for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10807543">
+            <PersonSpeaking>
+              <Affiliation DbId="254752" Type="47">Mr. Sean Casey (Charlottetown, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119883">Thanks to the witnesses for being here.</ParaText>
+              <ParaText id="6119884">To the union folks, I guess I have the privileged position of personally knowing and representing many of your members, so thank you for coming here and advocating on their behalf. Thanks for the work that you do. I have nothing but the highest regard for the folks you represent and whom I also have the privilege of representing.</ParaText>
+              <ParaText id="6119885">I'm going to ask my first question to the Legion and then come to you.</ParaText>
+              <ParaText id="6119886">Mr. McInnis, in your opening statement, you referred to a quiet policy change that was made in 2018 around new and partial entitlement. I'd like to hear more about that. Based on what I think I understood from your testimony, this is something that would have been favourably received by veterans. Am I right?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807552">
+            <PersonSpeaking>
+              <Affiliation DbId="237082" Type="28">Mr. Raymond McInnis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119887">That's correct.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10807555">
+            <PersonSpeaking>
+              <Affiliation DbId="254752" Type="47">Mr. Sean Casey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119888">It was favourably received because those who had a smaller entitlement now have had an opportunity to have that revised upwards.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807557">
+            <PersonSpeaking>
+              <Affiliation DbId="237082" Type="28">Mr. Raymond McInnis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119889">I'll give you an example. I have many veterans across the country who took benefit of the Nelson policy change in 2007 on hearing loss. Previous to that, they didn't have any entitlements for hearing loss. What that change did was provide them with one-fifth to up to four-fifths of entitlement. Many got in under the one-fifth. After February 2018, we could move them to full entitlement. In many cases across the country, I have doubled and in some cases tripled their pensions. For people in their 70s, that's a huge amount of money.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10807563">
+            <PersonSpeaking>
+              <Affiliation DbId="254752" Type="47">Mr. Sean Casey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119890"> This positive policy change would result in an increased number of applications that would contribute to the backlog. Would I be right there?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807567">
+            <PersonSpeaking>
+              <Affiliation DbId="237082" Type="28">Mr. Raymond McInnis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119891">Absolutely.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10807569">
+            <PersonSpeaking>
+              <Affiliation DbId="254752" Type="47">Mr. Sean Casey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119892">Thank you.</ParaText>
+              <ParaText id="6119893"> Ms. Vaillancourt, the bulk of your presentation focused on case managers—and fair enough. I understand that the ratio grew to the point where, in 2015-16, it became necessary to make a commitment to change that. I hear you saying that that commitment hasn't been fulfilled, but the fact is the problem grew in 2015-16 to the point where it was necessary.</ParaText>
+              <ParaText id="6119894">If we focus on the backlog, it is in the adjudication and determination of the entitlement of the veteran. Once that adjudication is determined, then it goes to the case manager to guide the veteran along. My question for you is this. I appreciate your focus on the case managers and I appreciate that there's a problem there, but what about the disability adjudicators? What about the people who have the pile of paper that's sitting there longer than 16 weeks? Can you give me some sense of what challenges they're facing? What are the staffing levels there, and what has been the change there? My sense—and please correct me if I'm wrong—is that the bottleneck is there; it's not the case managers.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807604">
+            <PersonSpeaking>
+              <Affiliation DbId="260448" Type="28">Ms. Virginia Vaillancourt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119895">Absolutely, a majority of the backlog is with the adjudicators who are trying to get veterans into the department and onto benefits. There is not enough staff in the adjudicating section. A lot of times staff in the department will do overtime and the employees who are already overworked have to stay away from their families even longer to try to push these claims through. They also need more staff. It's something we've been hitting the department with for a long time, saying that we need more front-line staff, and all over the place. Their morale is also low in the adjudication section because they're working with so many files, but there's not enough of them to push them through. They're feeling that they can't provide that service to veterans, and they go home disappointed that they weren't able to get to those other five claims on their desk.</ParaText>
+              <ParaText id="6119896">If you look at the department's overtime budgets and the overtime spent, especially in and around adjudication, you see that it's a substantial amount, especially in and around the Christmas season, because they're trying to get those numbers down before the new year hits.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="09" Mn="20">(0920)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="10807611">
+            <PersonSpeaking>
+              <Affiliation DbId="254752" Type="47">Mr. Sean Casey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119897">What would be your advice on getting a more appropriate complement of disability adjudicators? We received your advice with respect to case managers, but what would be your advice with respect to disability adjudicators?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807619">
+            <PersonSpeaking>
+              <Affiliation DbId="260448" Type="28">Ms. Virginia Vaillancourt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119898">That's a good question. Plain and simple, they need more staff on the ground. Unfortunately, a lot of the adjudicators are based in Charlottetown. There is nothing wrong with Charlottetown, but the pool of employment is limiting there. I think that some of those adjudication positions could be moved to Ottawa or other locations across the country that have a larger pool of employable people to be able to bring more staff in. </ParaText>
+              <ParaText id="6119899">Bilingualism is a huge issue. Trying to get enough bilingual employees in Charlottetown to be able to adjudicate French files is a huge concern. If we're able to pull those adjudicating positions into other regions, we might be able to assist in getting some of those French files passed through more quickly than what we're doing presently.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10807640">
+            <PersonSpeaking>
+              <Affiliation DbId="254752" Type="47">Mr. Sean Casey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119900">I would be most interested in seeing any statistical backup you have for that position, given where I sit. The unemployment rate in Charlottetown and the level of bilingualism is certainly something that, in my experience, doesn't match up with what you've just put forward.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807653">
+            <PersonSpeaking>
+              <Affiliation DbId="258561" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119901">I'm sorry, sir, I have to cut you off there.</ParaText>
+              <ParaText id="6119902">We move over to MP Desilets for six minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="10807659">
+            <PersonSpeaking>
+              <Affiliation DbId="258563" Type="40">Mr. Luc Desilets (Rivière-des-Mille-Îles, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119903">Thank you.</ParaText>
+              <ParaText id="6119904">My first question is for you, Ms. Vaillancourt. You've been in your position for a little over a year. Do you see a small improvement in certain sectors?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807683">
+            <PersonSpeaking>
+              <Affiliation DbId="260448" Type="28">Ms. Virginia Vaillancourt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119905"> Sorry, I just missed that last part.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="10807685">
+            <PersonSpeaking>
+              <Affiliation DbId="258563" Type="40">Mr. Luc Desilets</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119906"> You've been in your position for a year. Have you seen an improvement in any sectors?</ParaText>
+              <ParaText id="6119907">I understand the backlog of cases, which bothers us all. However, can you talk a bit about the sectors where things are moving forward and improving?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807689">
+            <PersonSpeaking>
+              <Affiliation DbId="260448" Type="28">Ms. Virginia Vaillancourt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119908">Based on our membership across the country, we haven't seen a large improvement in many sectors. The morale is still a huge issue, and the work-life balance is still a major concern, so no.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="10807692">
+            <PersonSpeaking>
+              <Affiliation DbId="258563" Type="40">Mr. Luc Desilets</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119909">You spoke earlier of cases that may be two years behind schedule. Can you provide a specific example?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807700">
+            <PersonSpeaking>
+              <Affiliation DbId="260448" Type="28">Ms. Virginia Vaillancourt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119910">Within the adjudication sections specifically, there's hearing loss, PTSD, musculoskeletal.... There's a range of files sitting there waiting that, in our opinion, could be moved much more quickly.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="10807711">
+            <PersonSpeaking>
+              <Affiliation DbId="258563" Type="40">Mr. Luc Desilets</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119911">I believe that, in the past, there was a larger backlog of cases for francophones in Quebec. Is that still true?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="09" Mn="25">(0925)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807715">
+            <PersonSpeaking>
+              <Affiliation DbId="260448" Type="28">Ms. Virginia Vaillancourt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119912">There is still a backlog for the treatment aspect, absolutely, across the department, and I know that in Quebec—I forget the specific year—there were additional staff put in to try to deal specifically with the situation within the Quebec area.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="10807722">
+            <PersonSpeaking>
+              <Affiliation DbId="258563" Type="40">Mr. Luc Desilets</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119913">There's a labour shortage in all sectors in Canada. In your opinion, does this explain the lack of employees in the department? Is the labour shortage in your sector worse than the shortage across Canada? I don't know whether I'm making myself understood.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807732">
+            <PersonSpeaking>
+              <Affiliation DbId="260451" Type="28">Mr. Mike Martin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119914">Specialized tasks are more difficult to recruit for; they demand more. The level of confidence that you want for a pension disability advocate, a reviewer, would be higher. Those particular categories would be in wide demand in society and therefore harder to recruit. </ParaText>
+              <ParaText id="6119915">The challenge is also that the department has a revolving door of recruitment now. That's one of the issues that's going on, in that you hire people, you bring them in, you train them and then they see the workload, and they don't want to stay. Almost every case manager we talked to talked about the fact that we need to fix that piece. If we don't fix that piece, then you have a continual problem that you can never really resolve. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="10807751">
+            <PersonSpeaking>
+              <Affiliation DbId="258563" Type="40">Mr. Luc Desilets</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119916">Mr. McInnis, first, I want to thank you for your long military service. Your presence is always appreciated.</ParaText>
+              <ParaText id="6119917">I have a quick question for you. Can you provide some concrete examples of the processes that must be simplified? </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807756">
+            <PersonSpeaking>
+              <Affiliation DbId="237082" Type="28">Mr. Raymond McInnis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119918">I didn't get the whole part, but I believe you talked about how to be simplified. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="10807759">
+            <PersonSpeaking>
+              <Affiliation DbId="258563" Type="40">Mr. Luc Desilets</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119919">Exactly. I want you to provide the concrete examples that come to mind.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807760">
+            <PersonSpeaking>
+              <Affiliation DbId="237082" Type="28">Mr. Raymond McInnis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119920">There are many areas. Hearing loss and tinnitus is a condition that is subjective. Once they have their entitlement, I see many veterans who start out at 2%, 4% or 6%, and they're coming back three and four times when they talk to their buddies and find out that they need a masking device at night. They probably already use a masking device in the form of a sleeping pill or a radio to go to sleep at night. If it is so subjective, which it is, why don't you just grant the tinnitus claims and then come up with an assessment that's comparable to what it is now from 0% to 11%, and if you've got it, you get it? If you don't have it, you don't get it. That's one easy way to take the tinnitus claims out instead of always coming back for an assessment.</ParaText>
+              <ParaText id="6119921">As for PTSD, there are many conditions that are linked to PTSD once you start taking medication, so they're now looking at that because they'll will do one mental health condition and then they're coming back with GERD, or erectile dysfunction. Instead of doing another full application, just provide the diagnosis and have it linked to it. </ParaText>
+              <ParaText id="6119922">Another part is departmental reviews. Three years ago, departmental reviews on Agent Orange.... The previous chair of VRAB returned them all to the department. They are still sitting with the department over two years later, and our veterans are very disgruntled. </ParaText>
+              <ParaText id="6119923">When they write to the department, the department goes back and tells them that it's because of the backlog. It's not because of the backlog; it's in legal review. Be upfront, be transparent, and tell them why it's not being done, or do something about it. Just be transparent. </ParaText>
+              <ParaText id="6119924">It's the same with the wait time tool. Let the veteran know what month you're working on. You're working on August 2018 on single condition, first applications. Tell them that, and then use the wait time tool from there. Just be transparent. The veteran will be happier. It will be in the ballpark, because right now we're throwing darts at a board as to when to expect a decision.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807801">
+            <PersonSpeaking>
+              <Affiliation DbId="258561" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119925"> MP Blaney, you have six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="09" Mn="30">(0930)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="10807818">
+            <PersonSpeaking>
+              <Affiliation DbId="254771" Type="47">Ms. Rachel Blaney (North Island—Powell River, NDP)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119926">Thank you, Chair.</ParaText>
+              <ParaText id="6119927"> I want to thank everybody for being here today. I really appreciate the level of honesty and commitment in the work that you do.</ParaText>
+              <ParaText id="6119928">I have a few questions. I'm going to start with the union. One thing I found really interesting about your testimony today is that you said it's a six-month hiring process. I'm wondering why it takes so long to hire someone.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807827">
+            <PersonSpeaking>
+              <Affiliation DbId="260448" Type="28">Ms. Virginia Vaillancourt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119929">There's going through the Public Service Commission and getting it posted. Once you do that, you have to screen the applications and make sure they meet the criteria of the job. Then it's organizing the selection processes. Then you have to do the security clearances, fingerprinting and everything else before they can actually be offered an opportunity.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10807836">
+            <PersonSpeaking>
+              <Affiliation DbId="254771" Type="47">Ms. Rachel Blaney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119930">We have a huge backlog and a six-month process. I can imagine those two things coming together, when you need people so desperately, would certainly bring a bigger challenge.</ParaText>
+              <ParaText id="6119931">In 2018, there was a unanimous motion passed in the House that the NDP put forward. The motion was simply saying that whatever money is left over at the end of the year for the Veterans Affairs budget should just be rolled over into the next year to see that follow-up. That's not happening. Last year, $105 million was sort of returned to general revenue. </ParaText>
+              <ParaText id="6119932">When we look at these backlogs.... Another part is that we see there's money moving from operations into programs. I'm still not connecting. I asked both the <Affiliation DbId="246259" Type="4">minister</Affiliation> and the deputy minister to explain to me how money moving from operations into programs is going to help with this significant backlog, which is the biggest frustration for our veterans. </ParaText>
+              <ParaText id="6119933">I'm wondering if you can speak to those.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807856">
+            <PersonSpeaking>
+              <Affiliation DbId="260448" Type="28">Ms. Virginia Vaillancourt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119934">With regard to moving money out of the operations, Veterans Affairs Canada has a 6% operation budget. The 6% budget is less than what most charitable organizations have for an operational budget. When we look at the veterans' aspect, we're a department that's supposed to provide services and benefits, but the operation is so low. </ParaText>
+              <ParaText id="6119935">We have a concern—I have a concern—with the <Affiliation DbId="246259" Type="4">minister's</Affiliation> announcement of moving the $4 million over to a veterans emergency fund. In our opinion, we don't think the veterans would need as much emergency fund assistance if we could just get their claims processed and paid.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10807866">
+            <PersonSpeaking>
+              <Affiliation DbId="254771" Type="47">Ms. Rachel Blaney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119936">Thank you. I think that's an important part.</ParaText>
+              <ParaText id="6119937">I was also really amazed by the current caseloads that you talked about, which are up to 66 people per case manager. We saw in the March 2019 audit that the ratio the ministry put forward was 36:1, which is still significantly more than the 25. When I look at these numbers, do you know if 36 is the average? Are you seeing something different in the actual number of workers?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807874">
+            <PersonSpeaking>
+              <Affiliation DbId="260448" Type="28">Ms. Virginia Vaillancourt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119938">In the reports that I get from the department, for instance, at the end of December 31, 2019, they had 13,022 case-managed veterans. They take the number of case managers and just divide it. That's how they get the average, but it's not the reality of what each case manager is actually facing.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10807877">
+            <PersonSpeaking>
+              <Affiliation DbId="254771" Type="47">Ms. Rachel Blaney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119939">It could be different depending on the area they are in, but it often doesn't really reflect the reality on the ground.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807880">
+            <PersonSpeaking>
+              <Affiliation DbId="260448" Type="28">Ms. Virginia Vaillancourt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119940">No.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10807881">
+            <PersonSpeaking>
+              <Affiliation DbId="254771" Type="47">Ms. Rachel Blaney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119941">You talked a bit about overtime. Are case managers being appropriately compensated for all of the overtime they're being asked to work? Is there any extra time off to help with that level of overtime or are there any bonuses? Do you know how that compares to executive compensation and bonuses at Veterans Affairs Canada?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807886">
+            <PersonSpeaking>
+              <Affiliation DbId="260448" Type="28">Ms. Virginia Vaillancourt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119942">The front-line staff never see a bonus. Unfortunately, the employees who obtain the bonuses are the EX levels, and that's it.</ParaText>
+              <ParaText id="6119943">Actually, we recently completed an ATIP request regarding the performance pay bonuses that the EX levels get. In 2017-18, the employer paid out over $1.04 million in bonuses. In 2018-19, they paid out over $1,051,477 in bonuses. For instance, the EX-1 levels, which are area directors and some of the branch directors, got over $8,000 in 2018-19. The EX-4s, which are the ADMs or the director general levels, got over $56,000 in bonuses at the end of December, which is disheartening to see. </ParaText>
+              <ParaText id="6119944">Of course, when you do the ATIP request for the ADM for service delivery, they black it out because there's only one. I can only imagine that if the EX-4s are getting $56,000, his will be much higher.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="09" Mn="35">(0935)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="10807900">
+            <PersonSpeaking>
+              <Affiliation DbId="254771" Type="47">Ms. Rachel Blaney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119945"> Thank you for that information.</ParaText>
+              <ParaText id="6119946">I just think this is frustrating, and I heard that clearly in the report. It was a good reminder for me that not only are veterans and the people who love and care for them in their community frustrated with the backlog, but it's also the people on the other side who are working really hard, both at the Legion level and as the workers. It's creating this really stressful situation for everyone. The reality is that the ombudsperson said we needed a plan to deal with this backlog. Now we've had the minister promise to provide us one in 30 days.</ParaText>
+              <ParaText id="6119947">Do you think that a plan would really make it different, by at least providing some clarity both for the people who are on the veterans side and the family side, and also for the folks who are providing the services?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807915">
+            <PersonSpeaking>
+              <Affiliation DbId="258561" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119948">Answer very briefly, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807920">
+            <PersonSpeaking>
+              <Affiliation DbId="260448" Type="28">Ms. Virginia Vaillancourt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119949">I'm not sure if it would make.... I don't think the plan will potentially work. They're talking with all senior-level managers. They need to come and talk to the front-line staff on how to actually create a plan to make it work.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807921">
+            <PersonSpeaking>
+              <Affiliation DbId="258561" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119950">Thank you.</ParaText>
+              <ParaText id="6119951">Now, MP Ruff, you have five minutes. We're going to have to keep it a hard five because we're getting close to the end.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10807924">
+            <PersonSpeaking>
+              <Affiliation DbId="257591" Type="47">Mr. Alex Ruff (Bruce—Grey—Owen Sound, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119952">Got it. If I have any spare time, I'm going to split my time with Mr. Lloyd.</ParaText>
+              <ParaText id="6119953">First off, I'm going to address the Legion. I'm just going to read a quick quote from a Legion press release from June 2017: <Quote><QuotePara Align="Left" IndentFirst="2" IndentRest="2">The impact military service has on our sailors, soldiers and airmen and women often makes the transition back to civilian life challenging. In all cases there is a period of adjustment. In some cases, this transition can impact physical and mental health, disrupt financial stability, impact relationships and families, and can lead to short and long term challenges that could have been avoided had the process not been so difficult. Today, the delay in receiving timely pension and severance pay; the backlog in Veterans Affairs Canada disability applications; the lack of communication and outreach to those retiring; and issues with service accessibility have compounded that challenge to a crisis point.</QuotePara></Quote></ParaText>
+              <ParaText id="6119954">I just want to say thank you for everything that you guys and everybody there are doing within the Legion. As full disclosure, I am a Legion member—just so everybody knows—but it's a non-paid or non-compensated position.</ParaText>
+              <ParaText id="6119955">You talk about, from your statistics, how you dealt with more than 1,400 cases last year alone. They're complete files that go in when they're submitted to VAC. How many of those that you are involved with would get denied? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807948">
+            <PersonSpeaking>
+              <Affiliation DbId="237082" Type="28">Mr. Raymond McInnis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119956">I don't keep stats on our favourable rates. I try to tell my service officers that if it's favourable or it's unfavourable.... When it's unfavourable, we have a mechanism called departmental review, and we can take advantage of that. If not, we'll go to the VRAB.</ParaText>
+              <ParaText id="6119957">But there are going to be times when there are no links to service. A win for me, if it is unfavourable, is sitting down and counselling the veteran on why it cannot be linked to service. I don't have those stats, but it's 4,000 files that we sent last year, not 1,400. I can say all the departmental reviews were 100% favourable because it was not based on partial policy.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10807963">
+            <PersonSpeaking>
+              <Affiliation DbId="257591" Type="47">Mr. Alex Ruff</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119958">What is the biggest complaint you're receiving from the different veterans service officers? I don't mean about the backlog, but what's the biggest complaint or claim that's going in?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807965">
+            <PersonSpeaking>
+              <Affiliation DbId="237082" Type="28">Mr. Raymond McInnis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119959">At the moment it is, as I said in my statement, the musculoskeletal conditions. As you know, the department is looking at doing something presumptive for combat arms, and that's great. I applaud that. Use your task statement. But for non-combat arms, many of us served in field units and many of us served on ships.</ParaText>
+              <ParaText id="6119960">We've got to take advantage of that CJT directive. For those of you who don't know what CJT is, it's if you don't have an injury in service, you serve more than 10 years and you end up with osteoarthritic problems post-service, you can use that CJT principle based on your physical fitness that you use or your trade. For the majority of the support trades, it's going to be based on their physical fitness, and that has to be documented. We're seeing decisions that are coming back in the last four months as unfavourable based on how they're interpreting the EEGs, and it's not consistent with what we've received in the past two years. I'm addressing that with the department now, because it's creating a lot of angst, especially in western Canada. We're doing a lot of those claims at the moment.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10807984">
+            <PersonSpeaking>
+              <Affiliation DbId="257591" Type="47">Mr. Alex Ruff</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119961">Thanks so much.</ParaText>
+              <ParaText id="6119962">For Ms. Vaillancourt, I'd brought up earlier—I don't know if you reviewed some of the testimony—the advantages of having veterans amongst your case managers and your staff. Would you know exactly how many case managers are actually veterans?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807988">
+            <PersonSpeaking>
+              <Affiliation DbId="260448" Type="28">Ms. Virginia Vaillancourt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119963">I don't have the specific stats, but I do know that we have seen a number of our veterans, who have been hired, rejected on probation.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="09" Mn="40">(0940)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="10807991">
+            <PersonSpeaking>
+              <Affiliation DbId="257591" Type="47">Mr. Alex Ruff</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119964">What would be the key factor for that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807995">
+            <PersonSpeaking>
+              <Affiliation DbId="260448" Type="28">Ms. Virginia Vaillancourt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119965">A lot of times it could be as simple as they're having mental health issues and could be late for work. We had somebody recently who was rejected for being late by 12 minutes. It's the plausibility of the rejection on probation. They can get rid of you for any reason whatsoever.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10807996">
+            <PersonSpeaking>
+              <Affiliation DbId="257591" Type="47">Mr. Alex Ruff</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119966"> That's kind of surprising, obviously.</ParaText>
+              <ParaText id="6119967">As a follow-up to that, could you get us the exact number? Would you have access to the exact number of former veterans who are serving as case managers?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10807998">
+            <PersonSpeaking>
+              <Affiliation DbId="260448" Type="28">Ms. Virginia Vaillancourt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119968">I can reach out to my regional vice-presidents for them to check with their teams, absolutely.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10807999">
+            <PersonSpeaking>
+              <Affiliation DbId="257591" Type="47">Mr. Alex Ruff</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119969">It would be great if you could provide that to the committee.</ParaText>
+              <ParaText id="6119970">Finally, do you notice a difference, or is there any feedback on those who are former veterans who are serving, in their ability to deliver services and connect with the veterans? Is there any difference?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10808002">
+            <PersonSpeaking>
+              <Affiliation DbId="258561" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119971">Please be brief.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10808004">
+            <PersonSpeaking>
+              <Affiliation DbId="260448" Type="28">Ms. Virginia Vaillancourt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119972">They see the same things that veterans in the community face, the struggles and tribulations. We have a number of dual employees/veterans who have actually filed complaints as high as the ombudsman's office due to that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808007">
+            <PersonSpeaking>
+              <Affiliation DbId="257591" Type="47">Mr. Alex Ruff</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119973">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10808009">
+            <PersonSpeaking>
+              <Affiliation DbId="258561" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119974">MP Samson, please, for about four minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808011">
+            <PersonSpeaking>
+              <Affiliation DbId="254757" Type="47">Mr. Darrell Samson (Sackville—Preston—Chezzetcook, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119975">Thank you all for your presentations. I very much appreciate your giving us a picture from your perspective.</ParaText>
+              <ParaText id="6119976">The Legion plays such an important role. We don't know all the work they do, but it's very impressive. Just your welcome program, I think, is a great initiative because we're seeing fewer young veterans joining the Legion, so that's a great strategy.</ParaText>
+              <ParaText id="6119977">The case workers, the staff officers you have and the work they do, are very important to us.</ParaText>
+              <ParaText id="6119978">I think to better understand the picture, we have to look at.... We know that since 2015, we've had 90% more first-time applicants and 60% more repeat applicants. There's a reason for that.</ParaText>
+              <ParaText id="6119979">What is that reason?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10808027">
+            <PersonSpeaking>
+              <Affiliation DbId="237082" Type="28">Mr. Raymond McInnis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119980">I've been there since 2011. My focus when I got there was on outreach. I tried to give as many presentations as possible. We have a great marketing team at the Legion right now. We're hooked into the RCMP. We're hooked into the Canadian Armed Forces. Anybody with a CFOne card would have received an email stating what we can do for them. They just have to pick up the phone for us.</ParaText>
+              <ParaText id="6119981">As a matter of fact, at many of the conferences I'm at, people ask, “What is the Legion doing here?” The Legion is here because we care. It's as simple as that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808033">
+            <PersonSpeaking>
+              <Affiliation DbId="254757" Type="47">Mr. Darrell Samson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119982">Just to focus a bit more.</ParaText>
+              <ParaText id="6119983">Would you agree that there have been a lot of new programs put in place since 2015 to better support and meet the needs of our veterans?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10808038">
+            <PersonSpeaking>
+              <Affiliation DbId="237082" Type="28">Mr. Raymond McInnis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119984">There's more programming, each on top of the other. I'm not going to say they all support everything. Sometimes we need to see what the output is going to be, so there has to be a plan for the end.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808040">
+            <PersonSpeaking>
+              <Affiliation DbId="254757" Type="47">Mr. Darrell Samson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119985">Yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10808041">
+            <PersonSpeaking>
+              <Affiliation DbId="237082" Type="28">Mr. Raymond McInnis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119986">As you know, we have three different or distinct groups of veterans now under the Pension Act, the Veterans Well-being Act, and now the pension for life and your monthly pain and suffering compensation. All three are different, so if all three can be looked at, that would be great.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808046">
+            <PersonSpeaking>
+              <Affiliation DbId="254757" Type="47">Mr. Darrell Samson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119987">So there are more programs, more outreach, more benefits and more time. There's no question about that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10808049">
+            <PersonSpeaking>
+              <Affiliation DbId="237082" Type="28">Mr. Raymond McInnis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119988">Social media has a great effect, sir.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808051">
+            <PersonSpeaking>
+              <Affiliation DbId="254757" Type="47">Mr. Darrell Samson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119989">Absolutely.</ParaText>
+              <ParaText id="6119990">This is good news.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10808053">
+            <PersonSpeaking>
+              <Affiliation DbId="237082" Type="28">Mr. Raymond McInnis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119991">It's great news.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808056">
+            <PersonSpeaking>
+              <Affiliation DbId="254757" Type="47">Mr. Darrell Samson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119992">We should be proud of this.</ParaText>
+              <ParaText id="6119993">I'm hearing from a lot of veterans who are very happy. I'm hearing from some veterans who are having some issues. We need to continue to improve. There's no doubt about that.</ParaText>
+              <ParaText id="6119994">To the union now, give us a picture of what is on the ground today. My previous question for the Legion was about new programs and the changes that were brought forward to support our veterans.</ParaText>
+              <ParaText id="6119995">You've seen your employees. Tell me how many employees were fired between 2012 and 2015 whom we had to rehire, because we know we reopened nine offices across the country to support our veterans. Tell us a little bit about the picture between 2010 and 2020—if you want, by dividing it at 2015.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10808073">
+            <PersonSpeaking>
+              <Affiliation DbId="260448" Type="28">Ms. Virginia Vaillancourt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119996">We are nowhere near the numbers that we had. I was looking at the FTE numbers on the department's human resources website. Just from the numbers from 2007 to 2017, we're still down about 250 FTEs from that point in 2007. However, the case management numbers have increased; the applications have increased, and the complexity of veterans files has increased.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="09" Mn="45">(0945)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="10808084">
+            <PersonSpeaking>
+              <Affiliation DbId="254757" Type="47">Mr. Darrell Samson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119997"> I agree 100%.</ParaText>
+              <ParaText id="6119998">My understanding is that between 2012 and 2015, when I went to P.E.I., there were about 6,700 employees fired or laid off. Am I correct in saying that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10808085">
+            <PersonSpeaking>
+              <Affiliation DbId="260448" Type="28">Ms. Virginia Vaillancourt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6119999">It wasn't just in Charlottetown. There was a huge impact across Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808088">
+            <PersonSpeaking>
+              <Affiliation DbId="254757" Type="47">Mr. Darrell Samson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120000">Between 35% and 40%.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10808091">
+            <PersonSpeaking>
+              <Affiliation DbId="260448" Type="28">Ms. Virginia Vaillancourt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120001">Yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808093">
+            <PersonSpeaking>
+              <Affiliation DbId="254757" Type="47">Mr. Darrell Samson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120002">We're fighting, trying to catch up from that point. As well, there are all the new benefits and opportunities for veterans and their families, which is crucial.</ParaText>
+              <ParaText id="6120003">In testimony the other day—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10808095">
+            <PersonSpeaking>
+              <Affiliation DbId="258561" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120004"> Very quicky, sir. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808096">
+            <PersonSpeaking>
+              <Affiliation DbId="254757" Type="47">Mr. Darrell Samson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120005">—the presenter talked about digitization and how we could make the system faster online. Could I have a quick answer from the two of you? What do you think? Have you seen some cases and is it working better? Because when you do it online it has to be completed; there is no choice.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10808097">
+            <PersonSpeaking>
+              <Affiliation DbId="237082" Type="28">Mr. Raymond McInnis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120006">Very quickly, as a veteran, I love using the My VAC Account. As a command service officer, I cannot stand it.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808100">
+            <PersonSpeaking>
+              <Affiliation DbId="254757" Type="47">Mr. Darrell Samson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120007">Thank you. </ParaText>
+              <ParaText id="6120008">And the union...? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10808102">
+            <PersonSpeaking>
+              <Affiliation DbId="258561" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120009">Sorry, I have to cut you off there. I want to thank all of you for being here today and helping contribute to this study. We're going to suspend for two quick minutes to switch the panels, and we'll come back.</ParaText>
+              <Pause>
+                <StartPause>
+                  <Timestamp Hr="09" Mn="45">(0945)</Timestamp>
+                </StartPause>
+                <EndPause>
+                  <Timestamp Hr="09" Mn="45">(0945)</Timestamp>
+                </EndPause>
+              </Pause>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10808129">
+            <PersonSpeaking>
+              <Affiliation DbId="258561" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120010">Good morning, folks. </ParaText>
+              <ParaText id="6120011">We are continuing our study on the backlog in disability benefit claims with our second panel this morning. </ParaText>
+              <ParaText id="6120012">From the Veterans Review and Appeal Board, we have Mr. Christopher McNeil, the chair; and Jacques Bouchard, the deputy chair. We also have, from the Canadian Armed Forces transition group, Major-General Andrew Downes, surgeon general, commander of the Canadian Armed Forces health services group; Brigadier-General Mark Misener, commander, Canadian Armed Forces transition group; and Mr. Brock Heilman, chief informatics officer, Canadian Armed Forces health services group.</ParaText>
+              <ParaText id="6120013">Thank you to all of you for being here today on this beautiful, almost-spring morning. We're going to get started with the Veterans Review and Appeal Board. I believe, Mr. McNeil, you're going to start us off. The next 10 minutes is all yours. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="09" Mn="50">(0950)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" id="10808195">
+            <PersonSpeaking>
+              <Affiliation DbId="260558" Type="28">Mr. Christopher McNeil (Chair, Veterans Review and Appeal Board)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120014"> Thank you.</ParaText>
+              <ParaText id="6120015">Mr. Chair and honourable committee members, thank you for the opportunity to appear before you today.</ParaText>
+              <ParaText id="6120016">With me, as you know, is Jacques Bouchard, and I'm going to share my comments with Jacques today. I should note that Jacques is also a veteran of the Canadian Armed Forces.</ParaText>
+              <ParaText id="6120017">At a high level, the primary mandate of the board is to ensure that veterans and their families receive the disability benefits to which they are entitled. We provide an independent appeal process to veterans, members of the Canadian Armed Forces, the RCMP, and their families who are dissatisfied with the outcome of their disability claim, either a denial of that claim, or they disagree with the extent of the disability being awarded.</ParaText>
+              <ParaText id="6120018">VRAB offers two levels of review, an initial review of the Veterans Affairs decision and a further appeal if veterans remain dissatisfied with the initial review of the board. However, it is important to note that there is a third level of review, and veterans can always bring forward new evidence or a new argument and request that the previous decision of the board be reconsidered.</ParaText>
+              <ParaText id="6120019">The board's role in the overall disability process is unique. Most importantly, it is often the first and only opportunity for veterans to appear in person and tell their story. Critical to our work is the legislative mandate to conduct our hearings in an informal and non-adversarial manner as much as possible. Regrettably, I acknowledge the board may not have always lived up to that promise. Jacques and I are committed to ensuring that we provide a hearing environment that is comfortable and welcoming to veterans and their families.</ParaText>
+              <ParaText id="6120020">Over the past 18 months, we have aggressively reviewed and updated our process and training in this regard. More specifically, we are creating a more informal, less legalistic and more compassionate approach. This is especially important since many of the veterans who appear before us are vulnerable, and they face challenges simply meeting the daily activities of living.</ParaText>
+              <ParaText id="6120021">Approximately 40% of the veterans who seek disability benefits have both physical and mental health concerns. We must have a system that is welcoming to veterans and their families and gives them the best opportunity to advocate for the disability benefits to which they entitled.</ParaText>
+              <ParaText id="6120022">It is also important to note that, over the past two years, both the nature and the volume of our work has changed. The changes made by VAC resulting in higher favourability rates at the first application stage have caused a change in the nature of the cases we are hearing. For example, we are hearing more cases about the quantum of the disability being awarded rather than whether a disability was awarded.</ParaText>
+              <ParaText id="6120023">In addition, VAC's implementation of more favourable policies on entitlement has created a boomerang effect. These positive initiatives have helped to process current claims faster and more favourably, but it has also opened the door for veterans previously denied entitlement or entitled at a lower level to come forward and have their claim reviewed. This is indirectly adding new claims to the mix.</ParaText>
+              <ParaText id="6120024">In the last few years, we've heard about 5% of VAC's overall decisions for review. In 2018 we heard approximately 2,000 cases. This year we are experiencing a dramatic increase in the applications over last year, primarily due to the boomerang effect.</ParaText>
+              <ParaText id="6120025">However, these challenges have created opportunities. For example, we have implemented a simplified hearing process for certain types of claims. This has allowed us to dramatically increase the number of cases we have been able to process and hear. A simplified hearing process provides a quicker, more streamlined option for veterans to have their cases reviewed. It has freed up capacity in the regular hearing schedule to hear more complex cases more quickly. In addition, it has the potential to ease the caseload burden at Veterans Affairs at the departmental review level.</ParaText>
+              <ParaText id="6120026">I'd like to ask Jacques to tell you a little more about those things that we've been doing.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="09" Mn="55">(0955)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" id="10808236">
+            <PersonSpeaking>
+              <Affiliation DbId="260559" Type="28">Mr. Jacques Bouchard (Deputy Chair, Veterans Review and Appeal Board)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120027"> Thank you, Mr. McNeil.</ParaText>
+              <ParaText id="6120028">Mr. Chair and honourable members of the committee, I'm pleased to be speaking to you this morning.</ParaText>
+              <ParaText id="6120029">I'll focus my remarks on the board's efforts to improve the veterans' experience by increasing its capacity to work, including through the implementation of a shortened or simplified process.</ParaText>
+              <ParaText id="6120030">This approach enables us to group together cases that are less complicated and that more closely target similar concerns for which the outcomes are predictable. The shortened hearing process has generated a number of positive outcomes. We're hearing more cases in a much shorter period by using our resources more effectively.</ParaText>
+              <ParaText id="6120031">We've also found that the decisions are predictable and consistent. As a result of the shortened process, we've heard approximately 400 cases and we expect to process 300 more cases in the near future. For example, this week, we heard 71 cases in a single day, whereas it would have taken us at least four weeks to reach that point with our usual process. Our goal is to give veterans our decisions as quickly as possible.</ParaText>
+              <ParaText id="6120032">In summary, this shortened approach gives veterans and their families better and more timely access to justice. As we continue to simplify the shortened hearing process, we expect to receive even more claims from veterans and their families. Already this year, we're seeing a significant increase in claims received and hearings held compared to last year. To better respond to this upward trend, we must increase our capacity to process cases informally and in a less legalistic manner.</ParaText>
+              <ParaText id="6120033">We're also pleased that the minister has supported our recent request to hire additional members of the Veterans Review and Appeal Board to help us address the increase in the number of cases. These job offers have been posted since March 2.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="6120034"> On behalf of Chris and myself, I would like to close by saying that the Veterans Review and Appeal Board is committed to ensuring that veterans and their families can obtain access to disability benefits while we build more capacity to further support those we serve.</ParaText>
+              <ParaText id="6120035">Thank you for inviting us to appear before you today. We would be pleased to respond to any questions you may have.</ParaText>
+              <ParaText id="6120036"> Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10808264">
+            <PersonSpeaking>
+              <Affiliation DbId="258561" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120037">Thank you very much.</ParaText>
+              <ParaText id="6120038">Next we have, from the Canadian Armed Forces transition group, Brigadier-General Mark Misener. I believe you are going to start us off this morning.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10808268">
+            <PersonSpeaking>
+              <Affiliation DbId="260557" Type="28">Brigadier-General Mark Misener (Commander, Canadian Armed Forces Transition Group, Department of National Defence)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120039">Thank you, Mr. Chair and members of the Standing Committee on Veterans Affairs.</ParaText>
+              <ParaText id="6120040">Thank you for the opportunity to be here today to provide information for your study and to answer questions on the subject of transition from the Canadian Armed Forces.</ParaText>
+              <ParaText id="6120041">In 2017, the government launched the defence policy Strong, Secure, Engaged. Under this policy, a new Canadian Armed Forces transition group was stood up in December 2018 to support ill and injured members and to enable all Canadian Armed Forces members to seamlessly transition to post-military life.</ParaText>
+              <ParaText id="6120042">As the commander of the Canadian Armed Forces transition group, I am responsible for ensuring that Canadian Armed Forces members and their families are provided with personalized, professional and standardized casualty support and transition services, whether they are returning to service or transitioning to civilian life. We are particularly targeting those who are ill and injured. Today, approximately 1,500 ill and injured personnel are posted to my unit for periods of six months or more. I am also directly supporting another 3,500 ill and injured members and their families by providing information, advocacy, referrals and delivery of numerous programs and services.</ParaText>
+              <ParaText id="6120043">Services and support are provided to CAF members and their families through an integrated team with Veterans Affairs Canada and numerous other partners. Approximately 550 military and civilian staff members are organized into nine transition units and 32 transition centres, which are located on bases and wings across Canada and at the transition group headquarters here in Ottawa.</ParaText>
+              <ParaText id="6120044">As the commander of the Canadian Armed Forces transition group, my current priorities are to continuously improve the care and support for our ill and injured members, their families and the families of the fallen, to implement a renewed and improved transition experience and to grow transition capability and partner integration.</ParaText>
+              <ParaText id="6120045">We have made significant progress over the last three years by implementing innovative initiatives, improving existing programs and growing capacity to improve military members' experience as they transition to post-military life. </ParaText>
+              <Timestamp Hr="10" Mn="00">(1000)</Timestamp>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="6120046">The Canadian Armed Forces transition group aims to provide professional, personalized and standardized support. Professional support means a transition group that's adequately resourced, with personnel in place who are properly trained. It also means a deepening integration with Veterans Affairs Canada, or VAC, to provide more closely coordinated service.</ParaText>
+              <ParaText id="6120047">“Personalized” means a needs-based approach, which tailors services to the individual and their family. Lastly, “standardized” means that the same services are available to every member of the military and their family as they experience transition. This is an ambitious and complex undertaking that will take some time to build. Therefore, we've also launched the transition trial at Borden to implement some new initiatives and to test and adjust them prior to implementing them throughout the Canadian Armed Forces, or CAF.</ParaText>
+              <ParaText id="6120048">Since transition is a shared responsibility between the CAF and VAC, close coordination and integration between both departments is vital in ensuring a successful and seamless transition from military to civilian life. Together with VAC, we've improved and we continue to enhance programs and services and to introduce new programs and services that are more aligned between the two departments.</ParaText>
+              <ParaText id="6120049">The goal is to better enable our personnel to successfully transition to civilian life by improving training and readiness, promoting recruitment and employment, and nurturing collaboration between the sectors that employ veterans. Close collaboration and ongoing work continue with our VAC colleagues through the joint steering committee governance framework and joint priorities that keep changing based on mandates and government priorities.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="6120050"> It's an inevitable reality of military service that everyone will eventually transition out of the forces. Being exposed to transition-related information and education earlier in a member's military career will positively contribute to both member and family readiness and ease the reintegration back into civilian society. </ParaText>
+              <ParaText id="6120051">The transitioning member and his or her family need to be fully prepared to re-enter civilian life by creating a comprehensive transition plan, a plan that addresses the entire spectrum of what it takes to be ready to transition: health, purpose or employment, financial, housing, social support and integration, and life skills. Therefore, numerous transition resources and tools have been created to enable CAF members and their families to better understand and plan for this inevitable transition.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="6120052">In summary, my goal and the goal of the Canadian Armed Forces transition group is to ensure that all CAF members and their families are informed, prepared and empowered for a successful transition. This is an ambitious endeavour and one that we've made much progress towards, but also one that will require more effort and time to complete. I want to thank the committee again for this opportunity to answer questions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10808378">
+            <PersonSpeaking>
+              <Affiliation DbId="254433" Type="28">Major-General A.M.T. Downes (Surgeon General, Commander, Canadian Forces Health Services Group, Department of National Defence)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120053"> Mr. Chair and members of the Standing Committee on Veterans Affairs, thank you for the invitation to discuss elements of the Canadian Armed Forces health system and our strong working relationship with Veterans Affairs Canada. I'm joined by Brock Heilman, a retired colonel and our chief informatics officer.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="6120054">As you are likely aware, the Canada Health Act specifically excludes Canadian Forces members from provincial and territorial health insurance programs. lnstead, the Canadian Forces has its own equivalent health system that provides comprehensive medical and dental care to military members and other entitled persons in Canada and at bases and operations overseas.</ParaText>
+              <Timestamp Hr="10" Mn="05">(1005)</Timestamp>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="6120055">The Canadian Forces health services group, made up of a wide range of military and civilian professionals, is the organization responsible for the operation and care delivery in this health system.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="6120056">We are able to provide most of the required care directly through our network of primary care clinics at 37 locations, but there are services we have to purchase from the civilian health sector, like in-patient care, advanced diagnostics, and care from certain clinical specialists and other health service providers.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="6120057">Our electronic health record, known as Canadian Forces health information system, or CFHIS, is available in all our clinics, as well as on deployed operations and aboard Royal Canadian Navy ships.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="6120058"> The CFHIS is an important platform enabling team-based care and integrating different departments in the clinic like primary care, mental health, dental and physiotherapy. It also facilitates care to our highly mobile military population, as the health record is available regardless of which military clinic a member attends.</ParaText>
+              <ParaText id="6120059">The CFHIS is also a useful tool in sharing medical information with VAC. Over the past couple of years, the CAF has worked very closely with Veterans Affairs to create the technical, privacy and logistical conditions to allow VAC adjudicators to directly access CFHIS files for CAF personnel who have applied for VAC benefits.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="6120060">The Canadian Forces health services group is committed to the provision of high-quality care to protect and optimize the health of military members, and to ensure that those leaving the CAF are able to transition back to the provincial and territorial health systems as smoothly as possible.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="6120061">I would like to thank you for your attention, and we look forward to your questions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10808446">
+            <PersonSpeaking>
+              <Affiliation DbId="258561" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120062">Thank you, both. </ParaText>
+              <ParaText id="6120063">First up for questions we have MP Lloyd.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="10815441">
+            <PersonSpeaking>
+              <Affiliation DbId="257590" Type="47">Mr. Dane Lloyd (Sturgeon River—Parkland, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120064">I'm passing my time on to MP Ruff.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="10815442">
+            <PersonSpeaking>
+              <Affiliation DbId="258561" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120065">Go ahead, MP Ruff.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808448">
+            <PersonSpeaking>
+              <Affiliation DbId="257591" Type="47">Mr. Alex Ruff</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120066">Thanks for coming.</ParaText>
+              <ParaText id="6120067">My first question will be for the Veterans Review and Appeal Board. </ParaText>
+              <ParaText id="6120068">One of the things that has come up from feedback that has been coming in to me is that a lot of files that are being processed—obviously we are here to deal with the backlog—are taking weeks well past the 16-week standard and, in some cases, years, yet when that file or claim comes to you, your success rate or your determination a lot of the time is saying that it's the wrong claim, the wrong adjudication or determination, and it gets turned over.</ParaText>
+              <ParaText id="6120069">I acknowledge that you said that there is more favourable.... The standard is sort of changing, but I find it somewhat disheartening that it's taking weeks or months when they come up with the wrong decision for it to get to you guys to turn that around.</ParaText>
+              <ParaText id="6120070">What is the base concern there? Why is that happening?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10808464">
+            <PersonSpeaking>
+              <Affiliation DbId="260558" Type="28">Mr. Christopher McNeil</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120071">I guess it's important to remember that we hear 5% of the overall cases, so a good news story is that the claims of 95% of the people who apply to VAC accept its decision at some level. Whether they are satisfied, I can't speak to, but they accept it.</ParaText>
+              <ParaText id="6120072">Then we get that 5%. Yes, our favourability rates are going up as well, and they are going up partly because we are applying the same favourable rules that VAC is applying, but they come to us for a couple of reasons. The primary reason is that they're missing some evidentiary component. Often the only way that can be supplied is through the voice of the veteran.</ParaText>
+              <ParaText id="6120073">There is no better system than that. I wish there were, but you have to come and tell your story. Yes, there are mistakes. This is a people business; there will always be mistakes. Adjudicators make mistakes. They maybe apply a policy in a different way than we might apply it, but the primary reason is new evidence. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808477">
+            <PersonSpeaking>
+              <Affiliation DbId="257591" Type="47">Mr. Alex Ruff</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120074">I guess based on that, a potential recommendation would be to allow, somewhere in that process, those more complicated cases that are potentially denied at that first stage through VAC to have an outlet for the members themselves to present that evidence. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10808481">
+            <PersonSpeaking>
+              <Affiliation DbId="260558" Type="28">Mr. Christopher McNeil</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120075">I guess the challenge is that VAC builds its adjudication policies in this wide net to capture that sort of 90 percentile. I'm not sure you could accommodate that kind of direct testimony. We're reducing that down to say 10%. It would be a challenge, I guess, is all I can tell you.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="10" Mn="10">(1010)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="10808487">
+            <PersonSpeaking>
+              <Affiliation DbId="257591" Type="47">Mr. Alex Ruff</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120076"> My next question is for the Canadian Armed Forces, both to the transition group and to you, sir, the surgeon general.</ParaText>
+              <ParaText id="6120077">I appreciate the changes that you've brought in in the last couple of years.</ParaText>
+              <ParaText id="6120078"> One of the biggest complaints we're hearing from veterans is that sort of acceptance of why they're being released from the Canadian Armed Forces, and VAC demanding additional medical evidence or not. I think that transition or process is hopefully going to get fixed in the near term, but one of the challenges that we keep hearing is that you've been released from the Canadian Armed Forces for condition X, yet they go over to VAC, and that's being overruled or additional evidence or medical support is being demanded. I guess any way that you can help fix that....</ParaText>
+              <ParaText id="6120079"> Do you want to comment on that from the surgeon general's perspective?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10808525">
+            <PersonSpeaking>
+              <Affiliation DbId="254433" Type="28">MGen A.M.T. Downes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120080"> Thank you very much for that question.</ParaText>
+              <ParaText id="6120081">This is a very important issue for us as well, because we know that a successful transition requires people to have faith in the system and to trust the services that are being provided.</ParaText>
+              <ParaText id="6120082">In the health services group, we have done what we can, as I mentioned in my opening comments, to provide the information in as timely a fashion as possible, and also to provide it in a way that makes it easier for the adjudicators to access.</ParaText>
+              <ParaText id="6120083">I think an important distinction that needs to be highlighted is that when we're providing care to military members, it doesn't matter to us whether the person was injured or ill as a result of duty or not. We treat them the same way.</ParaText>
+              <ParaText id="6120084">Veterans Affairs adjudicates based on the link to service, so they have a somewhat different mandate, and perhaps they would be better positioned to answer that part of the question. They also have to consider the degree of a disability, and so on, which is not something we're focused on. We're focused on the provision of care to return the person to the best level of health we can.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808554">
+            <PersonSpeaking>
+              <Affiliation DbId="257591" Type="47">Mr. Alex Ruff</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120085">That's a totally valid point. </ParaText>
+              <ParaText id="6120086">To make a further link, I'll go over to you, General Misener. I was shocked at how many currently serving people have reached out in the last couple of weeks as we stood up this committee to focus on the backlog issue. VAC explained, in its previous testimony by some of its officials, that part of the challenge with currently serving personnel is that diagnosis is not complete. However, this backlog issue is big.</ParaText>
+              <ParaText id="6120087"> I think you're in a unique position for these currently serving people. Some of them aren't working for you directly, because some of them actually still serving in operational units, because, despite the claim that they're entitled to, they still completely meet the universality of service and can keep serving.</ParaText>
+              <ParaText id="6120088">As they're transitioning out, I think there's an opportunity here for you, the CAF and DND, to utilize your expertise and efficiencies. Sometimes you have your own challenges, but at the same time, in my viewpoint, you are more efficient than maybe VAC to help prepare those cases so that as people transition out, they're not contributing to the backlog at all because you've prepped them and prepped those files, much like the Legion helps a lot of people who reach out that way.</ParaText>
+              <ParaText id="6120089">Would you care to comment on that, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10808574">
+            <PersonSpeaking>
+              <Affiliation DbId="258561" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120090">We're actually past the time, but I'll give you an opportunity to answer that question. Just keep it brief.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10808576">
+            <PersonSpeaking>
+              <Affiliation DbId="260557" Type="28">BGen Mark Misener</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120091">Yes, that's exactly what we're working on, better preparing people and better educating them earlier; working more closely with VAC earlier in the process and really trying to change from a culture of release, where you're only thinking about release at the last part of your career, to thinking about it much earlier. Throughout your career, you're starting to put in place the necessary pieces to be ready for the inevitable time when you take your uniform off.</ParaText>
+              <ParaText id="6120092">Yes, we take this very seriously. We do it in many ways with Veterans Affairs, and as we reinvent the transition experience moving forward, what we're trying to do is make those folks better prepared.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10808589">
+            <PersonSpeaking>
+              <Affiliation DbId="258561" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120093">Thank you very much.</ParaText>
+              <ParaText id="6120094">We go over to MP Amos, please, for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808592">
+            <PersonSpeaking>
+              <Affiliation DbId="259985" Type="47">Mr. William Amos (Pontiac, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120095">I believe the time is allocated to Mr. Samson.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808595">
+            <PersonSpeaking>
+              <Affiliation DbId="254757" Type="47">Mr. Darrell Samson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120096">No, it's yours.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10808596">
+            <PersonSpeaking>
+              <Affiliation DbId="258561" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120097">It's rock paper scissors now.</ParaText>
+              <ParaText id="6120098">Mr. Fillmore.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808602">
+            <PersonSpeaking>
+              <Affiliation DbId="254753" Type="47">Mr. Andy Fillmore (Halifax, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120099">Thank you.</ParaText>
+              <ParaText id="6120100">It's great to see a fellow Nova Scotian here. Thank you for being here, all of you. It's much appreciated.</ParaText>
+              <ParaText id="6120101"> I wanted to ask a question, first, to your group.</ParaText>
+              <ParaText id="6120102"> I understand that VAC has been reviewing the findings of VRAB—which I think is what you called yourself, if I can use that abbreviation—in an effort to understand how they can do better. VAC reports that its approval rate has increased by approximately 20%, which I think is a great outcome.</ParaText>
+              <ParaText id="6120103">I wanted to ask you, first of all, if you sense that change. Second of all, digging a little deeper on this, what do you see as the main reasons that the board is disagreeing with VAC? Could you talk to those two things, please?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="10" Mn="15">(1015)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10808620">
+            <PersonSpeaking>
+              <Affiliation DbId="260558" Type="28">Mr. Christopher McNeil</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120104"> First, yes, tinnitus is a classic example. For quite a bit of time, VAC had a narrow view of entitlement for tinnitus. The board had been essentially granting a broader view of the same guidelines. VAC has more recently indicated that they are taking that broader view.</ParaText>
+              <ParaText id="6120105">As I said earlier, the primary reason is evidence. We're in the evidentiary business. You have to recognize in a system where you're adjudicating claims and you're trying to get the most through, that some of these claims are just going to need a little more evidence.</ParaText>
+              <ParaText id="6120106">The other reason, primarily, is we have a much broader discretion. We have the power by legislation and a broader discretion than VAC adjudicators have to sometimes get over those gaps. We have evidentiary rules, we have the most favourable burden of proof on any piece of legislation in Canada and we have the advantage to make those rules work for veterans when they come before us. I think I would say those two reasons: evidence and we have a broader discretion.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10808639">
+            <PersonSpeaking>
+              <Affiliation DbId="260559" Type="28">Mr. Jacques Bouchard</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120107"> If I may, as well, unlike Veterans Affairs Canada, other than testimony, veterans have something that no other country has, which is the Bureau of Pensions Advocates. It represents them at their claims, and so they can centralize that argument for them a little bit more and get them to understand what the EEGs are, what they mean, how they fit within the table of disabilities, all of these issues. So, when it's presented to us, most often it's much more of a concise case, and it's the same for the Royal Canadian Legion.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808645">
+            <PersonSpeaking>
+              <Affiliation DbId="254753" Type="47">Mr. Andy Fillmore</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120108">Okay. Thank you.</ParaText>
+              <ParaText id="6120109">Just briefly, you mentioned something that you called the “boomerang effect”. I didn't quite get it. Can you just elaborate on that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10808649">
+            <PersonSpeaking>
+              <Affiliation DbId="260558" Type="28">Mr. Christopher McNeil</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120110">Yes, and Ray McInnis talked about it. </ParaText>
+              <ParaText id="6120111">At VAC, early in 2018, our legislation essentially allowed us to award entitlement on a full basis or on a partial basis. VAC reviewed those partial entitlements and realized that there was a huge subjectivity in it: there was no fairness in the system, and two veterans similarly situated could end up with two different amounts of disability. So they implemented a policy that essentially said that if you have partial entitlement, everybody will be awarded four-fifths or five-fifths. Obviously, that opened the door to a whole bunch of people who had been previously awarded at one-fifth, say, to come forward and say, “I want the benefit of the new, more favourable adjudicator”, and there's simply no provision needed on basic principles of fairness or in law to deny them that opportunity to bring it forward, and so all of those cases are coming back.</ParaText>
+              <ParaText id="6120112">On hearing loss and tinnitus, between us and VAC, I'd say in excess of about 95% has been awarded in the last year. There are a whole bunch of hearing loss cases out there. Hearing loss was much more restricted when I started five years ago, and you had a very difficult chance, unless you could establish something. So there is a group of veterans who are now bringing it forward and saying again that, “I want the benefit of that more favourable, more informed, updated policy”, and we must give them that opportunity.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808688">
+            <PersonSpeaking>
+              <Affiliation DbId="254753" Type="47">Mr. Andy Fillmore</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120113">Thank you. I'm glad to hear there's improvement on that front, on the tinnitus front.</ParaText>
+              <ParaText id="6120114">I'll turn to the transition group for a moment. First of all, I appreciate your work, and I see among the serving and veteran community that I represent that there is a lot of work and energy being placed on the transition where CAF leaves off and VAC picks up. There's a great deal of appreciation, I would say, in the community for that, and so thank you for that work.</ParaText>
+              <ParaText id="6120115">You mentioned strong, secure and engaged, and one of the goals of strong, secure and engaged is to make sure military members will only be released once all the benefits, including back benefits and accessibility to those benefits, are in place. I'm just wondering if you feel that goal has been achieved and how we're doing on that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10808720">
+            <PersonSpeaking>
+              <Affiliation DbId="260557" Type="28">BGen Mark Misener</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120116">Thanks very much for the question.</ParaText>
+              <ParaText id="6120117">I guess to answer directly, I think we're doing fairly well on it. Since we stood up the transition group, we've grown our capability in the organization. I've also been able to up-rank the rank of the commanding officers and, therefore, devolve more authority down to them. That's also allowed me to implement a protocol for readiness to transition. Right around the time we stood up, I've asked them all, I've directed them all, that before anybody gets out, they're going to do a transition interview directly with them and their sergeant major. </ParaText>
+              <ParaText id="6120118">Really what we're doing is working through it, in an interview, one-on-one or they can bring their family with them. We're working through the domains of well-being to assess their readiness to transition. I talked about professional, personalize, standardize, and on a very personal level, we're looking at each of their domains of well-being and assessing. Therefore, regardless of what happened before, sort of 90 to 100 days before they leave, we're looking at where they are, if they're ready for transition and, if not, if they need more time and what would they do with it.</ParaText>
+              <ParaText id="6120119"> Generally, it's to learn more about ourselves. It's to confirm that we've done a good job, and if not, it's also just to confirm if there's anything else we can do in a reasonably short amount of time to better prepare that member and the family to transition.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="10" Mn="20">(1020)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10808768">
+            <PersonSpeaking>
+              <Affiliation DbId="258561" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120120">Thank you very much. I have to cut you off there. I'm sorry.</ParaText>
+              <ParaText id="6120121">Up next for six minutes is MP Desilets. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="10808770">
+            <PersonSpeaking>
+              <Affiliation DbId="258563" Type="40">Mr. Luc Desilets</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120122">Thank you.</ParaText>
+              <ParaText id="6120123">A few weeks ago, I had the pleasure of attending the hearing of three cases at the Veterans Review and Appeal Board, in Quebec City. My questions will concern the board.</ParaText>
+              <ParaText id="6120124">Once the claim is submitted, how long does the process take, on average?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10808776">
+            <PersonSpeaking>
+              <Affiliation DbId="260559" Type="28">Mr. Jacques Bouchard</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120125">It takes approximately 16 weeks in total, from the registration of the case to the hearing and decision.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808780">
+            <PersonSpeaking>
+              <Affiliation DbId="258563" Type="40">Mr. Luc Desilets</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120126">Perfect.</ParaText>
+              <ParaText id="6120127">How long does it take from the time the board sits until the veteran receives a response?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10808790">
+            <PersonSpeaking>
+              <Affiliation DbId="260559" Type="28">Mr. Jacques Bouchard</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120128">This period is included in the 16 weeks. </ParaText>
+              <ParaText id="6120129">At the end of each hearing, we inform the veteran that they'll receive our decision in six to eight weeks. From time to time, there may be a small hitch. For example, we may need to clarify a point of law before we render our decision. However, most of the time, the period is six to eight weeks.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808796">
+            <PersonSpeaking>
+              <Affiliation DbId="258563" Type="40">Mr. Luc Desilets</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120130">How many board members are there in Quebec?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10808797">
+            <PersonSpeaking>
+              <Affiliation DbId="260559" Type="28">Mr. Jacques Bouchard</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120131">In Quebec, we have only one board member right now. However, our francophone or bilingual board members travel all over the place. In Quebec, we hold hearings two to three weeks a month now. It's one of our busiest positions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808803">
+            <PersonSpeaking>
+              <Affiliation DbId="258563" Type="40">Mr. Luc Desilets</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120132">How many board members are there in Canada?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10808804">
+            <PersonSpeaking>
+              <Affiliation DbId="260559" Type="28">Mr. Jacques Bouchard</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120133">In Canada, we have 16 board members right now. We've started a recruitment process aimed at hiring a few more board members by the end of June.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808806">
+            <PersonSpeaking>
+              <Affiliation DbId="258563" Type="40">Mr. Luc Desilets</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120134">Does the process take longer in Quebec because there's only one board member?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10808807">
+            <PersonSpeaking>
+              <Affiliation DbId="260559" Type="28">Mr. Jacques Bouchard</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120135">I would say no, but I'll qualify my answer.</ParaText>
+              <ParaText id="6120136">In 2018, the wait times may have been a little longer, because we didn't have as many board members who could process cases in Quebec. However, we hired a few more board members that year and we managed to get back on track, so to speak. Our cases in Quebec, which amount to about 37% of all the cases processed, are no longer really behind schedule in relation to the other cases.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808814">
+            <PersonSpeaking>
+              <Affiliation DbId="258563" Type="40">Mr. Luc Desilets</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120137">Okay. You spoke earlier of changing and shortening your process to more easily meet the demand. Can you explain how the process was shortened? What has been streamlined: the bureaucracy, the procedures, the documentation requirements?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10808822">
+            <PersonSpeaking>
+              <Affiliation DbId="260559" Type="28">Mr. Jacques Bouchard</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120138">We focused on the simplest cases, such as cases of tinnitus or hearing loss. Based on the department's new policies, which are more generous to veterans, we've grouped these cases together. This helps us make decisions much more quickly.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808832">
+            <PersonSpeaking>
+              <Affiliation DbId="258563" Type="40">Mr. Luc Desilets</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120139">I have another question. I'm surprised by the high rate of favourable decisions rendered by the board, which stands at 44%. Is the process followed by the department, before cases reach the board, too stringent? I understand the reasoning behind the tinnitus cases, which I'm not including here.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="10" Mn="25">(1025)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" id="10808843">
+            <PersonSpeaking>
+              <Affiliation DbId="260559" Type="28">Mr. Jacques Bouchard</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120140">I believe that Mr. McNeil already discussed this. First, unlike the department, we're able to hear the veterans' testimonies. Second, veterans can ask the Bureau of Pensions Advocates or the Royal Canadian Legion for help to learn exactly how the board works and how to prepare their cases for us. That's really the reason for this percentage.</ParaText>
+              <ParaText id="6120141">I don't think that we need to look for any other reason. It would be up to the minister to consider possible improvements. However, from our perspective, we're certainly prepared to accept more cases, because I think that we can process them. We're quite prepared to rule on any of the cases currently under review in the department.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808855">
+            <PersonSpeaking>
+              <Affiliation DbId="258563" Type="40">Mr. Luc Desilets</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120142">In your opinion, is this favourable rate of 44% high, normal, satisfactory?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10808862">
+            <PersonSpeaking>
+              <Affiliation DbId="260559" Type="28">Mr. Jacques Bouchard</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120143">Our current average rate is actually even higher. It stands at about 70%, if we include cases filed under the more favourable policies.</ParaText>
+              <ParaText id="6120144">I want to take this opportunity to thank you for being in Quebec City on February 14. I know that our members and veterans appreciated your visit.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808866">
+            <PersonSpeaking>
+              <Affiliation DbId="258563" Type="40">Mr. Luc Desilets</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120145">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10808869">
+            <PersonSpeaking>
+              <Affiliation DbId="258561" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120146"> MP Blaney, you have six minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808873">
+            <PersonSpeaking>
+              <Affiliation DbId="254771" Type="47">Ms. Rachel Blaney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120147">Thank you, Chair.</ParaText>
+              <ParaText id="6120148">I thank all of you so much for being here with us today. </ParaText>
+              <ParaText id="6120149">My first questions are for the Veterans Review and Appeal Board folks. Thank you for your presentation. I was really interested to hear some of the things you had to share. </ParaText>
+              <ParaText id="6120150">I'm just asking for a little clarity. I think you said that there were about 2,000 cases last year and it has grown significantly. I'm wondering if you could give us a sort of a picture of how much it has grown. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10808877">
+            <PersonSpeaking>
+              <Affiliation DbId="260558" Type="28">Mr. Christopher McNeil</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120151"> We are closing in on about 4,000 applications this year. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808878">
+            <PersonSpeaking>
+              <Affiliation DbId="254771" Type="47">Ms. Rachel Blaney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120152">It has, then, doubled, basically. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10808886">
+            <PersonSpeaking>
+              <Affiliation DbId="260558" Type="28">Mr. Christopher McNeil</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120153"> Yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808896">
+            <PersonSpeaking>
+              <Affiliation DbId="254771" Type="47">Ms. Rachel Blaney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120154">Okay. Thank you. </ParaText>
+              <ParaText id="6120155">You spoke also about being able to group together more common experiences and have people come together. I heard about the 71 cases in one day, which I think you said historically would have taken about four weeks to accomplish.</ParaText>
+              <ParaText id="6120156">I'm wondering how you are organizing this. I am assuming people are coming from different parts of the country. I don't know how that works. </ParaText>
+              <ParaText id="6120157">Could you just tell us a little bit about how you organize yourselves?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10808899">
+            <PersonSpeaking>
+              <Affiliation DbId="260558" Type="28">Mr. Christopher McNeil</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120158"> We have the advantage of having BPA, the Bureau of Pensions Advocates, and the Legion as partners. One thing we did early in our tenure was to start to have significantly more outreach to and collaboration with both of those organizations, coordinating with them to work more collaboratively in the interests of veterans. They know the types of claims that are coming.</ParaText>
+              <ParaText id="6120159">We set parameters, for example, on fractional entitlement cases that meet such-and-such criteria or hearing loss cases that meet such-and-such criteria. They require only simple arguments. In many cases, it's essentially a matter of saying, “That was the old system, this is the new system, and based on what we already know about the veteran, they meet these requirements.” We can thereby avoid a hearing, we can do these over written submissions and we can do them more quickly. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808908">
+            <PersonSpeaking>
+              <Affiliation DbId="254771" Type="47">Ms. Rachel Blaney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120160">Is 71 your highest number so far, or have you done more?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10808917">
+            <PersonSpeaking>
+              <Affiliation DbId="260558" Type="28">Mr. Christopher McNeil</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120161"> Well, I'm trying not to turn it into a competition. </ParaText>
+              <ParaText id="6120162">
+                <B>Some hon. members:</B> Oh, oh!</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808921">
+            <PersonSpeaking>
+              <Affiliation DbId="254771" Type="47">Ms. Rachel Blaney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120163">Well, that's very impressive. </ParaText>
+              <ParaText id="6120164">I don't know whether you have this information, but when you see folks who come through this process, do you on average have a sense of how long the veterans have been waiting through the VAC process to get this result?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10808924">
+            <PersonSpeaking>
+              <Affiliation DbId="260558" Type="28">Mr. Christopher McNeil</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120165"> It varies. We have claims that are years old and we are hearing of cases that were just decided by VAC last April, which is quite remarkable. During my earliest time here, you wouldn't have seen a case that was less than a year old. We know they're getting entitlement. How long they were in the VAC system, I can't speak to. </ParaText>
+              <ParaText id="6120166">We sometimes have to give the veteran the chance to express their frustration. We know the system is burdensome, we know it's difficult, and we know we don't always get it right, but we constantly urge veterans not to give up, to pursue their rights: “Come back, and we will do our best to get it right.” </ParaText>
+              <ParaText id="6120167">We certainly feel their frustration, but I also hear, in panels, of veterans who are grateful for the services they get from Veterans Affairs. The problem with it is that one veteran caught in a loop is one veteran too many, from my perspective, so we are doing our best to help that along where we can. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808926">
+            <PersonSpeaking>
+              <Affiliation DbId="254771" Type="47">Ms. Rachel Blaney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120168">Yes.</ParaText>
+              <ParaText id="6120169">We've heard from both the department and the ombudsperson that the backlog seems to be—well, it just is—even worse for women and francophone veterans. </ParaText>
+              <ParaText id="6120170">Are you, through your process, seeing something similar?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="10" Mn="30">(1030)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10808928">
+            <PersonSpeaking>
+              <Affiliation DbId="260558" Type="28">Mr. Christopher McNeil</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120171"> We certainly make no distinction concerning female veterans and their timelines. I will acknowledge that we hear from female veterans and from Dr. Breeck that this is just one of the 700 unique challenges that women face in the context of both getting medical services and having people appreciate how certain conditions affect them. We don't have a distinction in service time.</ParaText>
+              <ParaText id="6120172">Jack has already spoken to.... Right across the board we experience problems with servicing the same French claims. Now, fortunately for us the minister was supportive of our priorities to identify either “francophone” or “bilingual” as a priority category for new members, and we got some of those new members. </ParaText>
+              <ParaText id="6120173">Yeoman work by Jack and the simplified process have helped us out there as well. We have been able to catch up. It is a constant challenge, however, to make sure we have sufficient francophone resources to ensure that those veterans are treated in the same timeline. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808943">
+            <PersonSpeaking>
+              <Affiliation DbId="254771" Type="47">Ms. Rachel Blaney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120174">Thank you. That's really important.</ParaText>
+              <ParaText id="6120175">I'm going to use my last bit of question time to address the Canadian Armed Forces transition group. </ParaText>
+              <ParaText id="6120176">I'm always happy to see you here, especially in a blue uniform as the representative of 19 Wing. That's the group I am most used to spending time with. </ParaText>
+              <ParaText id="6120177">One thing I've heard from my veterans very clearly in the riding is that the transition is still a bit of a challenge. I am glad to hear that trying to figure out how to get that health component, after being released and then going to VAC, is getting a little bit better. </ParaText>
+              <ParaText id="6120178">Can you explain to the committee what some of the challenges are, from being released into getting over to VAC?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10808955">
+            <PersonSpeaking>
+              <Affiliation DbId="254433" Type="28">MGen A.M.T. Downes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120179"> First, I'd just like to clarify a point.</ParaText>
+              <ParaText id="6120180">We actually are represented here by two organizations. General Misener commands the transition group and I command the health system.</ParaText>
+              <ParaText id="6120181">
+                <B>Ms. Rachel Blaney:</B> Thank you for the clarity.</ParaText>
+              <ParaText id="6120182">
+                <B>MGen Andrew Downes:</B> But we work very closely together, both at the strategic level and at the base and wing levels.</ParaText>
+              <ParaText id="6120183">I'll answer on the health side and then ask General Misener to comment on the other elements.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808959">
+            <PersonSpeaking>
+              <Affiliation DbId="254771" Type="47">Ms. Rachel Blaney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120184">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10808962">
+            <PersonSpeaking>
+              <Affiliation DbId="254433" Type="28">MGen A.M.T. Downes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120185"> We certainly know that one of the challenges when people transition is accessing care in the provincial and territorial health systems. Many veterans retire in areas that are underserviced. Even in areas like Ottawa, some have difficulty finding physicians. That is a significant challenge on the medical side. We do have nurse case managers, who belong to our health system but work very closely with the transition group, who help to facilitate that process and help to make sure that, when people do transition out, that problem is resolved.</ParaText>
+              <ParaText id="6120186">General Misener, would you have anything you'd like to add on that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10808977">
+            <PersonSpeaking>
+              <Affiliation DbId="258561" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120187">Reply very briefly, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10808979">
+            <PersonSpeaking>
+              <Affiliation DbId="260557" Type="28">BGen Mark Misener</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120188">I guess I would add that, first, it's a bit of a culture shock, right? When you serve in the military, you're very mission focused, very focused on doing your job. The last thing in your mind is thinking about taking your uniform off. So part of it is an awareness and education thing, getting people to think about this much earlier in their career. We've tried to do that, identifying a domain's well-being and saying these are things they need to think about and this is how they think about it.</ParaText>
+              <ParaText id="6120189">But it's also then connecting them with the services and supports that are out there. That's why we're reinventing the transition experience. That's why we do it in partnership with Veterans Affairs and others, so that as they prepare, they get in contact with Veterans Affairs, they meet the other partners and they start to better understand their entitlements.</ParaText>
+              <ParaText id="6120190">The last thing we're also trying to improve is simplifying the administration and access to these things. That's why we've put so many things online, on apps, in books, so that it doesn't matter who you are, or your family or your support network, anybody can access this over the Internet—again, trying to make sure the information is out there to help members better prepare and think about this earlier.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10808999">
+            <PersonSpeaking>
+              <Affiliation DbId="254771" Type="47">Ms. Rachel Blaney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120191">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10809004">
+            <PersonSpeaking>
+              <Affiliation DbId="258561" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120192">Thank you very much, sir.</ParaText>
+              <ParaText id="6120193">Now we go over to MP Wagantall, please, for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10809012">
+            <PersonSpeaking>
+              <Affiliation DbId="257589" Type="47">Mrs. Cathay Wagantall</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120194">Thank you, Chair.</ParaText>
+              <ParaText id="6120195">First of all, I just need a little clarification on VRAB here.</ParaText>
+              <ParaText id="6120196">My understanding is that there have been updates to policy in regard to hearing and tinnitus so that it is a broader treatment right from the get-go. But did you say that those who want access to that updated policy need to come through you to be able to go back and get what is now available initially to new individuals applying for it?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="10" Mn="35">(1035)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" id="10809015">
+            <PersonSpeaking>
+              <Affiliation DbId="260558" Type="28">Mr. Christopher McNeil</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120197"> They have two avenues. If they've been before the board before and turned down, they have to come back to the board by law. Or they can apply for a departmental review.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10809019">
+            <PersonSpeaking>
+              <Affiliation DbId="257589" Type="47">Mrs. Cathay Wagantall</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120198">Just to get clarity, if they came to the board before, it was because there was no change to the policy yet?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10809024">
+            <PersonSpeaking>
+              <Affiliation DbId="260558" Type="28">Mr. Christopher McNeil</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120199"> These are people who already went under the old policy, which was much more restrictive.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10809047">
+            <PersonSpeaking>
+              <Affiliation DbId="257589" Type="47">Mrs. Cathay Wagantall</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120200">Right. I'm not quite understanding why, if you bring in a new policy, it only goes forward, when you have individuals it would clearly apply to. I don't want to take away work from you guys, but at the same time it doesn't make sense to me they would do that. That, to me, is an inefficiency.</ParaText>
+              <ParaText id="6120201">I have a quick question as well. You indicated it's about 16 weeks from when it's indicated they don't qualify to when they get in front of VRAB?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10809060">
+            <PersonSpeaking>
+              <Affiliation DbId="260558" Type="28">Mr. Christopher McNeil</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120202"> No, it is 16 weeks from the date they register and we register them for a hearing.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10809072">
+            <PersonSpeaking>
+              <Affiliation DbId="257589" Type="47">Mrs. Cathay Wagantall</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120203">And then in addition to that, it's another six to eight weeks before the decision—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10809081">
+            <PersonSpeaking>
+              <Affiliation DbId="260558" Type="28">Mr. Christopher McNeil</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120204"> No. The 16 weeks includes the date they registered for a hearing until they get their decision.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10809094">
+            <PersonSpeaking>
+              <Affiliation DbId="257589" Type="47">Mrs. Cathay Wagantall</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120205">Okay. Just knowing we're dealing—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10809114">
+            <PersonSpeaking>
+              <Affiliation DbId="260558" Type="28">Mr. Christopher McNeil</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120206"> Usually after a hearing it's six to eight weeks.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10809121">
+            <PersonSpeaking>
+              <Affiliation DbId="257589" Type="47">Mrs. Cathay Wagantall</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120207">Okay. So knowing the backlog is such a huge issue, this adds another portion of time to their processing. It's just the reality.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10809134">
+            <PersonSpeaking>
+              <Affiliation DbId="260558" Type="28">Mr. Christopher McNeil</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120208"> It's the reality. That's why we have worked toward trying to find more simplified processes to move a lot of these through faster.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10809136">
+            <PersonSpeaking>
+              <Affiliation DbId="257589" Type="47">Mrs. Cathay Wagantall</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120209">So when you're looking for more simplified processes to move them through, I understand VRAB is independent, and then there is VAC. How often do you communicate back and forth and say, “You know, we're seeing <I>x</I> number of cases on this and, really, it should be dealt with in a much more simplistic way before it comes to...? Or it needs to go before VRAB for some kind of improvements”?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10809141">
+            <PersonSpeaking>
+              <Affiliation DbId="260558" Type="28">Mr. Christopher McNeil</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120210"> It is always a challenge when you sit as an independent person. I come out of the criminal justice system. I spent my life in a system that has unique parts and everybody has an independent role, but it is a system. I firmly believe that the system is only as good as its weakest link. </ParaText>
+              <ParaText id="6120211">We have worked very collaboratively with VAC, particularly the Bureau of Pensions Advocates, as well as the Legion so that we're not creating unnecessary delays. We're looking at these policies and trying our best to make it consistent. If veterans believe they have consistent treatment, my experience is that they accept that. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10809149">
+            <PersonSpeaking>
+              <Affiliation DbId="257589" Type="47">Mrs. Cathay Wagantall</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120212">Thank you.</ParaText>
+              <ParaText id="6120213">I have one question with regard to the transition. I'm really glad to see this taking place. Is this a test project right now or is this across the board? </ParaText>
+              <ParaText id="6120214">Just quickly, as I have one more question.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10809160">
+            <PersonSpeaking>
+              <Affiliation DbId="260557" Type="28">BGen Mark Misener</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120215"> Right now it's in its infancy. It really just got stood up a little over a year ago. We're implementing as many things as we can for the people who are posted to my organization. They are really the complex ill and injured members. We have put a number of things in place across the Canadian Armed Forces. There is, for example, an initial transition process to start again and to raise awareness and education, so that everyone can benefit from this.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10809166">
+            <PersonSpeaking>
+              <Affiliation DbId="257589" Type="47">Mrs. Cathay Wagantall</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120216">Okay, thank you.</ParaText>
+              <ParaText id="6120217">Here it says, “military members now being released only once benefits, including VAC disability benefits, are in place.” What does “being released” mean? Does that mean you are no longer employed? You're employed and you're receiving pay until this moment when you're released?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10809172">
+            <PersonSpeaking>
+              <Affiliation DbId="260557" Type="28">BGen Mark Misener</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120218"> Correct. “Released” means you are no longer part of the Canadian Armed Forces—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10809175">
+            <PersonSpeaking>
+              <Affiliation DbId="257589" Type="47">Mrs. Cathay Wagantall</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120219">And everything is in place.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10809180">
+            <PersonSpeaking>
+              <Affiliation DbId="260557" Type="28">BGen Mark Misener</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120220"> Yes. That's what we're working toward. It's an ambitious goal, especially when we talk about the challenges with the backlog. </ParaText>
+              <ParaText id="6120221">As we reinvent the transition process, which is what we're doing at the transition trial in Borden, we're trying to get after that, so that we start that conversation much earlier. We start the application process much earlier.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10809185">
+            <PersonSpeaking>
+              <Affiliation DbId="257589" Type="47">Mrs. Cathay Wagantall</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120222">Is there feedback? </ParaText>
+              <ParaText id="6120223">How many have you actually processed in this project to where they're now fully released? Have they given feedback? What kind of communication do you have after the fact?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10809189">
+            <PersonSpeaking>
+              <Affiliation DbId="260557" Type="28">BGen Mark Misener</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120224"> I don't have the exact number. It's over 100 people. </ParaText>
+              <ParaText id="6120225">The key is the feedback. We are working with those people through the transition process, but time has to go on. We have to allow that to happen to get that feedback. That has not happened yet because the transition trial only went live in February. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="10" Mn="40">(1040)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="10809194">
+            <PersonSpeaking>
+              <Affiliation DbId="257589" Type="47">Mrs. Cathay Wagantall</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120226">Would there be an opportunity then, once you get to that place where you have all of that, for this committee to get a copy of your findings?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10809198">
+            <PersonSpeaking>
+              <Affiliation DbId="260557" Type="28">BGen Mark Misener</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120227"> Absolutely. That can be shared. We regularly do updates on where we are in that transition trial process.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10809201">
+            <PersonSpeaking>
+              <Affiliation DbId="257589" Type="47">Mrs. Cathay Wagantall</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120228">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10809204">
+            <PersonSpeaking>
+              <Affiliation DbId="258561" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120229">For the last five minutes, we have MP Lalonde. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="10809210">
+            <PersonSpeaking>
+              <Affiliation DbId="254754" Type="47">Mrs. Marie-France Lalonde (Orléans, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120230">Thank you, Mr. Chair.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="6120231">As the member for Orléans and having a few military and veterans, I want to say thank you for being here. Thank you also to all of the people who serve. It's always an honour for me to meet with you.</ParaText>
+              <ParaText id="6120232">A lot of questions were asked, but I wanted to leave a little more of an open floor to you. We are talking about backlog. We're hearing some, I would say, fairly positive stories about the work you are doing. Are there any recommendations or things you would like to share with us—both of you, from both organizations—in terms of how we can help the Government of Canada and Veterans Affairs, particularly on the issues of backlog? </ParaText>
+              <ParaText id="6120233">I heard that there was an influx of military being discharged in a very short time and then we have all these new programs. We have a new direction from all of you. I want to leave the floor open actually. Tell us what we can do. What would you recommend?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10809214">
+            <PersonSpeaking>
+              <Affiliation DbId="260558" Type="28">Mr. Christopher McNeil</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120234"> My own disclosure is that I come from a municipal environment. If there's one thing I've learned about the federal bureaucracy, in a problem like this it's like squeezing a stress ball. Even in our own organization we do this—it's like squeezing. You put this pressure on and something pops out where you didn't quite expect it. That's the impact of these positive changes that are being done and with getting more information.</ParaText>
+              <ParaText id="6120235">We go out and tell veterans not to wait if they have a bad knee. We tell them to apply now because 10 years from now they don't know where their colleagues are going to be. This is an evidentiary process. </ParaText>
+              <ParaText id="6120236">All we can offer is.... We have a very small piece of the pie. We think there's an opportunity for us to help with those departmental reviews if we can convince veterans of two things: We will give them the same result and outcome they can consistently get from Veterans Affairs, and we can do it faster. </ParaText>
+              <ParaText id="6120237">If we can take those 4,000 and do something to move those off the pile, I'll leave it to those more deeply involved in it to tell me how to deal with the other 40,000. We think we have a small piece of the pie and we think if we can continue to get better at what we do, we can help with that problem. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="10809219">
+            <PersonSpeaking>
+              <Affiliation DbId="254754" Type="47">Mrs. Marie-France Lalonde</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120238"> Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10809227">
+            <PersonSpeaking>
+              <Affiliation DbId="254433" Type="28">MGen A.M.T. Downes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120239"> Thank you for the question. I'm not accustomed to having open-ended types of responses.</ParaText>
+              <ParaText id="6120240">I don't know if I have a really smart answer to that, but I would say a couple of things. Firstly, I really thank you all for your interest in the health and well-being of Canadian Forces members and veterans. I would ask that this interest continue. I would not like to see the day that the Government of Canada loses interest in this important group of people.</ParaText>
+              <ParaText id="6120241">The second thing I would say is that we're always trying to be better. We're bringing in lots of new things and sometimes I feel there may be pressure to bring in a lot more than we can handle, and I find we're still implementing something when the new thing is coming. So I would ask that people be understanding of that, realize that it takes time to implement new programs and services. I would rather implement something right, get it in place, before we start having the next thing and perhaps don't fully implement the first initiative.</ParaText>
+              <ParaText id="6120242">Do you have anything you'd like to add?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10809255">
+            <PersonSpeaking>
+              <Affiliation DbId="260557" Type="28">BGen Mark Misener</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120243"> Yes. Thanks again for the opportunity.</ParaText>
+              <ParaText id="6120244">I guess I would say I think it's ongoing, but it's that continuous collaboration.</ParaText>
+              <ParaText id="6120245">When it comes to transition, we have a fairly robust governance structure set up with Veterans Affairs called the joint steering committee. In that, we have the seamless transition task force that has implementation teams below it. These are joint teams where we sit together, work together very closely, whether we're trying to improve something or introduce something, and I think that's key. It's back to what General Downes said: Avoid the unintended consequences. Make sure that, because there are two departments doing different things, when one side is envisioning doing something, the other side is well aware and mitigates those unintended consequences, and vice versa.</ParaText>
+              <ParaText id="6120246">I guess the last thing is that close collaboration continuously improves. There's a lot of work going on in Veterans Affairs and with us in the digitization realm. It's trying to be smart, smart in how we bring this to bear; and again it's what General Downes says, getting something right before we move on to the next thing.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="10" Mn="45">(1045)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="10809283">
+            <PersonSpeaking>
+              <Affiliation DbId="254754" Type="47">Mrs. Marie-France Lalonde</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120247">Do I have a little more time?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10809287">
+            <PersonSpeaking>
+              <Affiliation DbId="258561" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120248">I'm sorry, no.</ParaText>
+              <ParaText id="6120249">First of all, thank you all very much for being here to help contribute to this study. I certainly learned a great deal about the work that you're doing, and I thank you for this. I'm very excited to hear some of the results. </ParaText>
+              <ParaText id="6120250">There was an exchange about sharing a report. Do you have a sense of when that would be available, or is there a reporting time?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="10809302">
+            <PersonSpeaking>
+              <Affiliation DbId="260557" Type="28">BGen Mark Misener</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120251"> I'll get back to you on that when it will be available.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="10809307">
+            <PersonSpeaking>
+              <Affiliation DbId="258561" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="6120252">That's great. Thank you very much.</ParaText>
+              <ParaText id="6120253">Thank you to all of my colleagues for making today possible and, of course, always to the folks in the booth and the people behind who make sure that these meetings run smoothly. Otherwise, we'd be in a lot of trouble.</ParaText>
+              <ParaText id="6120254">We are adjourned, folks.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>
