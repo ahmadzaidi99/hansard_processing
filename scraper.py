@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import os
 
+
 def committee_meeting_pages(sessions):
     page = requests.get('https://www.ourcommons.ca/Committees/en/Home')
     committees_soup = BeautifulSoup(page.content, 'html5lib')
@@ -53,4 +54,4 @@ def populate_xmls(sessions):
         for evidence_link in evidence_links:
             get_xml(evidence_link)
 
-populate_xmls(['41-1', '41-2', '42-1', '43-1'])
+populate_xmls(['42-1', '43-1', '42-2'])
